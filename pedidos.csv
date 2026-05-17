@@ -1,0 +1,3051 @@
+id_pedido,fecha,hora,distrito,categoria_restaurante,monto_soles,tiempo_entrega_min,calificacion
+1518,2025-10-24,23,San Borja,Comida rápida,30.91,30.0,4.0
+2370,2025-12-25,12,San Isidro,Postres,21.25,33.0,5.0
+1962,2025-09-22,11,Surco,Criolla,21.24,30.0,
+344,2025-08-07,9,La Molina,Criolla,35.12,40.0,4.0
+2664,2026-02-19,12,Miraflores,Comida rápida,17.72,36.0,5.0
+1174,2025-10-01,13,La Molina,Postres,18.07,46.0,2.0
+2677,2026-01-16,20,San Borja,Saludable,55.49,51.0,4.0
+1028,2025-06-04,12,Miraflores,Criolla,33.83,26.0,4.0
+2084,2025-10-08,20,San Isidro,Postres,34.87,35.0,4.0
+1445,2025-05-25,19,Miraflores,Comida rápida,33.93,30.0,4.0
+933,2025-06-11,14,San Isidro,Pizza,63.7,26.0,5.0
+179,2025-12-19,16,Surco,Criolla,39.67,26.0,
+1594,2025-11-11,22,Surco,Comida rápida,30.14,34.0,4.0
+1948,2026-03-30,20,Miraflores,Comida rápida,34.82,38.0,
+1663,2025-07-21,14,Miraflores,Pizza,81.53,37.0,3.0
+2432,2025-05-05,12,Surco,Criolla,62.09,48.0,3.0
+2863,2025-05-07,20,Surco,Criolla,53.99,58.0,2.0
+2343,2026-01-27,18,Miraflores,Comida rápida,27.29,29.0,3.0
+1498,2026-01-02,11,San Isidro,Criolla,44.54,42.0,3.0
+2967,2025-05-08,12,Surco,Criolla,50.49,39.0,3.0
+2414,2026-02-12,19,Surco,Criolla,62.71,45.0,3.0
+2808,2025-06-18,8,San Borja,Pizza,46.29,32.0,4.0
+1284,2025-09-24,19,San Borja,Postres,16.89,,4.0
+2869,2025-09-25,21,La Molina,Pizza,67.4,49.0,3.0
+890,2026-04-30,12,Miraflores,Comida rápida,40.22,33.0,4.0
+1460,2026-01-25,18,San Isidro,Criolla,49.02,30.0,4.0
+652,2025-11-07,7,San Borja,Criolla,58.89,37.0,4.0
+1437,2025-12-02,18,Miraflores,Pizza,23.74,30.0,5.0
+555,2025-05-13,18,Miraflores,Comida rápida,22.22,31.0,5.0
+2264,2025-06-11,12,San Borja,Pizza,57.33,33.0,5.0
+440,2025-08-25,20,San Borja,Comida rápida,44.17,28.0,4.0
+2568,2025-09-15,19,San Borja,Pizza,67.43,37.0,3.0
+1042,2026-02-15,23,Miraflores,Comida rápida,28.74,24.0,5.0
+1227,2025-05-19,12,Surco,Criolla,56.49,41.0,3.0
+189,2025-10-19,18,San Isidro,Postres,22.48,46.0,2.0
+1780,2026-01-28,19,Miraflores,Criolla,38.44,,3.0
+496,2026-03-21,13,La Molina,Postres,15.56,53.0,2.0
+791,2026-02-18,19,San Borja,Saludable,46.34,32.0,3.0
+573,2026-02-08,13,La Molina,Criolla,40.3,57.0,2.0
+2191,2025-07-23,12,Miraflores,Criolla,29.46,,5.0
+1711,2025-11-20,18,Miraflores,Saludable,52.91,22.0,5.0
+832,2026-02-05,20,Miraflores,Pizza,34.5,31.0,4.0
+430,2025-10-05,21,Surco,Postres,19.98,26.0,4.0
+2620,2025-08-27,11,La Molina,Comida rápida,35.42,,4.0
+2008,2025-05-20,12,San Isidro,Criolla,57.49,36.0,4.0
+569,2025-08-08,13,La Molina,Saludable,58.35,56.0,
+103,2025-09-16,19,Miraflores,Pizza,45.41,33.0,3.0
+1584,2026-03-25,11,San Isidro,Criolla,28.91,32.0,5.0
+2287,2025-12-16,13,Miraflores,Criolla,45.38,26.0,4.0
+2013,2025-06-04,19,Surco,Pizza,37.38,26.0,5.0
+2663,2025-05-30,16,Miraflores,Pizza,44.71,30.0,4.0
+2824,2026-02-21,13,San Borja,Comida rápida,35.53,38.0,4.0
+1180,2025-07-14,4,San Borja,Comida rápida,38.52,33.0,5.0
+52,2025-12-28,19,San Isidro,Saludable,55.73,35.0,5.0
+508,2025-06-02,22,Miraflores,Pizza,74.58,32.0,5.0
+1018,2025-06-07,19,San Borja,Comida rápida,37.77,38.0,4.0
+1092,2025-05-05,14,Surco,Pizza,58.9,28.0,4.0
+64,2025-05-02,12,Surco,Comida rápida,36.59,46.0,3.0
+945,2026-02-01,11,San Isidro,Postres,24.16,55.0,3.0
+2376,2025-10-05,20,Miraflores,Pizza,52.59,41.0,3.0
+45,2025-05-21,13,San Borja,Criolla,46.4,28.0,3.0
+2708,2025-11-02,3,Miraflores,Criolla,58.39,25.0,
+1511,2026-01-27,18,Miraflores,Saludable,47.61,41.0,3.0
+255,2025-09-28,20,Miraflores,Criolla,47.08,41.0,3.0
+322,2026-02-08,1,Miraflores,Postres,37.18,38.0,4.0
+2805,2025-07-08,12,Surco,Criolla,46.35,26.0,4.0
+2938,2025-09-20,13,La Molina,Pizza,26.2,67.0,3.0
+706,2025-12-06,12,Surco,Saludable,64.1,35.0,4.0
+2271,2026-04-18,19,San Borja,Comida rápida,37.64,47.0,3.0
+2125,2025-05-03,1,Surco,Saludable,46.74,,3.0
+2862,2025-10-25,13,Surco,Saludable,28.16,43.0,4.0
+2590,2025-10-11,14,San Isidro,Comida rápida,26.37,16.0,4.0
+810,2025-10-31,19,San Isidro,Comida rápida,31.44,28.0,4.0
+1452,2025-06-16,10,Miraflores,Criolla,45.96,25.0,5.0
+140,2026-04-17,12,Surco,Postres,21.6,46.0,4.0
+2575,2026-01-11,19,Surco,Comida rápida,26.85,44.0,2.0
+582,2025-06-22,12,San Borja,Comida rápida,24.42,35.0,4.0
+2606,2025-09-30,20,San Isidro,Comida rápida,24.39,31.0,3.0
+810,2025-10-31,19,San Isidro,Comida rápida,31.44,28.0,4.0
+2592,2026-04-12,21,Miraflores,Criolla,54.06,19.0,4.0
+1823,2026-04-18,0,San Isidro,Comida rápida,35.59,40.0,5.0
+1476,2025-08-16,20,Surco,Postres,16.0,45.0,4.0
+1892,2025-09-27,18,Surco,Comida rápida,20.8,35.0,5.0
+1428,2026-03-01,13,La Molina,Comida rápida,30.73,49.0,2.0
+2586,2025-11-06,19,Surco,Criolla,57.13,43.0,3.0
+135,2025-05-15,19,San Borja,Postres,18.96,46.0,2.0
+742,2025-05-06,22,Miraflores,Comida rápida,31.21,28.0,5.0
+965,2025-05-06,13,Surco,Criolla,43.21,41.0,3.0
+150,2025-05-29,19,Miraflores,Pizza,53.97,46.0,
+241,2025-09-25,11,San Isidro,Comida rápida,35.89,23.0,
+1767,2025-05-27,3,Surco,Comida rápida,28.76,48.0,4.0
+1897,2025-06-28,11,Surco,Postres,23.81,33.0,4.0
+2322,2025-05-03,19,La Molina,Criolla,52.79,68.0,2.0
+175,2025-12-11,23,San Borja,Comida rápida,21.4,38.0,4.0
+53,2026-01-20,13,Miraflores,Criolla,54.66,31.0,3.0
+1147,2026-03-24,13,Surco,Saludable,38.55,35.0,4.0
+145,2025-12-08,11,San Borja,Criolla,48.39,30.0,5.0
+332,2025-12-06,3,La Molina,Comida rápida,28.42,64.0,1.0
+247,2025-11-15,21,La Molina,Comida rápida,36.05,51.0,2.0
+1972,2026-02-11,18,Miraflores,Saludable,55.89,18.0,5.0
+2485,2025-05-13,9,Surco,Saludable,30.19,36.0,4.0
+1621,2025-11-02,13,Surco,Saludable,25.13,33.0,4.0
+558,2026-04-20,5,La Molina,Saludable,45.53,56.0,1.0
+252,2026-04-25,19,Surco,Comida rápida,28.94,53.0,2.0
+1117,2026-02-16,19,La Molina,Criolla,38.34,35.0,4.0
+1878,2025-09-24,19,San Isidro,Pizza,55.5,43.0,3.0
+2523,2025-05-29,13,La Molina,Criolla,38.09,65.0,1.0
+212,2025-12-10,20,Miraflores,Comida rápida,33.43,30.0,5.0
+1,2025-08-11,20,La Molina,Comida rápida,36.88,46.0,3.0
+1477,2025-11-04,17,San Borja,Comida rápida,25.17,27.0,5.0
+1554,2026-03-26,19,San Borja,Saludable,36.49,31.0,5.0
+1296,2025-08-27,21,Miraflores,Postres,21.55,21.0,5.0
+566,2025-11-03,2,La Molina,Postres,15.18,52.0,2.0
+1235,2025-12-08,11,San Isidro,Criolla,32.28,20.0,5.0
+1625,2026-04-19,12,Surco,Saludable,33.36,37.0,3.0
+2915,2025-07-05,4,La Molina,Saludable,50.02,39.0,5.0
+790,2025-12-12,23,Surco,Criolla,68.74,28.0,5.0
+813,2026-04-05,17,Surco,Criolla,47.04,43.0,3.0
+267,2025-09-17,14,Surco,Saludable,41.01,39.0,4.0
+2798,2025-11-14,12,San Borja,Criolla,34.29,40.0,4.0
+323,2026-03-13,11,Miraflores,Pizza,65.12,17.0,5.0
+33,2025-11-04,11,Miraflores,Pizza,38.8,26.0,4.0
+371,2026-01-01,18,San Isidro,Criolla,88.53,23.0,5.0
+2464,2025-08-24,13,Miraflores,Pizza,69.31,45.0,3.0
+15,2025-09-29,13,La Molina,Pizza,49.42,57.0,3.0
+94,2026-02-25,21,San Isidro,Pizza,46.44,24.0,4.0
+2758,2025-10-20,19,San Isidro,Comida rápida,37.94,36.0,3.0
+880,2025-10-27,2,La Molina,Saludable,28.25,48.0,4.0
+643,2025-12-06,11,Miraflores,Postres,29.15,46.0,
+2098,2025-05-19,19,Miraflores,Comida rápida,45.42,36.0,4.0
+1603,2025-09-01,5,San Borja,Saludable,30.76,14.0,5.0
+1107,2026-01-16,20,Miraflores,Postres,18.47,36.0,5.0
+757,2025-06-20,20,San Isidro,Comida rápida,43.47,33.0,4.0
+1076,2025-10-26,11,Miraflores,Comida rápida,38.48,21.0,5.0
+431,2025-09-24,12,San Isidro,Comida rápida,31.69,38.0,4.0
+451,2025-09-03,14,Miraflores,Comida rápida,29.58,36.0,5.0
+2003,2025-08-16,13,San Borja,Saludable,40.04,55.0,3.0
+1838,2025-09-20,18,San Borja,Comida rápida,17.96,40.0,4.0
+1689,2025-06-29,14,Miraflores,Pizza,73.49,17.0,5.0
+692,2025-07-29,20,Surco,Comida rápida,28.41,44.0,2.0
+2638,2025-09-27,13,San Isidro,Pizza,65.94,33.0,4.0
+1850,2025-11-20,19,San Isidro,Comida rápida,36.38,23.0,5.0
+1430,2026-03-26,12,San Isidro,Saludable,40.26,35.0,5.0
+760,2026-01-15,11,Surco,Pizza,73.65,38.0,3.0
+185,2025-10-12,19,Miraflores,Saludable,29.15,43.0,2.0
+1236,2025-10-13,19,San Isidro,Criolla,53.78,41.0,4.0
+204,2025-07-20,16,Surco,Pizza,59.6,47.0,3.0
+802,2025-05-30,13,Miraflores,Criolla,35.01,27.0,5.0
+464,2025-10-01,16,Surco,Pizza,59.78,29.0,5.0
+1424,2025-05-12,11,Miraflores,Criolla,74.43,33.0,
+1178,2025-05-25,20,Surco,Pizza,64.64,34.0,3.0
+2415,2025-09-05,14,San Isidro,Criolla,54.31,23.0,4.0
+840,2025-08-30,13,Miraflores,Comida rápida,33.72,,4.0
+1396,2026-01-05,14,Surco,Pizza,48.22,43.0,
+2555,2025-12-18,12,Surco,Criolla,63.33,45.0,2.0
+2870,2025-09-20,9,San Borja,Comida rápida,31.43,27.0,3.0
+1914,2026-04-29,12,Surco,Criolla,22.4,,4.0
+2820,2026-02-04,11,Surco,Comida rápida,27.75,45.0,3.0
+195,2025-10-27,20,Surco,Comida rápida,16.46,43.0,3.0
+529,2025-08-01,22,Surco,Saludable,37.01,30.0,4.0
+2526,2025-12-28,18,Miraflores,Pizza,53.9,25.0,4.0
+1211,2025-11-05,14,La Molina,Postres,15.5,42.0,3.0
+1810,2025-07-27,10,Surco,Saludable,55.32,34.0,4.0
+333,2025-10-05,13,San Isidro,Saludable,44.3,37.0,5.0
+2114,2026-03-12,22,San Isidro,Postres,22.68,22.0,5.0
+864,2025-11-30,21,La Molina,Criolla,40.6,40.0,3.0
+2345,2025-12-12,19,La Molina,Pizza,63.88,38.0,4.0
+1816,2026-03-06,14,San Borja,Comida rápida,26.55,25.0,
+865,2025-12-25,12,San Isidro,Comida rápida,35.47,40.0,3.0
+2224,2025-11-18,12,Miraflores,Criolla,38.78,22.0,5.0
+1053,2025-07-28,17,Miraflores,Criolla,40.84,33.0,5.0
+696,2025-10-25,19,San Borja,Pizza,46.36,31.0,
+1656,2026-01-04,7,Miraflores,Comida rápida,31.64,28.0,4.0
+1939,2025-12-11,14,Surco,Criolla,47.23,46.0,4.0
+46,2026-03-25,11,Miraflores,Saludable,33.84,20.0,5.0
+2168,2026-02-15,14,Miraflores,Postres,28.02,29.0,3.0
+545,2025-08-07,19,Miraflores,Saludable,34.98,26.0,3.0
+1426,2025-08-09,21,Miraflores,Pizza,44.34,25.0,5.0
+2169,2025-09-13,20,Miraflores,Pizza,49.31,29.0,4.0
+417,2025-08-11,14,Miraflores,Criolla,45.56,40.0,3.0
+1815,2025-07-19,9,Surco,Criolla,52.8,32.0,3.0
+1925,2025-07-05,22,Surco,Comida rápida,21.35,40.0,4.0
+2080,2025-12-06,12,La Molina,Saludable,46.54,43.0,2.0
+193,2025-08-04,12,San Isidro,Comida rápida,42.6,44.0,4.0
+2910,2025-05-05,12,La Molina,Comida rápida,32.16,47.0,3.0
+2918,2025-09-21,14,San Isidro,Saludable,27.88,45.0,4.0
+315,2026-01-19,12,Miraflores,Postres,23.07,35.0,4.0
+479,2026-02-13,12,San Borja,Pizza,49.66,38.0,4.0
+2365,2026-04-07,13,Miraflores,Comida rápida,35.91,21.0,5.0
+355,2025-12-09,11,Surco,Saludable,43.5,,3.0
+300,2026-02-13,20,Surco,Pizza,66.12,49.0,2.0
+1507,2026-03-14,17,San Isidro,Comida rápida,34.81,23.0,5.0
+1365,2025-08-30,13,La Molina,Comida rápida,36.05,66.0,1.0
+1243,2026-02-12,18,San Isidro,Pizza,35.94,37.0,4.0
+2468,2025-05-07,13,Miraflores,Saludable,54.26,35.0,3.0
+728,2025-10-24,13,Surco,Comida rápida,23.89,26.0,4.0
+2349,2025-08-22,22,San Isidro,Pizza,87.08,33.0,4.0
+1085,2025-08-05,20,San Borja,Saludable,53.37,31.0,4.0
+730,2026-04-06,12,Surco,Postres,17.3,36.0,4.0
+1955,2025-08-19,12,Miraflores,Saludable,36.54,45.0,2.0
+2879,2025-07-08,20,San Isidro,Pizza,54.59,34.0,3.0
+843,2025-05-05,19,San Isidro,Pizza,43.87,30.0,4.0
+2346,2025-09-19,12,San Borja,Saludable,30.36,39.0,3.0
+433,2025-08-28,13,San Isidro,Saludable,40.33,36.0,4.0
+2571,2025-12-06,13,Miraflores,Saludable,31.44,16.0,5.0
+1358,2025-10-15,13,San Isidro,Pizza,58.77,32.0,5.0
+176,2026-02-07,13,Miraflores,Comida rápida,42.77,33.0,4.0
+257,2025-08-07,14,San Borja,Saludable,51.03,23.0,4.0
+2119,2025-08-10,21,Surco,Saludable,54.69,36.0,5.0
+2404,2026-03-06,13,San Isidro,Postres,21.08,37.0,3.0
+444,2025-09-06,11,La Molina,Pizza,27.13,40.0,5.0
+1337,2026-03-22,13,Miraflores,Saludable,33.19,38.0,4.0
+2152,2026-02-05,22,Miraflores,Comida rápida,35.86,22.0,5.0
+2298,2025-10-19,5,San Isidro,Comida rápida,41.01,38.0,5.0
+1840,2026-03-01,11,Surco,Criolla,44.15,30.0,3.0
+2794,2025-08-21,13,La Molina,Pizza,59.69,66.0,1.0
+2773,2026-02-25,21,Surco,Comida rápida,31.42,37.0,5.0
+2770,2026-02-27,5,San Isidro,Pizza,70.36,23.0,
+2595,2025-10-28,14,San Isidro,Comida rápida,16.91,23.0,5.0
+2323,2025-09-21,19,Surco,Saludable,59.93,37.0,4.0
+2300,2025-08-10,20,San Borja,Pizza,65.56,47.0,2.0
+197,2026-03-14,3,Miraflores,Postres,39.18,20.0,5.0
+1910,2025-05-24,19,Miraflores,Comida rápida,38.54,33.0,4.0
+171,2025-09-05,14,Surco,Pizza,47.6,16.0,5.0
+299,2025-07-07,11,San Borja,Postres,26.76,36.0,4.0
+2827,2026-03-12,13,Surco,Postres,19.99,49.0,3.0
+89,2026-01-07,13,San Borja,Saludable,33.18,50.0,4.0
+1481,2026-02-17,20,Miraflores,Pizza,59.4,41.0,4.0
+830,2026-04-25,13,Surco,Criolla,38.88,42.0,2.0
+271,2025-12-19,23,Surco,Postres,26.02,43.0,3.0
+2923,2026-04-09,4,Surco,Postres,29.41,38.0,4.0
+1048,2025-07-01,13,Surco,Pizza,47.83,50.0,4.0
+811,2026-03-26,18,Miraflores,Criolla,43.83,27.0,3.0
+651,2025-11-06,11,San Isidro,Comida rápida,33.74,40.0,
+1115,2025-08-23,14,Miraflores,Postres,19.95,28.0,4.0
+2636,2026-01-11,21,San Isidro,Pizza,73.53,28.0,4.0
+1238,2025-09-09,11,Surco,Postres,29.74,40.0,3.0
+153,2025-10-07,22,San Borja,Pizza,60.68,11.0,5.0
+1741,2025-05-21,12,Surco,Comida rápida,58.27,32.0,3.0
+2286,2026-01-19,20,La Molina,Criolla,42.93,60.0,1.0
+1658,2025-05-23,11,San Isidro,Criolla,53.15,50.0,3.0
+1411,2025-12-03,11,Miraflores,Comida rápida,35.64,33.0,4.0
+290,2025-09-30,20,Miraflores,Comida rápida,32.04,43.0,3.0
+1818,2025-07-31,11,Miraflores,Criolla,59.35,26.0,5.0
+2935,2025-10-01,5,Surco,Saludable,41.51,35.0,3.0
+1269,2025-07-27,18,San Borja,Saludable,66.17,50.0,2.0
+2789,2025-06-30,15,Miraflores,Comida rápida,45.46,37.0,4.0
+2105,2026-04-09,19,Miraflores,Comida rápida,37.59,23.0,5.0
+450,2025-08-04,13,Miraflores,Criolla,41.86,43.0,4.0
+1967,2025-12-15,18,Miraflores,Pizza,70.59,33.0,4.0
+931,2025-12-22,18,Surco,Criolla,27.48,34.0,4.0
+258,2026-01-18,12,San Isidro,Criolla,14.79,50.0,3.0
+1217,2025-09-18,19,Miraflores,Criolla,54.16,,4.0
+1622,2026-03-19,19,Miraflores,Saludable,47.31,22.0,5.0
+683,2026-03-26,19,San Isidro,Saludable,57.66,46.0,4.0
+2229,2025-07-08,18,San Borja,Saludable,56.13,30.0,3.0
+2442,2025-09-26,14,Miraflores,Pizza,61.32,34.0,4.0
+1715,2025-05-07,20,Miraflores,Criolla,56.25,39.0,3.0
+68,2026-03-06,12,La Molina,Comida rápida,24.12,47.0,4.0
+1456,2025-11-15,11,Miraflores,Saludable,51.08,21.0,4.0
+2583,2025-10-16,13,San Borja,Pizza,65.87,49.0,3.0
+2448,2026-01-07,12,San Borja,Comida rápida,39.81,32.0,4.0
+2769,2026-01-06,13,Miraflores,Criolla,56.38,31.0,4.0
+1641,2026-01-24,21,Miraflores,Pizza,26.8,28.0,4.0
+1100,2025-12-14,17,La Molina,Saludable,38.46,51.0,3.0
+737,2025-10-24,13,La Molina,Pizza,62.06,42.0,4.0
+512,2026-03-19,14,San Isidro,Saludable,29.13,36.0,5.0
+1872,2025-07-26,19,Surco,Criolla,52.3,37.0,4.0
+424,2026-03-07,20,Miraflores,Saludable,46.33,43.0,3.0
+1152,2025-06-20,13,La Molina,Pizza,43.71,71.0,2.0
+1610,2026-03-12,18,Miraflores,Criolla,47.41,30.0,4.0
+125,2025-12-13,12,San Isidro,Criolla,47.26,24.0,4.0
+2506,2025-07-21,12,Surco,Criolla,60.06,51.0,3.0
+1160,2025-08-09,20,San Isidro,Pizza,65.81,38.0,4.0
+507,2025-10-10,20,Miraflores,Pizza,48.61,27.0,5.0
+2041,2026-02-25,12,San Isidro,Comida rápida,37.2,33.0,4.0
+1374,2026-02-16,14,San Isidro,Criolla,44.07,24.0,5.0
+2308,2026-02-24,22,Miraflores,Comida rápida,20.42,25.0,5.0
+1038,2025-12-15,22,Surco,Postres,26.13,28.0,5.0
+2645,2026-01-13,13,San Borja,Postres,18.41,35.0,
+1150,2025-07-31,12,La Molina,Postres,28.01,50.0,2.0
+19,2026-01-13,20,Surco,Criolla,67.98,43.0,3.0
+613,2025-11-10,15,San Isidro,Criolla,46.43,29.0,
+1787,2025-11-30,7,Miraflores,Comida rápida,18.07,,4.0
+2906,2025-08-06,14,Miraflores,Comida rápida,30.34,39.0,4.0
+2031,2026-02-09,12,San Borja,Pizza,76.21,44.0,3.0
+1761,2025-06-29,20,San Borja,Comida rápida,32.4,32.0,4.0
+595,2025-12-01,21,San Isidro,Pizza,38.71,42.0,4.0
+991,2025-06-16,13,San Isidro,Saludable,33.25,,4.0
+2524,2025-08-05,13,San Borja,Comida rápida,38.08,45.0,3.0
+292,2026-04-03,12,San Borja,Comida rápida,23.49,39.0,3.0
+1873,2025-05-12,20,San Isidro,Pizza,43.41,36.0,5.0
+1804,2025-12-03,22,Surco,Postres,29.04,33.0,5.0
+81,2026-02-20,3,La Molina,Postres,23.83,39.0,5.0
+2685,2026-02-26,20,San Borja,Criolla,64.12,40.0,
+1980,2026-03-28,13,Surco,Postres,18.91,46.0,3.0
+943,2026-02-13,21,Surco,Saludable,44.66,32.0,3.0
+1357,2025-12-05,12,San Borja,Pizza,68.06,35.0,5.0
+409,2026-01-26,13,San Borja,Criolla,47.9,34.0,5.0
+1802,2025-05-11,12,Surco,Comida rápida,32.92,40.0,
+941,2026-04-30,12,Surco,Pizza,45.52,52.0,3.0
+2315,2025-08-14,11,Surco,Saludable,43.28,42.0,3.0
+2160,2026-01-30,10,San Isidro,Pizza,48.2,,3.0
+369,2025-08-12,19,Surco,Pizza,58.16,41.0,3.0
+1726,2025-06-08,19,San Isidro,Saludable,42.32,40.0,4.0
+858,2026-02-25,21,La Molina,Criolla,57.86,49.0,3.0
+1492,2025-08-16,21,La Molina,Pizza,54.34,49.0,2.0
+142,2025-12-27,18,Surco,Comida rápida,21.28,17.0,5.0
+2116,2026-03-01,20,San Borja,Comida rápida,26.02,47.0,3.0
+2881,2025-07-26,14,Miraflores,Criolla,49.76,32.0,4.0
+820,2025-12-21,19,Surco,Comida rápida,40.89,39.0,5.0
+1111,2026-03-28,21,Miraflores,Criolla,68.12,14.0,5.0
+556,2026-02-03,14,Miraflores,Postres,19.28,37.0,5.0
+860,2026-02-06,20,San Borja,Comida rápida,31.98,51.0,3.0
+2397,2026-02-13,13,Miraflores,Pizza,55.59,35.0,4.0
+2072,2025-09-24,13,Surco,Saludable,56.05,41.0,2.0
+600,2025-12-25,13,San Isidro,Pizza,51.59,40.0,4.0
+1713,2026-01-06,14,La Molina,Criolla,53.74,39.0,4.0
+178,2025-08-24,14,San Borja,Postres,30.61,17.0,5.0
+1484,2026-04-29,14,San Borja,Pizza,74.37,35.0,5.0
+1695,2026-04-17,12,Miraflores,Criolla,37.17,35.0,3.0
+1704,2025-08-28,12,San Isidro,Saludable,43.38,38.0,3.0
+2128,2026-03-24,22,Surco,Pizza,63.76,28.0,4.0
+2784,2025-07-14,20,Surco,Criolla,47.34,51.0,3.0
+184,2026-03-14,12,Miraflores,Pizza,49.37,32.0,4.0
+1344,2025-06-03,11,Surco,Criolla,53.29,33.0,5.0
+1324,2026-04-24,20,Surco,Comida rápida,21.57,49.0,4.0
+868,2025-08-15,12,Surco,Comida rápida,32.15,41.0,3.0
+2581,2025-07-17,12,Surco,Comida rápida,48.85,54.0,3.0
+2574,2025-09-13,22,Miraflores,Pizza,60.52,40.0,4.0
+671,2025-09-24,19,San Borja,Criolla,45.48,33.0,4.0
+1728,2026-02-09,12,San Borja,Criolla,61.3,37.0,4.0
+1090,2026-03-18,13,Surco,Pizza,76.93,25.0,5.0
+2723,2025-11-04,14,La Molina,Comida rápida,47.75,41.0,3.0
+1874,2025-05-25,19,San Borja,Comida rápida,22.66,32.0,3.0
+1261,2025-12-15,20,Miraflores,Comida rápida,39.74,31.0,3.0
+163,2025-09-11,13,San Isidro,Comida rápida,19.39,42.0,2.0
+2449,2025-08-05,12,Miraflores,Saludable,20.6,18.0,5.0
+2947,2025-06-27,0,Surco,Comida rápida,32.74,37.0,3.0
+1254,2026-01-02,5,La Molina,Pizza,52.63,55.0,3.0
+2532,2026-01-02,13,San Borja,Postres,23.73,47.0,3.0
+2864,2025-07-09,20,Miraflores,Criolla,51.29,40.0,5.0
+1879,2025-06-24,20,San Isidro,Saludable,61.05,31.0,3.0
+31,2025-06-28,18,San Isidro,Saludable,50.31,32.0,4.0
+458,2025-11-08,18,Miraflores,Saludable,38.11,44.0,3.0
+434,2026-03-15,13,San Isidro,Postres,20.52,26.0,4.0
+818,2025-11-21,14,Miraflores,Saludable,44.43,35.0,3.0
+174,2025-11-06,20,San Isidro,Comida rápida,43.77,31.0,5.0
+1922,2025-08-25,19,San Borja,Criolla,40.33,52.0,3.0
+297,2025-10-16,12,Miraflores,Saludable,45.32,36.0,3.0
+326,2025-05-04,13,La Molina,Criolla,70.01,52.0,3.0
+1214,2026-03-23,9,Surco,Criolla,51.64,19.0,5.0
+2949,2025-05-26,12,Miraflores,Comida rápida,12.0,29.0,5.0
+946,2025-11-14,19,San Isidro,Pizza,45.13,35.0,4.0
+745,2025-09-10,21,San Isidro,Comida rápida,41.13,43.0,3.0
+1223,2026-02-09,20,La Molina,Pizza,61.23,,2.0
+795,2026-02-10,12,La Molina,Criolla,27.15,37.0,4.0
+1427,2025-06-13,16,Miraflores,Pizza,45.43,28.0,4.0
+2752,2025-05-30,11,Surco,Saludable,25.96,40.0,4.0
+1363,2025-10-20,12,San Isidro,Criolla,37.39,31.0,3.0
+1588,2026-01-22,19,San Borja,Comida rápida,20.04,30.0,4.0
+1098,2025-10-06,20,San Borja,Pizza,57.22,44.0,3.0
+2269,2025-12-18,13,La Molina,Criolla,22.05,54.0,4.0
+2093,2026-03-20,20,Miraflores,Comida rápida,36.19,31.0,4.0
+74,2026-01-25,12,Miraflores,Postres,17.92,29.0,3.0
+2948,2026-02-08,16,San Borja,Saludable,37.8,28.0,5.0
+2329,2025-08-12,19,La Molina,Saludable,47.95,53.0,3.0
+1362,2026-03-05,21,La Molina,Criolla,47.14,51.0,4.0
+1781,2025-12-22,18,Miraflores,Pizza,57.01,36.0,3.0
+1162,2025-08-18,18,La Molina,Criolla,41.71,33.0,4.0
+1451,2025-05-26,13,Miraflores,Pizza,72.66,31.0,5.0
+1938,2025-05-21,7,Surco,Pizza,30.67,29.0,4.0
+2883,2026-03-01,12,San Isidro,Postres,19.3,50.0,2.0
+1746,2025-09-24,14,La Molina,Pizza,66.92,40.0,4.0
+603,2025-07-13,12,Surco,Comida rápida,39.95,40.0,4.0
+472,2025-08-02,18,Surco,Postres,25.11,26.0,4.0
+2444,2025-10-03,20,Surco,Comida rápida,35.35,41.0,4.0
+963,2025-06-05,12,La Molina,Comida rápida,28.07,73.0,1.0
+2518,2025-08-28,12,Miraflores,Comida rápida,38.39,25.0,4.0
+568,2025-10-24,12,Miraflores,Comida rápida,43.16,22.0,5.0
+2272,2025-10-11,20,San Isidro,Comida rápida,34.05,37.0,3.0
+2388,2025-09-07,18,Surco,Postres,24.17,35.0,5.0
+1834,2026-04-24,18,Miraflores,Criolla,35.81,32.0,5.0
+1587,2025-08-06,13,Surco,Comida rápida,28.52,,2.0
+1602,2025-12-12,17,San Isidro,Postres,22.05,20.0,5.0
+325,2025-09-24,19,Surco,Comida rápida,41.42,35.0,3.0
+1065,2025-09-20,20,San Isidro,Comida rápida,31.01,40.0,3.0
+2941,2025-07-18,12,San Borja,Comida rápida,26.59,42.0,2.0
+681,2025-09-21,17,La Molina,Pizza,57.86,64.0,3.0
+486,2026-01-01,13,La Molina,Comida rápida,23.74,60.0,1.0
+2255,2025-10-14,21,San Borja,Comida rápida,39.19,33.0,3.0
+2132,2025-10-01,19,Surco,Saludable,42.41,46.0,2.0
+679,2025-06-23,20,Miraflores,Comida rápida,41.18,42.0,4.0
+1617,2025-12-10,21,San Borja,Comida rápida,26.41,21.0,5.0
+1712,2025-10-11,12,San Isidro,Criolla,50.42,36.0,3.0
+240,2026-01-14,19,La Molina,Saludable,35.81,53.0,3.0
+2690,2025-05-13,19,Miraflores,Comida rápida,41.19,37.0,4.0
+2187,2026-03-08,12,La Molina,Pizza,31.65,64.0,1.0
+2776,2026-01-15,18,San Isidro,Postres,17.23,34.0,
+2477,2025-12-05,18,San Isidro,Criolla,86.24,27.0,3.0
+1861,2025-07-23,12,Miraflores,Criolla,53.51,49.0,3.0
+1740,2025-07-31,14,Miraflores,Criolla,32.0,23.0,4.0
+1175,2026-02-15,14,San Borja,Pizza,60.05,18.0,
+882,2026-02-27,20,Miraflores,Saludable,39.76,34.0,4.0
+1062,2026-04-18,19,Miraflores,Criolla,59.39,38.0,5.0
+2814,2025-07-29,12,La Molina,Comida rápida,26.05,55.0,
+412,2026-01-19,19,Miraflores,Criolla,48.68,40.0,4.0
+1134,2026-04-28,2,San Borja,Comida rápida,24.65,21.0,5.0
+606,2025-05-07,3,San Borja,Saludable,42.23,23.0,5.0
+1690,2026-03-31,5,Miraflores,Comida rápida,37.21,23.0,5.0
+2947,2025-06-27,0,Surco,Comida rápida,32.74,37.0,3.0
+2473,2025-07-25,20,Surco,Saludable,55.37,19.0,4.0
+2226,2025-09-23,19,Surco,Comida rápida,17.71,39.0,5.0
+611,2026-02-07,22,Miraflores,Comida rápida,41.73,33.0,4.0
+622,2025-09-22,13,La Molina,Comida rápida,24.26,55.0,3.0
+2657,2025-10-31,12,San Borja,Pizza,46.87,45.0,
+536,2025-07-14,20,San Isidro,Criolla,63.11,42.0,3.0
+2991,2025-08-09,20,San Isidro,Comida rápida,44.43,20.0,4.0
+1651,2025-05-07,18,Surco,Criolla,52.8,55.0,2.0
+415,2025-08-16,14,Surco,Comida rápida,20.56,48.0,3.0
+773,2026-01-23,12,Surco,Pizza,54.75,46.0,3.0
+565,2026-04-07,13,La Molina,Postres,21.06,61.0,2.0
+533,2025-11-12,20,Miraflores,Pizza,62.61,43.0,3.0
+2513,2025-06-11,19,Miraflores,Postres,38.19,22.0,5.0
+109,2025-06-10,15,Miraflores,Comida rápida,27.58,25.0,
+2712,2025-05-20,12,Surco,Saludable,42.2,42.0,2.0
+2510,2025-12-07,19,Miraflores,Pizza,41.3,33.0,4.0
+480,2026-01-09,1,La Molina,Criolla,57.91,38.0,4.0
+1785,2025-10-13,20,Miraflores,Saludable,29.59,,5.0
+319,2026-02-01,19,San Borja,Saludable,36.5,43.0,4.0
+1095,2026-04-18,12,Surco,Comida rápida,27.17,47.0,
+2722,2026-01-15,22,San Borja,Saludable,50.44,36.0,4.0
+2610,2025-08-22,5,La Molina,Saludable,47.22,65.0,2.0
+1245,2025-10-09,13,La Molina,Comida rápida,14.71,60.0,3.0
+1830,2025-10-01,13,Miraflores,Saludable,35.35,35.0,3.0
+403,2025-06-27,11,San Isidro,Comida rápida,25.88,,4.0
+1475,2025-09-29,4,San Borja,Criolla,40.45,44.0,2.0
+806,2025-07-20,20,San Borja,Criolla,53.61,31.0,4.0
+1961,2026-03-22,19,San Borja,Comida rápida,20.17,37.0,4.0
+2411,2025-07-07,20,Miraflores,Criolla,64.56,,
+2458,2025-12-07,17,San Isidro,Criolla,58.91,38.0,5.0
+1730,2025-07-14,13,Miraflores,Saludable,40.6,27.0,4.0
+388,2025-09-20,13,San Isidro,Comida rápida,43.38,51.0,3.0
+875,2026-01-12,20,San Borja,Pizza,65.56,49.0,2.0
+1212,2026-04-25,17,Surco,Criolla,52.61,45.0,3.0
+2931,2025-06-18,13,La Molina,Comida rápida,32.16,57.0,2.0
+528,2026-01-19,0,San Borja,Comida rápida,31.54,,5.0
+1519,2025-05-03,6,San Isidro,Criolla,51.52,18.0,5.0
+1558,2025-12-04,4,San Isidro,Postres,29.08,39.0,4.0
+2838,2026-04-07,7,Surco,Postres,24.78,26.0,4.0
+1338,2025-09-23,13,San Isidro,Comida rápida,26.55,28.0,4.0
+2623,2025-12-19,19,San Borja,Saludable,32.33,27.0,4.0
+71,2025-06-13,15,San Isidro,Comida rápida,33.31,37.0,
+2954,2025-08-05,21,San Isidro,Criolla,51.88,35.0,3.0
+1940,2026-04-20,19,Miraflores,Criolla,33.45,32.0,4.0
+1821,2025-11-18,11,La Molina,Pizza,41.57,35.0,5.0
+808,2026-02-09,18,Miraflores,Comida rápida,26.68,25.0,4.0
+57,2025-07-31,22,Miraflores,Comida rápida,33.0,,5.0
+1676,2025-05-17,19,San Borja,Comida rápida,40.39,45.0,3.0
+901,2026-01-29,1,Miraflores,Comida rápida,34.7,35.0,4.0
+1750,2025-10-09,12,Miraflores,Comida rápida,20.42,27.0,4.0
+1372,2026-03-03,12,San Isidro,Pizza,61.49,34.0,3.0
+2640,2026-04-10,12,La Molina,Comida rápida,41.27,59.0,3.0
+2263,2025-08-10,13,San Isidro,Saludable,25.15,27.0,5.0
+2857,2026-04-03,17,Surco,Criolla,72.62,,3.0
+310,2025-10-05,21,Surco,Saludable,42.12,26.0,3.0
+912,2025-07-25,13,La Molina,Postres,21.1,50.0,4.0
+1000,2026-03-29,19,Miraflores,Pizza,76.23,55.0,3.0
+1002,2025-10-08,15,San Borja,Comida rápida,12.0,37.0,4.0
+841,2025-06-20,20,Miraflores,Saludable,53.27,28.0,3.0
+2494,2025-11-04,13,La Molina,Criolla,50.44,61.0,1.0
+394,2026-04-07,19,San Borja,Criolla,40.93,40.0,5.0
+487,2026-03-21,17,La Molina,Pizza,88.57,40.0,3.0
+1394,2026-03-08,12,San Isidro,Comida rápida,39.75,37.0,4.0
+1710,2026-02-09,11,Miraflores,Comida rápida,35.95,20.0,5.0
+1573,2025-10-25,12,Surco,Comida rápida,25.13,36.0,3.0
+2131,2025-12-07,13,La Molina,Criolla,49.19,44.0,3.0
+2934,2025-05-20,14,Surco,Pizza,51.89,33.0,3.0
+638,2025-06-08,13,Miraflores,Comida rápida,23.38,50.0,3.0
+1058,2025-05-14,19,La Molina,Pizza,61.76,44.0,2.0
+1030,2026-02-20,20,Surco,Comida rápida,38.7,52.0,4.0
+2280,2026-03-12,19,La Molina,Criolla,45.97,,3.0
+602,2025-05-09,18,San Isidro,Criolla,39.89,15.0,4.0
+2205,2026-01-26,12,La Molina,Saludable,35.85,49.0,2.0
+2711,2025-09-09,7,San Isidro,Comida rápida,43.28,28.0,4.0
+1846,2025-07-12,11,Surco,Pizza,64.99,32.0,3.0
+2672,2025-11-02,21,Surco,Postres,25.67,39.0,4.0
+1627,2026-04-12,16,Miraflores,Criolla,65.61,29.0,5.0
+437,2025-06-27,21,San Borja,Pizza,60.23,27.0,
+2175,2025-07-16,12,Miraflores,Pizza,53.43,26.0,
+121,2025-10-19,1,Surco,Criolla,12.64,30.0,4.0
+1526,2025-11-09,12,San Isidro,Comida rápida,20.52,21.0,4.0
+2886,2025-10-08,21,Miraflores,Comida rápida,26.59,21.0,5.0
+2611,2026-02-02,13,La Molina,Comida rápida,17.28,66.0,2.0
+766,2025-06-08,19,San Borja,Comida rápida,30.46,49.0,3.0
+1778,2025-12-08,12,Miraflores,Saludable,41.84,41.0,4.0
+314,2025-06-20,13,San Isidro,Criolla,43.96,47.0,2.0
+1035,2026-03-24,19,San Isidro,Pizza,50.49,37.0,4.0
+234,2025-08-05,11,Miraflores,Comida rápida,20.39,29.0,5.0
+2871,2025-11-15,12,Surco,Pizza,52.95,43.0,3.0
+1004,2025-05-10,4,Surco,Saludable,26.77,33.0,4.0
+2983,2026-01-14,12,San Isidro,Criolla,40.44,47.0,2.0
+2882,2025-12-04,12,San Isidro,Criolla,61.64,42.0,2.0
+1289,2025-07-21,12,San Isidro,Comida rápida,38.53,43.0,3.0
+112,2025-11-17,20,Miraflores,Comida rápida,44.5,39.0,4.0
+1252,2026-03-17,2,La Molina,Comida rápida,33.02,52.0,2.0
+1191,2025-05-25,19,Miraflores,Postres,20.88,25.0,5.0
+411,2025-08-09,11,San Borja,Comida rápida,36.68,34.0,3.0
+219,2025-10-07,19,San Isidro,Saludable,52.54,40.0,3.0
+2357,2026-03-19,13,San Isidro,Comida rápida,36.52,33.0,4.0
+762,2025-06-03,13,Miraflores,Postres,28.33,37.0,5.0
+1468,2025-12-01,13,Surco,Comida rápida,30.01,37.0,4.0
+1510,2025-11-01,13,Surco,Criolla,43.13,49.0,2.0
+694,2025-11-02,9,San Borja,Comida rápida,27.27,42.0,3.0
+473,2025-12-24,6,San Isidro,Criolla,47.77,40.0,4.0
+898,2025-12-24,22,San Isidro,Pizza,39.48,29.0,5.0
+1565,2025-06-16,10,San Borja,Pizza,58.71,37.0,3.0
+2217,2025-07-07,18,Miraflores,Postres,22.3,31.0,4.0
+863,2025-08-29,22,Surco,Pizza,47.43,40.0,4.0
+2046,2026-04-06,19,Miraflores,Pizza,81.49,29.0,4.0
+1951,2026-03-21,12,Miraflores,Comida rápida,25.34,29.0,3.0
+1678,2025-12-09,21,San Borja,Comida rápida,44.9,32.0,4.0
+2010,2026-02-09,13,La Molina,Saludable,29.93,54.0,2.0
+1221,2025-06-01,7,San Borja,Comida rápida,20.58,34.0,4.0
+362,2025-08-22,13,Miraflores,Saludable,37.19,28.0,5.0
+136,2026-04-11,12,Miraflores,Criolla,50.84,30.0,5.0
+2726,2026-01-28,23,Miraflores,Comida rápida,27.61,26.0,4.0
+2203,2025-05-26,12,San Borja,Criolla,36.38,30.0,5.0
+765,2025-07-11,13,Surco,Criolla,59.24,42.0,3.0
+2294,2026-04-07,13,Surco,Criolla,47.01,49.0,4.0
+367,2025-10-02,14,La Molina,Comida rápida,20.6,38.0,3.0
+980,2026-02-24,15,Surco,Comida rápida,20.39,32.0,3.0
+30,2025-06-18,0,San Borja,Criolla,62.15,29.0,3.0
+2543,2025-08-09,8,La Molina,Comida rápida,30.1,36.0,3.0
+23,2026-02-01,20,La Molina,Saludable,40.98,44.0,2.0
+1930,2025-11-02,22,Miraflores,Criolla,45.77,21.0,5.0
+870,2025-06-17,4,Miraflores,Criolla,52.12,25.0,5.0
+927,2025-08-19,21,Miraflores,Pizza,49.67,22.0,5.0
+421,2026-04-15,10,La Molina,Postres,28.78,46.0,2.0
+1443,2025-11-14,13,Surco,Criolla,67.08,42.0,2.0
+461,2026-04-14,20,Miraflores,Comida rápida,31.35,27.0,4.0
+44,2025-09-12,22,La Molina,Comida rápida,30.97,60.0,1.0
+88,2025-12-03,9,La Molina,Pizza,44.76,53.0,2.0
+2348,2025-09-28,13,La Molina,Saludable,45.04,64.0,2.0
+2982,2026-04-30,19,Surco,Saludable,47.97,42.0,4.0
+283,2025-08-21,12,San Isidro,Pizza,72.65,55.0,3.0
+977,2025-11-19,18,San Isidro,Criolla,72.21,30.0,4.0
+599,2025-09-23,20,San Isidro,Criolla,50.22,30.0,4.0
+686,2026-04-23,13,San Borja,Comida rápida,45.43,27.0,3.0
+2895,2025-06-30,11,Surco,Criolla,37.73,36.0,4.0
+1375,2026-02-06,12,San Isidro,Criolla,39.26,42.0,3.0
+534,2026-03-10,19,San Borja,Comida rápida,35.36,39.0,4.0
+1135,2025-12-04,11,Surco,Criolla,46.2,42.0,3.0
+2648,2026-02-07,21,Miraflores,Saludable,43.43,15.0,5.0
+2447,2025-07-19,13,Miraflores,Saludable,40.66,37.0,4.0
+2430,2025-09-28,19,Surco,Comida rápida,26.2,50.0,
+2148,2026-04-01,2,Surco,Criolla,40.75,47.0,4.0
+1327,2026-02-02,12,Surco,Pizza,68.45,25.0,5.0
+2130,2025-08-25,18,Surco,Criolla,39.85,55.0,3.0
+2670,2025-09-13,13,San Isidro,Criolla,30.19,30.0,3.0
+2603,2026-01-26,11,Surco,Comida rápida,29.65,38.0,5.0
+1037,2026-04-26,13,La Molina,Saludable,42.17,48.0,4.0
+1544,2025-11-15,20,Miraflores,Saludable,43.23,47.0,2.0
+2227,2025-10-11,19,Miraflores,Pizza,41.2,48.0,3.0
+680,2026-01-14,19,La Molina,Saludable,41.32,47.0,2.0
+1400,2025-12-13,10,Miraflores,Saludable,48.13,20.0,
+222,2026-03-20,10,Surco,Pizza,31.26,28.0,
+544,2025-10-24,16,La Molina,Criolla,49.13,43.0,3.0
+1264,2025-08-05,20,Miraflores,Postres,28.4,31.0,4.0
+2177,2025-07-29,8,San Isidro,Pizza,46.75,41.0,4.0
+1179,2025-07-29,11,Surco,Criolla,60.88,25.0,4.0
+583,2025-09-28,19,San Isidro,Saludable,55.16,29.0,3.0
+1279,2026-03-26,20,La Molina,Postres,26.57,57.0,2.0
+1454,2026-01-21,17,La Molina,Pizza,33.81,42.0,
+719,2026-01-06,4,Surco,Comida rápida,40.91,31.0,4.0
+2103,2026-03-27,13,San Borja,Pizza,58.88,31.0,5.0
+677,2025-09-20,20,Miraflores,Postres,28.19,34.0,5.0
+2898,2025-05-28,13,La Molina,Comida rápida,44.13,59.0,
+273,2025-09-24,13,San Isidro,Criolla,45.41,32.0,4.0
+522,2026-01-08,5,Surco,Postres,32.55,19.0,5.0
+1371,2025-11-09,13,San Borja,Comida rápida,35.91,36.0,4.0
+979,2025-10-20,18,La Molina,Pizza,62.94,46.0,4.0
+1006,2025-09-15,12,San Isidro,Pizza,43.83,34.0,5.0
+938,2026-03-16,21,Miraflores,Criolla,78.96,37.0,5.0
+351,2026-03-19,20,Miraflores,Comida rápida,31.44,38.0,4.0
+1806,2025-08-10,3,San Borja,Pizza,64.94,37.0,4.0
+1079,2025-08-19,22,San Borja,Postres,29.09,28.0,4.0
+2653,2026-02-02,13,Miraflores,Comida rápida,43.51,29.0,4.0
+1339,2025-09-05,14,San Borja,Pizza,64.38,33.0,3.0
+2637,2025-07-25,19,Miraflores,Postres,30.68,50.0,3.0
+2514,2025-08-21,20,Miraflores,Saludable,35.44,36.0,3.0
+2495,2025-11-07,13,Miraflores,Comida rápida,37.58,38.0,3.0
+1331,2025-05-29,20,La Molina,Comida rápida,25.77,36.0,5.0
+2540,2025-10-20,11,San Isidro,Saludable,40.31,30.0,3.0
+169,2026-02-10,13,San Isidro,Comida rápida,24.33,40.0,4.0
+966,2026-03-18,19,Miraflores,Comida rápida,39.25,49.0,2.0
+1841,2026-04-25,21,Miraflores,Criolla,43.34,35.0,4.0
+1322,2025-12-23,13,San Isidro,Comida rápida,27.1,41.0,3.0
+2405,2025-12-24,18,La Molina,Saludable,44.28,47.0,4.0
+1919,2025-08-04,13,La Molina,Saludable,45.87,70.0,2.0
+2189,2026-02-22,18,Surco,Criolla,32.82,30.0,5.0
+2530,2026-02-08,12,Surco,Saludable,55.51,48.0,3.0
+2270,2025-12-15,21,La Molina,Saludable,51.67,54.0,4.0
+1438,2026-04-04,20,San Borja,Comida rápida,32.83,42.0,4.0
+368,2026-01-28,18,Surco,Pizza,41.6,44.0,4.0
+846,2026-03-13,11,La Molina,Pizza,76.56,38.0,3.0
+2313,2026-03-07,19,Surco,Criolla,42.85,32.0,5.0
+1414,2025-06-11,21,Miraflores,Comida rápida,51.0,,4.0
+1367,2025-07-03,13,San Isidro,Criolla,19.73,19.0,4.0
+352,2025-09-05,12,San Isidro,Comida rápida,25.62,47.0,2.0
+2780,2025-11-14,13,San Borja,Criolla,56.4,52.0,3.0
+1189,2025-10-29,13,Surco,Pizza,56.46,39.0,4.0
+888,2025-07-17,13,Miraflores,Pizza,23.03,35.0,4.0
+1926,2026-03-31,13,San Isidro,Pizza,44.4,26.0,4.0
+2734,2025-12-15,8,La Molina,Criolla,30.13,31.0,4.0
+2408,2025-08-25,2,Miraflores,Saludable,46.33,26.0,3.0
+499,2026-02-04,14,San Borja,Pizza,50.52,46.0,3.0
+1703,2025-05-22,13,Miraflores,Saludable,40.81,30.0,4.0
+211,2026-04-08,4,La Molina,Comida rápida,29.11,32.0,4.0
+2746,2026-03-01,13,San Borja,Comida rápida,27.3,32.0,3.0
+1129,2025-11-16,12,San Isidro,Comida rápida,42.76,35.0,3.0
+228,2026-02-04,19,San Borja,Pizza,66.68,37.0,4.0
+366,2025-09-04,13,Miraflores,Comida rápida,40.8,,4.0
+1877,2025-08-30,12,Surco,Criolla,73.89,50.0,2.0
+1019,2025-08-02,15,Surco,Saludable,42.81,44.0,3.0
+2016,2025-06-28,21,Miraflores,Postres,29.94,25.0,5.0
+2813,2025-07-09,18,San Isidro,Postres,39.42,38.0,3.0
+1599,2025-06-09,21,San Borja,Criolla,54.4,25.0,5.0
+408,2026-03-22,19,La Molina,Saludable,24.35,60.0,
+2002,2025-11-23,21,La Molina,Criolla,50.89,53.0,4.0
+2135,2025-09-10,12,Miraflores,Criolla,49.33,44.0,3.0
+2372,2025-06-11,5,La Molina,Pizza,48.29,,4.0
+1222,2025-10-05,13,San Isidro,Pizza,42.51,36.0,3.0
+2261,2025-07-07,20,Miraflores,Criolla,40.96,29.0,4.0
+2764,2025-09-23,14,Surco,Pizza,54.29,33.0,4.0
+1826,2026-02-13,11,Miraflores,Postres,22.86,33.0,3.0
+8,2025-08-11,21,San Borja,Criolla,50.98,29.0,3.0
+2180,2026-01-18,13,San Isidro,Saludable,51.46,47.0,4.0
+2793,2025-08-15,12,San Borja,Criolla,70.81,33.0,5.0
+1973,2025-05-10,11,San Isidro,Criolla,49.12,27.0,3.0
+416,2025-05-05,20,San Isidro,Pizza,35.46,40.0,5.0
+1011,2025-07-23,20,Surco,Comida rápida,34.85,33.0,3.0
+747,2026-01-14,20,Surco,Comida rápida,36.68,37.0,5.0
+2859,2026-04-28,18,Miraflores,Comida rápida,41.23,18.0,5.0
+1986,2026-01-19,12,La Molina,Criolla,33.31,63.0,2.0
+200,2026-02-19,20,San Borja,Criolla,59.56,43.0,3.0
+284,2025-08-12,20,Miraflores,Criolla,46.76,35.0,4.0
+232,2025-12-26,22,Miraflores,Saludable,41.56,26.0,3.0
+1911,2026-02-17,10,Miraflores,Saludable,50.69,24.0,5.0
+1012,2026-03-17,1,Surco,Postres,38.98,39.0,5.0
+97,2026-03-23,19,San Isidro,Comida rápida,42.17,36.0,4.0
+1413,2025-08-12,22,San Isidro,Criolla,47.07,33.0,3.0
+2994,2025-08-09,10,Surco,Criolla,52.32,39.0,4.0
+1989,2026-03-09,12,San Isidro,Postres,21.13,32.0,5.0
+2484,2025-07-04,2,La Molina,Postres,25.88,60.0,2.0
+1937,2025-06-09,18,Miraflores,Criolla,28.46,17.0,5.0
+1533,2025-06-30,1,Surco,Criolla,54.13,34.0,4.0
+2911,2025-05-02,14,La Molina,Pizza,59.15,56.0,
+2631,2025-09-12,13,La Molina,Criolla,64.4,53.0,3.0
+1466,2026-03-24,13,San Isidro,Criolla,51.93,37.0,5.0
+1449,2025-06-28,19,San Isidro,Criolla,41.53,29.0,4.0
+105,2025-10-10,21,San Isidro,Postres,18.03,22.0,4.0
+2594,2026-01-24,20,San Borja,Pizza,57.34,35.0,4.0
+1101,2026-04-30,18,Surco,Criolla,53.95,,5.0
+2292,2025-06-27,13,Miraflores,Criolla,54.48,34.0,3.0
+2894,2025-09-29,12,Miraflores,Pizza,76.2,41.0,3.0
+1601,2026-01-16,21,San Borja,Postres,14.55,18.0,5.0
+2509,2025-12-19,12,Miraflores,Comida rápida,29.18,53.0,4.0
+777,2026-01-06,4,Miraflores,Saludable,51.17,32.0,5.0
+227,2026-02-18,13,San Isidro,Comida rápida,29.23,27.0,4.0
+1273,2026-02-26,13,Surco,Pizza,40.06,45.0,3.0
+2335,2026-03-17,20,Miraflores,Comida rápida,27.65,26.0,3.0
+1589,2025-08-13,12,Surco,Comida rápida,32.06,48.0,4.0
+2111,2025-07-15,21,La Molina,Comida rápida,40.16,,3.0
+2453,2025-06-09,19,San Borja,Pizza,42.46,39.0,3.0
+1074,2025-09-11,3,San Isidro,Comida rápida,31.19,19.0,5.0
+701,2025-12-14,13,San Isidro,Criolla,46.83,32.0,5.0
+1136,2025-09-18,18,San Borja,Comida rápida,40.9,20.0,5.0
+2833,2025-09-29,6,Miraflores,Pizza,56.53,45.0,3.0
+2801,2025-06-20,11,Surco,Criolla,36.92,30.0,5.0
+465,2025-09-21,11,La Molina,Saludable,19.11,57.0,1.0
+848,2026-03-22,12,Surco,Criolla,56.45,50.0,3.0
+756,2025-05-01,12,San Borja,Saludable,28.35,24.0,4.0
+2995,2026-01-15,22,San Borja,Criolla,53.01,18.0,5.0
+1335,2026-02-17,15,San Borja,Pizza,72.81,36.0,5.0
+2715,2025-10-01,8,Surco,Pizza,45.43,27.0,4.0
+2242,2025-09-15,12,La Molina,Pizza,72.28,47.0,
+2023,2025-10-28,17,San Borja,Pizza,51.67,22.0,5.0
+213,2025-12-11,12,San Borja,Saludable,12.0,40.0,4.0
+13,2025-08-08,13,Miraflores,Postres,12.0,44.0,3.0
+2952,2026-01-09,19,Miraflores,Pizza,82.76,36.0,4.0
+423,2026-04-20,13,La Molina,Comida rápida,20.95,45.0,3.0
+1652,2025-09-10,19,Miraflores,Saludable,44.54,31.0,
+2021,2025-05-12,22,Miraflores,Pizza,48.64,30.0,3.0
+2891,2025-07-25,14,La Molina,Pizza,56.55,43.0,4.0
+2475,2025-10-30,13,Miraflores,Postres,25.39,36.0,3.0
+2684,2025-05-10,19,Miraflores,Criolla,69.04,43.0,2.0
+2478,2026-01-01,12,Surco,Comida rápida,42.76,28.0,3.0
+1094,2026-03-26,20,Surco,Postres,16.71,42.0,4.0
+1731,2026-02-12,12,Miraflores,Criolla,31.36,43.0,4.0
+2184,2025-06-08,7,Surco,Pizza,58.47,44.0,2.0
+510,2025-08-09,19,San Borja,Pizza,56.48,30.0,3.0
+645,2025-06-27,11,Surco,Comida rápida,35.82,43.0,3.0
+598,2026-03-27,12,San Borja,Saludable,41.96,,4.0
+2615,2025-10-21,20,La Molina,Postres,12.0,50.0,3.0
+799,2026-01-04,13,San Isidro,Pizza,52.42,,5.0
+2807,2026-03-16,18,Miraflores,Comida rápida,30.7,39.0,3.0
+2688,2025-07-05,15,Surco,Criolla,44.2,39.0,5.0
+519,2025-05-12,11,San Isidro,Pizza,22.24,30.0,5.0
+913,2025-09-03,19,San Isidro,Pizza,56.15,37.0,5.0
+574,2025-11-22,19,San Borja,Saludable,53.66,49.0,3.0
+2978,2026-03-12,20,Miraflores,Saludable,45.66,36.0,4.0
+2771,2026-03-09,13,San Borja,Saludable,41.03,51.0,3.0
+1393,2025-07-08,13,Surco,Comida rápida,44.32,29.0,
+2029,2025-12-03,10,Surco,Comida rápida,31.38,45.0,4.0
+1801,2025-06-01,20,Miraflores,Saludable,39.44,33.0,4.0
+2488,2025-11-29,11,San Isidro,Postres,25.95,33.0,4.0
+1489,2025-11-26,7,San Isidro,Saludable,51.18,30.0,4.0
+124,2025-06-04,19,La Molina,Criolla,51.96,52.0,2.0
+1229,2026-01-12,19,Miraflores,Comida rápida,26.73,37.0,
+221,2026-01-02,5,San Borja,Postres,30.16,16.0,5.0
+2956,2025-12-13,19,Miraflores,Pizza,78.14,42.0,2.0
+359,2026-04-25,21,Miraflores,Criolla,49.6,29.0,5.0
+1607,2025-10-23,13,Miraflores,Comida rápida,38.07,36.0,4.0
+1863,2026-03-10,13,Surco,Criolla,59.27,42.0,
+2426,2025-06-12,20,San Isidro,Criolla,35.77,36.0,4.0
+260,2025-09-21,14,Surco,Comida rápida,44.02,33.0,5.0
+2818,2026-02-19,10,Surco,Postres,31.86,31.0,3.0
+872,2026-04-02,23,La Molina,Postres,25.65,51.0,3.0
+2431,2026-02-11,19,Miraflores,Pizza,46.96,41.0,2.0
+1643,2025-06-14,13,Miraflores,Comida rápida,33.75,28.0,5.0
+1988,2025-05-01,12,La Molina,Pizza,41.32,59.0,3.0
+2497,2026-01-11,20,Surco,Comida rápida,34.09,36.0,4.0
+2421,2025-05-20,14,La Molina,Postres,30.8,,2.0
+1552,2026-03-06,18,Surco,Postres,24.45,37.0,3.0
+2841,2025-12-06,12,Miraflores,Pizza,76.8,41.0,4.0
+2762,2025-08-21,12,Surco,Comida rápida,35.01,33.0,4.0
+2363,2026-01-17,16,Surco,Comida rápida,25.37,42.0,3.0
+457,2025-11-05,12,Miraflores,Comida rápida,22.77,30.0,5.0
+463,2025-07-15,13,San Borja,Comida rápida,29.85,25.0,5.0
+2260,2025-05-19,13,Miraflores,Pizza,36.96,33.0,5.0
+786,2025-07-14,13,La Molina,Criolla,44.86,42.0,
+1563,2026-01-16,13,Miraflores,Comida rápida,32.0,44.0,2.0
+382,2025-06-05,18,San Isidro,Comida rápida,34.02,24.0,5.0
+1867,2026-02-21,20,Miraflores,Comida rápida,35.97,30.0,3.0
+2150,2025-08-25,11,La Molina,Postres,24.62,41.0,
+1262,2025-07-06,0,Miraflores,Pizza,45.06,27.0,4.0
+2974,2025-12-24,11,La Molina,Comida rápida,24.81,44.0,3.0
+1698,2025-12-05,13,La Molina,Postres,21.03,61.0,1.0
+1455,2025-05-16,20,San Borja,Postres,17.37,50.0,2.0
+839,2025-06-30,20,Miraflores,Comida rápida,20.62,34.0,5.0
+1300,2026-01-11,3,Miraflores,Comida rápida,37.04,39.0,4.0
+1054,2026-02-20,21,Surco,Comida rápida,36.23,36.0,3.0
+1081,2026-02-13,20,La Molina,Comida rápida,40.14,62.0,2.0
+1739,2025-12-22,13,San Borja,Pizza,46.45,29.0,4.0
+1478,2026-02-25,13,San Borja,Saludable,62.6,42.0,3.0
+2398,2025-10-11,22,San Isidro,Saludable,53.21,37.0,3.0
+408,2026-03-22,19,La Molina,Saludable,24.35,60.0,
+1534,2025-11-14,12,San Isidro,Criolla,35.78,45.0,4.0
+1234,2025-08-22,11,La Molina,Saludable,59.63,51.0,3.0
+543,2025-12-13,14,La Molina,Pizza,68.87,39.0,3.0
+1293,2025-05-11,12,San Borja,Comida rápida,16.42,33.0,4.0
+1318,2025-11-25,12,San Borja,Postres,28.79,27.0,4.0
+1230,2025-07-17,18,San Isidro,Postres,26.09,29.0,5.0
+1843,2025-08-31,5,La Molina,Postres,33.93,31.0,4.0
+1118,2026-02-06,22,San Isidro,Criolla,66.7,30.0,
+2460,2025-09-01,6,Miraflores,Saludable,30.9,17.0,4.0
+2273,2025-07-12,13,Surco,Pizza,31.21,58.0,2.0
+2873,2025-09-19,20,San Borja,Pizza,75.91,21.0,4.0
+2728,2025-07-10,19,Surco,Comida rápida,34.37,50.0,3.0
+2942,2025-11-30,13,Surco,Criolla,63.87,66.0,3.0
+1768,2025-10-21,20,Surco,Saludable,40.06,54.0,3.0
+2646,2025-05-29,21,Surco,Pizza,45.1,36.0,4.0
+2459,2026-03-04,20,La Molina,Pizza,41.29,51.0,
+1753,2026-02-05,10,Miraflores,Criolla,31.68,35.0,3.0
+2682,2026-04-27,20,Miraflores,Criolla,55.32,35.0,4.0
+436,2025-07-31,21,Miraflores,Criolla,35.04,34.0,4.0
+1412,2025-06-30,17,Miraflores,Comida rápida,38.18,19.0,5.0
+238,2026-03-22,12,La Molina,Comida rápida,31.63,52.0,4.0
+1056,2026-02-19,12,San Borja,Comida rápida,41.26,29.0,3.0
+110,2025-05-28,20,La Molina,Criolla,35.3,58.0,1.0
+782,2025-11-23,12,San Isidro,Postres,14.65,28.0,4.0
+2090,2025-12-31,4,La Molina,Postres,18.22,51.0,2.0
+164,2026-02-08,12,San Borja,Criolla,52.74,44.0,4.0
+289,2025-08-07,12,San Isidro,Comida rápida,12.0,43.0,2.0
+253,2025-09-06,21,San Borja,Comida rápida,24.62,38.0,
+2133,2025-09-30,12,Miraflores,Postres,26.65,31.0,4.0
+2052,2025-05-05,20,San Borja,Criolla,44.96,46.0,3.0
+768,2026-01-05,12,Miraflores,Saludable,40.8,20.0,5.0
+788,2025-11-08,12,Miraflores,Criolla,62.83,39.0,4.0
+1353,2025-05-27,12,Miraflores,Saludable,48.54,39.0,5.0
+1579,2025-10-07,13,San Isidro,Criolla,45.25,35.0,4.0
+2965,2026-01-23,14,Miraflores,Criolla,38.96,19.0,5.0
+2829,2025-11-04,23,Miraflores,Pizza,49.47,17.0,5.0
+1458,2025-07-25,17,Surco,Criolla,40.71,29.0,
+2371,2025-06-18,12,Surco,Saludable,33.8,40.0,3.0
+1963,2026-04-10,6,San Isidro,Criolla,39.37,21.0,5.0
+2402,2025-08-18,11,San Isidro,Pizza,52.85,30.0,3.0
+2498,2025-10-30,22,San Isidro,Postres,33.23,24.0,4.0
+2866,2025-10-07,21,San Borja,Criolla,60.33,26.0,3.0
+1033,2026-03-16,20,La Molina,Saludable,54.34,53.0,
+2438,2026-01-08,21,La Molina,Comida rápida,32.84,46.0,3.0
+462,2026-01-02,19,La Molina,Comida rápida,36.51,62.0,2.0
+2465,2025-11-07,23,Miraflores,Criolla,52.17,23.0,5.0
+1504,2025-06-08,21,San Isidro,Saludable,31.01,22.0,5.0
+158,2026-02-08,12,Miraflores,Criolla,58.79,32.0,4.0
+2572,2026-04-02,20,San Isidro,Comida rápida,29.06,24.0,5.0
+1993,2025-08-15,21,San Isidro,Pizza,69.99,19.0,5.0
+1692,2025-06-06,12,Miraflores,Comida rápida,36.93,28.0,3.0
+678,2025-05-01,22,Miraflores,Criolla,56.61,43.0,4.0
+863,2025-08-29,22,Surco,Pizza,47.43,40.0,4.0
+2921,2025-07-25,12,La Molina,Criolla,41.01,51.0,4.0
+239,2026-04-14,5,San Borja,Comida rápida,35.6,23.0,5.0
+1272,2025-08-28,21,Miraflores,Saludable,37.88,,3.0
+1770,2025-11-15,21,Miraflores,Pizza,46.34,31.0,4.0
+244,2025-09-24,22,Miraflores,Comida rápida,31.35,42.0,4.0
+101,2025-09-13,20,Miraflores,Comida rápida,43.8,,3.0
+316,2026-02-07,11,Miraflores,Comida rápida,29.23,25.0,4.0
+904,2025-05-15,22,Miraflores,Postres,23.79,35.0,4.0
+1114,2025-08-03,5,Miraflores,Criolla,49.14,27.0,4.0
+2380,2025-07-06,18,Miraflores,Criolla,41.02,31.0,4.0
+1104,2025-05-15,20,Surco,Criolla,57.71,46.0,3.0
+262,2025-08-20,18,San Isidro,Comida rápida,32.08,35.0,5.0
+2354,2026-01-13,18,Surco,Pizza,43.65,25.0,5.0
+1719,2025-07-18,18,Miraflores,Comida rápida,12.32,23.0,5.0
+196,2025-08-21,0,San Borja,Pizza,87.44,45.0,2.0
+219,2025-10-07,19,San Isidro,Saludable,52.54,40.0,3.0
+2469,2025-10-02,21,San Borja,Pizza,16.22,37.0,3.0
+1812,2025-07-15,8,Miraflores,Criolla,46.95,34.0,5.0
+180,2026-01-14,20,Surco,Comida rápida,34.74,61.0,1.0
+2355,2026-01-04,11,La Molina,Pizza,73.85,45.0,2.0
+2093,2026-03-20,20,Miraflores,Comida rápida,36.19,31.0,4.0
+930,2026-01-19,13,San Isidro,Criolla,51.35,31.0,5.0
+341,2026-02-26,13,La Molina,Criolla,42.11,47.0,3.0
+2047,2025-09-06,19,Surco,Comida rápida,26.74,52.0,4.0
+1226,2025-09-21,22,La Molina,Saludable,50.4,51.0,2.0
+749,2025-06-22,19,Miraflores,Criolla,52.45,32.0,5.0
+1124,2026-01-09,19,Surco,Criolla,32.27,37.0,4.0
+663,2025-09-26,19,San Borja,Comida rápida,43.95,33.0,
+481,2025-12-08,20,La Molina,Comida rápida,39.69,55.0,3.0
+804,2025-08-14,20,Miraflores,Postres,29.54,40.0,5.0
+2173,2025-09-23,12,San Isidro,Comida rápida,32.27,27.0,4.0
+1583,2025-07-28,13,Surco,Comida rápida,36.06,28.0,4.0
+1908,2025-11-29,3,San Isidro,Pizza,36.88,20.0,5.0
+2474,2025-09-10,20,Miraflores,Postres,24.61,44.0,3.0
+550,2025-11-06,13,San Borja,Criolla,57.42,35.0,3.0
+1188,2025-10-26,17,La Molina,Criolla,36.6,,2.0
+784,2026-04-06,12,Miraflores,Comida rápida,43.8,32.0,4.0
+2754,2025-08-25,21,San Isidro,Pizza,45.84,17.0,4.0
+1965,2025-07-05,12,Miraflores,Comida rápida,39.55,30.0,3.0
+743,2025-11-13,14,Surco,Saludable,63.02,25.0,5.0
+2454,2026-01-28,14,Miraflores,Comida rápida,34.08,37.0,4.0
+2100,2026-02-03,12,San Isidro,Pizza,62.3,32.0,4.0
+1831,2025-08-11,21,La Molina,Comida rápida,13.95,39.0,5.0
+1256,2026-01-10,19,Surco,Pizza,61.13,33.0,4.0
+2401,2026-03-17,10,Miraflores,Saludable,40.01,18.0,5.0
+2043,2026-04-01,12,Surco,Criolla,60.94,54.0,2.0
+2156,2026-01-26,18,Miraflores,Pizza,54.66,19.0,5.0
+1508,2025-12-31,13,San Isidro,Criolla,64.51,35.0,3.0
+248,2026-03-04,12,Miraflores,Saludable,53.68,30.0,4.0
+2903,2025-05-17,20,Miraflores,Pizza,42.24,26.0,4.0
+2604,2026-01-28,18,San Borja,Pizza,40.04,36.0,3.0
+2766,2025-08-24,12,Surco,Saludable,28.22,35.0,5.0
+627,2026-02-16,2,Miraflores,Criolla,48.15,13.0,5.0
+348,2026-01-08,20,San Borja,Saludable,32.9,37.0,3.0
+279,2025-08-28,20,Surco,Pizza,57.95,54.0,
+1862,2025-11-24,12,Miraflores,Saludable,30.45,31.0,3.0
+2970,2025-07-24,13,La Molina,Comida rápida,25.72,74.0,3.0
+656,2025-06-27,14,Surco,Comida rápida,24.23,29.0,5.0
+2209,2025-10-17,4,Miraflores,Comida rápida,30.4,16.0,5.0
+928,2025-06-03,20,Surco,Comida rápida,30.02,,3.0
+2669,2025-08-19,18,La Molina,Pizza,47.61,61.0,1.0
+2632,2025-09-28,22,San Isidro,Saludable,45.29,25.0,5.0
+1072,2025-06-08,12,La Molina,Comida rápida,23.44,54.0,4.0
+2584,2025-12-03,11,San Isidro,Pizza,57.33,22.0,4.0
+1274,2025-10-12,14,La Molina,Comida rápida,32.82,53.0,3.0
+2909,2026-04-06,12,Miraflores,Saludable,17.7,24.0,5.0
+446,2025-08-30,13,Miraflores,Postres,26.55,29.0,4.0
+618,2025-09-13,1,San Isidro,Comida rápida,40.67,33.0,3.0
+1887,2026-02-12,21,Surco,Saludable,29.73,27.0,4.0
+1126,2026-04-25,19,Miraflores,Comida rápida,29.51,35.0,5.0
+1833,2025-10-13,12,Surco,Comida rápida,44.76,30.0,4.0
+1657,2025-05-31,13,San Borja,Comida rápida,13.31,37.0,4.0
+2792,2026-01-14,13,Miraflores,Saludable,40.94,32.0,3.0
+845,2025-10-17,11,Miraflores,Comida rápida,29.73,22.0,5.0
+2596,2025-10-07,12,La Molina,Comida rápida,29.02,49.0,3.0
+548,2025-09-29,16,Miraflores,Saludable,58.1,31.0,4.0
+637,2025-05-19,19,San Isidro,Criolla,41.47,19.0,4.0
+908,2025-11-18,12,La Molina,Comida rápida,19.8,51.0,4.0
+1321,2025-06-09,13,San Isidro,Pizza,50.43,,3.0
+264,2025-05-02,19,Miraflores,Comida rápida,27.29,32.0,3.0
+1809,2025-10-26,14,Surco,Saludable,30.61,49.0,2.0
+2391,2026-01-11,13,San Isidro,Comida rápida,19.94,38.0,5.0
+2366,2026-03-12,19,La Molina,Postres,39.9,57.0,1.0
+354,2026-02-05,19,Surco,Postres,29.32,38.0,3.0
+2516,2025-11-08,20,Miraflores,Postres,27.2,36.0,3.0
+209,2025-12-06,12,Miraflores,Criolla,51.14,46.0,3.0
+614,2025-05-05,11,San Borja,Comida rápida,35.69,10.0,4.0
+1361,2025-12-23,18,San Isidro,Pizza,49.97,30.0,5.0
+1747,2026-01-12,19,San Isidro,Criolla,49.91,43.0,4.0
+1570,2025-05-20,22,La Molina,Saludable,45.41,33.0,5.0
+1196,2025-10-24,20,San Borja,Comida rápida,32.45,55.0,3.0
+1672,2025-06-15,19,San Borja,Comida rápida,29.13,29.0,3.0
+102,2025-07-02,11,Miraflores,Criolla,52.9,21.0,5.0
+2171,2025-08-14,14,San Isidro,Postres,28.81,34.0,5.0
+58,2026-01-19,5,Surco,Criolla,67.18,48.0,2.0
+1201,2025-10-03,12,Miraflores,Pizza,53.96,39.0,4.0
+812,2026-01-28,12,Surco,Comida rápida,25.26,38.0,5.0
+2228,2025-12-28,13,Miraflores,Pizza,34.62,27.0,4.0
+562,2025-07-01,3,San Isidro,Comida rápida,24.4,25.0,4.0
+2553,2025-09-25,22,Miraflores,Postres,22.28,29.0,4.0
+230,2025-08-06,21,Surco,Saludable,60.66,31.0,4.0
+2551,2025-05-17,19,Miraflores,Comida rápida,53.52,32.0,4.0
+1798,2026-04-03,19,San Borja,Pizza,63.52,42.0,2.0
+2945,2026-01-25,13,La Molina,Comida rápida,44.99,43.0,4.0
+539,2026-01-04,14,Surco,Comida rápida,40.8,36.0,4.0
+1351,2026-04-27,12,San Isidro,Comida rápida,41.35,32.0,4.0
+1128,2025-09-11,13,San Isidro,Comida rápida,33.83,45.0,2.0
+2844,2026-04-01,15,Miraflores,Postres,25.35,38.0,5.0
+1091,2025-05-10,12,Surco,Postres,24.92,57.0,1.0
+1661,2025-10-05,2,San Isidro,Criolla,50.64,15.0,5.0
+1197,2026-02-09,12,Surco,Pizza,76.43,46.0,4.0
+708,2025-06-15,11,Miraflores,Comida rápida,25.6,43.0,4.0
+425,2026-03-04,14,Surco,Pizza,62.22,31.0,4.0
+70,2025-12-04,12,San Borja,Pizza,60.95,35.0,5.0
+1024,2025-12-22,12,Surco,Comida rápida,20.39,49.0,4.0
+1721,2025-05-26,22,San Isidro,Pizza,71.12,33.0,3.0
+648,2026-04-26,1,Surco,Postres,25.2,47.0,2.0
+2598,2026-02-12,11,San Borja,Comida rápida,26.73,32.0,3.0
+1358,2025-10-15,13,San Isidro,Pizza,58.77,32.0,5.0
+1568,2025-05-09,14,Surco,Pizza,33.92,51.0,3.0
+2457,2026-03-04,14,San Borja,Postres,31.4,33.0,3.0
+2625,2025-09-26,12,Miraflores,Criolla,29.16,41.0,3.0
+1675,2025-12-19,12,San Isidro,Comida rápida,30.11,32.0,5.0
+1026,2025-09-14,13,San Borja,Comida rápida,24.42,40.0,4.0
+621,2026-04-07,13,Miraflores,Criolla,44.31,26.0,5.0
+950,2026-04-15,19,Surco,Saludable,50.83,57.0,1.0
+2860,2025-05-21,18,Miraflores,Saludable,38.78,36.0,4.0
+953,2026-04-15,4,San Isidro,Comida rápida,37.72,29.0,5.0
+1592,2025-05-29,19,San Isidro,Criolla,30.59,35.0,4.0
+1578,2025-05-03,14,Miraflores,Pizza,44.58,25.0,5.0
+999,2026-04-21,21,Surco,Saludable,42.82,35.0,4.0
+2971,2025-07-11,16,Surco,Criolla,62.5,32.0,4.0
+2709,2025-09-09,13,Surco,Criolla,43.75,35.0,3.0
+1462,2025-08-25,21,San Isidro,Postres,23.29,40.0,3.0
+280,2025-10-08,12,Miraflores,Pizza,53.67,31.0,4.0
+1473,2025-05-14,19,La Molina,Pizza,59.05,56.0,1.0
+1576,2025-09-22,19,Surco,Pizza,51.33,36.0,4.0
+1577,2025-12-02,21,Surco,Criolla,40.19,29.0,3.0
+2121,2026-04-20,19,San Isidro,Saludable,33.57,22.0,5.0
+1045,2025-05-05,23,Surco,Comida rápida,26.83,42.0,3.0
+1724,2025-05-04,19,Miraflores,Criolla,49.55,22.0,4.0
+554,2025-10-30,20,San Isidro,Criolla,13.1,37.0,5.0
+835,2025-11-11,12,Miraflores,Comida rápida,27.9,17.0,5.0
+658,2025-10-20,14,San Borja,Comida rápida,17.4,50.0,3.0
+597,2025-12-21,11,San Isidro,Comida rápida,40.56,21.0,5.0
+635,2025-11-18,19,Surco,Saludable,30.38,45.0,2.0
+803,2026-01-02,11,Miraflores,Postres,12.97,,5.0
+2172,2025-10-05,20,San Isidro,Pizza,53.01,34.0,4.0
+1217,2025-09-18,19,Miraflores,Criolla,54.16,,4.0
+2567,2026-03-16,12,San Borja,Comida rápida,35.52,29.0,4.0
+2765,2026-03-15,12,Surco,Criolla,66.14,31.0,5.0
+441,2026-03-14,20,Miraflores,Criolla,44.22,27.0,5.0
+509,2025-10-26,21,San Isidro,Pizza,71.1,36.0,5.0
+77,2026-01-26,20,Miraflores,Criolla,47.95,35.0,3.0
+2341,2026-02-12,18,San Isidro,Saludable,57.69,52.0,3.0
+650,2026-04-13,21,San Borja,Comida rápida,39.22,44.0,3.0
+523,2025-12-28,9,San Isidro,Pizza,43.81,34.0,4.0
+1557,2026-03-09,15,San Isidro,Pizza,44.38,27.0,4.0
+1717,2025-06-02,21,Miraflores,Comida rápida,24.85,37.0,3.0
+1564,2025-06-23,21,San Isidro,Criolla,41.31,39.0,3.0
+655,2025-09-11,11,Miraflores,Pizza,52.71,27.0,5.0
+1237,2026-03-15,20,Miraflores,Postres,34.26,37.0,4.0
+1612,2026-02-08,7,Surco,Comida rápida,22.86,30.0,4.0
+2437,2025-10-25,21,San Borja,Pizza,42.83,40.0,4.0
+1727,2026-01-26,20,Surco,Criolla,39.8,40.0,3.0
+631,2026-04-29,12,Miraflores,Postres,21.31,21.0,
+1317,2025-08-23,22,San Isidro,Criolla,46.32,20.0,4.0
+2975,2025-08-12,14,San Isidro,Criolla,12.55,24.0,4.0
+1748,2025-06-27,13,San Isidro,Criolla,49.1,29.0,3.0
+483,2025-05-23,22,Surco,Pizza,47.0,,4.0
+2009,2026-02-06,19,Miraflores,Comida rápida,38.29,40.0,4.0
+2804,2026-02-26,12,Miraflores,Criolla,24.25,20.0,4.0
+2607,2026-03-11,13,Surco,Criolla,49.25,30.0,5.0
+1776,2025-05-15,13,San Borja,Comida rápida,29.75,41.0,4.0
+439,2025-12-15,18,Miraflores,Saludable,33.91,31.0,5.0
+970,2026-03-31,2,San Isidro,Comida rápida,27.42,30.0,5.0
+1794,2025-07-11,12,San Isidro,Pizza,73.72,34.0,4.0
+2244,2025-07-16,12,La Molina,Comida rápida,32.3,56.0,2.0
+1614,2025-08-22,5,Miraflores,Comida rápida,28.87,30.0,5.0
+857,2025-12-04,12,Miraflores,Pizza,39.62,44.0,4.0
+2779,2025-06-16,18,Miraflores,Criolla,19.47,38.0,4.0
+167,2025-06-13,20,Surco,Pizza,57.48,43.0,3.0
+60,2025-11-22,19,Miraflores,Pizza,35.52,27.0,4.0
+612,2025-08-30,5,San Isidro,Comida rápida,26.25,21.0,5.0
+531,2025-08-23,19,San Isidro,Pizza,51.69,41.0,3.0
+1784,2025-05-09,19,Surco,Saludable,65.01,43.0,4.0
+50,2026-03-12,11,Surco,Postres,20.33,39.0,
+2695,2025-06-23,9,La Molina,Criolla,66.7,47.0,
+2164,2025-05-27,22,Miraflores,Pizza,71.72,19.0,5.0
+859,2025-07-12,20,San Isidro,Postres,35.5,40.0,4.0
+1766,2025-07-18,13,Surco,Postres,37.75,42.0,2.0
+49,2025-07-28,4,Miraflores,Criolla,45.91,35.0,4.0
+720,2026-04-30,14,San Isidro,Postres,12.0,25.0,5.0
+1232,2025-11-10,11,San Borja,Comida rápida,32.14,42.0,3.0
+1341,2025-06-11,11,San Isidro,Pizza,62.59,10.0,4.0
+2284,2025-10-07,22,Miraflores,Criolla,49.16,10.0,5.0
+1934,2025-09-08,13,Miraflores,Comida rápida,31.2,35.0,4.0
+633,2025-10-14,13,La Molina,Comida rápida,17.15,65.0,1.0
+2320,2025-09-22,12,San Isidro,Postres,26.6,32.0,4.0
+2245,2026-01-09,5,San Isidro,Saludable,43.37,40.0,4.0
+2163,2025-06-21,19,San Isidro,Postres,24.85,37.0,4.0
+1069,2026-03-05,10,San Borja,Comida rápida,29.9,32.0,4.0
+2578,2025-06-18,14,Surco,Postres,32.03,48.0,3.0
+26,2025-05-22,14,San Isidro,Pizza,49.19,19.0,4.0
+2760,2026-04-15,13,La Molina,Criolla,52.68,51.0,3.0
+220,2025-11-14,20,San Isidro,Pizza,62.54,35.0,3.0
+1346,2025-10-12,13,Miraflores,Saludable,28.25,25.0,5.0
+277,2025-09-29,19,Surco,Comida rápida,42.38,48.0,3.0
+2231,2025-06-18,12,Surco,Pizza,65.81,38.0,3.0
+1308,2025-07-20,19,Surco,Saludable,52.78,19.0,5.0
+1642,2026-04-28,13,Surco,Pizza,59.26,34.0,4.0
+1049,2025-09-09,20,La Molina,Pizza,63.5,48.0,3.0
+2096,2025-09-09,20,San Borja,Comida rápida,41.2,22.0,
+2176,2025-09-09,22,San Borja,Postres,25.09,30.0,5.0
+2674,2025-07-11,12,San Borja,Postres,22.5,41.0,
+1548,2025-07-11,13,La Molina,Criolla,47.29,69.0,2.0
+298,2025-10-08,20,Miraflores,Comida rápida,42.93,31.0,4.0
+1597,2025-10-17,13,Miraflores,Pizza,39.84,49.0,3.0
+1749,2025-05-15,1,Miraflores,Comida rápida,31.09,34.0,4.0
+959,2025-12-29,18,San Isidro,Comida rápida,51.52,34.0,3.0
+1886,2025-10-30,11,Surco,Criolla,42.47,27.0,4.0
+1265,2025-07-31,12,Surco,Saludable,32.96,40.0,3.0
+350,2026-01-11,16,San Borja,Pizza,60.58,37.0,5.0
+1303,2025-06-22,13,Surco,Criolla,23.75,40.0,4.0
+644,2025-09-03,13,Miraflores,Postres,41.27,35.0,5.0
+1106,2025-09-13,13,San Borja,Comida rápida,19.97,51.0,2.0
+1208,2025-08-26,19,La Molina,Pizza,50.47,59.0,
+1996,2025-10-12,4,La Molina,Criolla,67.18,46.0,3.0
+1299,2026-02-17,13,Miraflores,Saludable,35.65,37.0,3.0
+2012,2025-08-27,21,San Borja,Pizza,42.92,41.0,3.0
+1777,2025-09-30,20,San Isidro,Comida rápida,34.45,29.0,4.0
+1103,2025-10-31,19,Surco,Saludable,49.4,29.0,4.0
+2413,2025-05-12,19,Surco,Comida rápida,38.62,34.0,4.0
+1457,2026-02-06,20,San Isidro,Comida rápida,29.44,37.0,
+2149,2026-02-27,6,Surco,Criolla,68.93,42.0,2.0
+787,2025-08-11,12,Miraflores,Comida rápida,27.21,,2.0
+2739,2025-05-24,18,La Molina,Postres,15.79,53.0,3.0
+141,2025-12-17,12,Miraflores,Comida rápida,30.46,43.0,2.0
+789,2026-01-07,21,Miraflores,Comida rápida,32.76,32.0,4.0
+1615,2025-06-09,12,Miraflores,Pizza,53.67,34.0,5.0
+2068,2026-04-10,20,Miraflores,Comida rápida,38.83,43.0,
+715,2025-05-10,20,San Borja,Criolla,71.42,46.0,4.0
+1376,2025-05-29,12,Surco,Postres,29.8,54.0,4.0
+1608,2025-07-29,12,Miraflores,Pizza,39.71,38.0,5.0
+1745,2026-01-17,12,Surco,Comida rápida,31.0,43.0,3.0
+2635,2025-11-19,4,La Molina,Pizza,79.98,41.0,4.0
+619,2026-04-30,19,San Isidro,Comida rápida,27.15,45.0,4.0
+407,2025-10-17,14,San Isidro,Comida rápida,23.12,36.0,4.0
+2483,2026-03-10,19,La Molina,Criolla,57.87,60.0,3.0
+2108,2025-11-29,12,San Borja,Pizza,46.25,45.0,2.0
+1125,2026-03-26,22,La Molina,Criolla,47.91,55.0,3.0
+1193,2025-11-14,14,San Borja,Saludable,37.64,25.0,5.0
+1966,2025-10-10,12,San Isidro,Pizza,54.88,42.0,3.0
+498,2025-05-16,22,San Isidro,Criolla,46.31,22.0,5.0
+343,2025-08-03,12,Surco,Pizza,53.27,42.0,4.0
+1917,2025-06-19,13,Miraflores,Postres,25.85,30.0,
+2304,2026-02-10,20,San Borja,Comida rápida,30.55,40.0,3.0
+783,2025-12-15,21,San Isidro,Criolla,55.76,39.0,4.0
+2033,2025-06-08,23,Surco,Comida rápida,32.09,,3.0
+304,2025-11-11,5,Surco,Saludable,36.76,43.0,4.0
+1732,2025-09-07,19,Surco,Criolla,41.71,,4.0
+665,2025-11-29,20,Surco,Pizza,88.36,40.0,4.0
+1836,2025-10-21,13,Miraflores,Pizza,56.31,28.0,
+1881,2026-04-21,12,Miraflores,Pizza,33.37,42.0,4.0
+2763,2025-10-30,20,Surco,Criolla,51.26,39.0,3.0
+2749,2025-09-29,19,San Isidro,Comida rápida,39.57,42.0,
+85,2026-04-03,15,Miraflores,Criolla,52.65,22.0,
+2249,2026-01-18,21,Miraflores,Comida rápida,35.55,17.0,5.0
+942,2025-12-15,12,San Isidro,Postres,24.67,29.0,3.0
+962,2025-12-15,6,Miraflores,Criolla,38.01,29.0,3.0
+842,2026-02-01,21,Miraflores,Comida rápida,38.96,,4.0
+1392,2026-01-01,12,Surco,Postres,25.93,35.0,4.0
+2416,2025-08-04,12,San Isidro,Comida rápida,39.43,38.0,5.0
+2243,2025-07-17,12,Surco,Criolla,58.98,53.0,3.0
+2783,2025-09-01,12,La Molina,Saludable,39.87,72.0,2.0
+291,2026-04-14,12,Miraflores,Comida rápida,28.32,42.0,2.0
+1869,2026-04-27,18,San Isidro,Criolla,35.82,31.0,3.0
+2214,2025-10-01,6,Miraflores,Comida rápida,23.02,32.0,4.0
+605,2025-12-16,15,Miraflores,Criolla,42.96,30.0,3.0
+2687,2025-12-05,13,Miraflores,Comida rápida,35.78,48.0,3.0
+917,2025-05-13,12,San Borja,Saludable,42.43,43.0,2.0
+2751,2025-07-15,13,Miraflores,Saludable,42.06,27.0,4.0
+2835,2025-11-29,15,San Isidro,Saludable,67.64,30.0,4.0
+1089,2025-07-25,20,Miraflores,Saludable,27.61,30.0,4.0
+2234,2025-10-08,20,San Borja,Postres,34.13,42.0,3.0
+1352,2026-04-07,3,Miraflores,Criolla,45.06,28.0,4.0
+822,2025-12-26,22,San Borja,Postres,29.25,32.0,4.0
+2508,2025-12-13,13,San Isidro,Criolla,52.82,35.0,4.0
+1001,2026-01-14,13,Miraflores,Comida rápida,35.08,36.0,5.0
+2872,2025-10-01,18,Surco,Postres,28.0,28.0,4.0
+19,2026-01-13,20,Surco,Criolla,67.98,43.0,3.0
+2998,2025-06-01,14,Miraflores,Saludable,40.17,22.0,5.0
+1270,2025-07-17,19,La Molina,Criolla,38.84,55.0,3.0
+1714,2025-12-13,13,La Molina,Postres,25.98,58.0,2.0
+1310,2025-10-05,8,Surco,Comida rápida,34.15,18.0,4.0
+1609,2025-06-06,19,La Molina,Saludable,58.37,55.0,2.0
+2855,2025-08-15,19,San Isidro,Postres,24.76,20.0,5.0
+1913,2025-12-06,12,Miraflores,Pizza,59.22,28.0,5.0
+2054,2025-10-22,12,Miraflores,Criolla,60.16,53.0,2.0
+1423,2026-04-19,12,La Molina,Criolla,62.74,49.0,4.0
+2055,2026-02-14,12,Miraflores,Comida rápida,30.56,40.0,4.0
+361,2026-02-04,12,Surco,Saludable,33.63,53.0,2.0
+2601,2025-05-11,20,Surco,Criolla,40.74,47.0,
+1883,2025-12-07,0,San Borja,Criolla,62.27,47.0,4.0
+1158,2026-01-12,22,Miraflores,Pizza,46.64,26.0,4.0
+2276,2025-07-09,20,Surco,Saludable,20.84,21.0,5.0
+1638,2025-06-28,6,San Isidro,Postres,27.28,,4.0
+345,2025-11-04,19,Surco,Comida rápida,25.21,39.0,4.0
+987,2025-12-11,14,Surco,Comida rápida,25.35,39.0,5.0
+1323,2026-02-05,9,Surco,Pizza,48.65,29.0,
+1790,2025-07-11,11,San Borja,Postres,19.85,40.0,4.0
+2324,2025-05-30,13,San Isidro,Postres,30.73,28.0,5.0
+2237,2025-09-27,20,Miraflores,Comida rápida,37.98,,4.0
+2704,2025-07-09,12,La Molina,Pizza,56.02,48.0,3.0
+2710,2025-08-19,13,La Molina,Criolla,49.02,50.0,2.0
+86,2025-06-22,21,San Borja,Comida rápida,32.0,24.0,5.0
+2099,2025-07-21,11,Surco,Comida rápida,51.19,42.0,
+669,2025-10-11,19,Surco,Saludable,41.48,47.0,
+1015,2026-03-25,11,Surco,Pizza,20.3,24.0,4.0
+129,2025-05-05,20,Surco,Postres,16.83,47.0,3.0
+1952,2025-06-10,14,San Borja,Comida rápida,23.32,27.0,
+1207,2025-09-25,5,San Isidro,Criolla,24.81,48.0,2.0
+892,2025-05-14,21,Surco,Pizza,55.39,35.0,4.0
+1898,2025-09-08,12,Surco,Comida rápida,34.33,37.0,5.0
+308,2025-05-22,21,Surco,Criolla,57.31,39.0,3.0
+384,2025-05-20,12,Surco,Comida rápida,36.31,49.0,
+1912,2025-05-04,18,San Borja,Comida rápida,38.75,39.0,4.0
+1379,2026-02-20,20,Surco,Pizza,57.86,40.0,
+427,2026-01-24,19,Surco,Pizza,43.53,44.0,4.0
+495,2026-01-12,4,San Borja,Comida rápida,27.38,33.0,4.0
+1036,2026-01-22,13,Miraflores,Comida rápida,31.67,41.0,2.0
+2471,2025-05-14,19,San Isidro,Postres,30.84,34.0,5.0
+2233,2025-12-12,14,Miraflores,Comida rápida,33.34,39.0,4.0
+1314,2025-09-05,22,San Isidro,Comida rápida,28.23,22.0,5.0
+1360,2026-01-23,10,San Borja,Saludable,16.48,20.0,5.0
+276,2025-09-08,12,San Borja,Criolla,50.73,37.0,5.0
+490,2025-10-27,20,San Isidro,Criolla,57.95,44.0,2.0
+1585,2025-07-07,19,San Isidro,Saludable,47.5,13.0,5.0
+691,2025-10-11,12,Miraflores,Postres,28.27,37.0,5.0
+1377,2025-09-26,18,San Borja,Criolla,36.95,28.0,3.0
+1205,2026-04-26,19,San Isidro,Criolla,23.57,27.0,5.0
+2989,2025-09-06,14,San Borja,Pizza,35.35,48.0,4.0
+2241,2025-05-11,17,La Molina,Comida rápida,33.14,58.0,1.0
+2115,2025-08-01,20,La Molina,Criolla,41.9,,2.0
+1059,2026-02-12,14,La Molina,Criolla,34.47,46.0,3.0
+119,2026-02-17,14,San Isidro,Criolla,50.65,41.0,
+1025,2026-03-30,12,San Borja,Saludable,37.74,40.0,4.0
+2420,2026-03-30,19,La Molina,Comida rápida,45.42,55.0,4.0
+282,2025-07-14,18,La Molina,Pizza,51.46,51.0,4.0
+1566,2025-12-01,13,La Molina,Criolla,61.06,42.0,3.0
+2373,2025-10-13,22,Surco,Comida rápida,15.58,34.0,3.0
+969,2025-05-04,11,San Borja,Pizza,65.89,34.0,4.0
+1209,2026-04-07,12,Miraflores,Postres,12.58,35.0,4.0
+1240,2025-06-24,19,San Borja,Comida rápida,36.7,42.0,2.0
+2487,2025-12-28,9,Miraflores,Saludable,33.08,26.0,3.0
+2025,2025-12-02,18,Surco,Pizza,72.88,39.0,4.0
+305,2025-09-05,12,Miraflores,Pizza,45.12,23.0,
+1923,2026-04-19,3,La Molina,Comida rápida,39.86,53.0,3.0
+1422,2025-08-10,21,San Borja,Pizza,53.66,38.0,5.0
+1581,2026-01-24,13,San Isidro,Comida rápida,29.47,29.0,4.0
+2275,2026-04-18,21,San Isidro,Saludable,29.75,29.0,4.0
+2067,2026-03-24,14,San Isidro,Comida rápida,48.56,25.0,5.0
+576,2025-06-21,20,Surco,Postres,30.71,44.0,3.0
+1950,2026-02-17,20,Miraflores,Pizza,51.43,33.0,4.0
+2616,2025-08-21,12,Surco,Pizza,73.56,49.0,4.0
+2668,2025-12-15,12,La Molina,Criolla,52.51,47.0,3.0
+2919,2025-09-02,13,Miraflores,Pizza,66.75,18.0,5.0
+1242,2025-09-08,21,San Isidro,Postres,18.2,29.0,5.0
+844,2025-07-31,20,Miraflores,Comida rápida,21.99,39.0,3.0
+2937,2025-11-30,21,La Molina,Comida rápida,20.1,41.0,2.0
+270,2025-05-09,14,San Isidro,Pizza,55.54,28.0,
+630,2026-01-30,14,San Borja,Comida rápida,52.19,39.0,4.0
+1034,2026-04-14,20,Surco,Criolla,25.45,42.0,2.0
+287,2025-12-13,9,San Borja,Criolla,44.34,47.0,
+2247,2026-03-16,19,San Isidro,Saludable,36.16,27.0,4.0
+301,2026-02-01,11,Surco,Comida rápida,40.76,38.0,4.0
+1954,2026-03-12,13,La Molina,Comida rápida,35.24,50.0,2.0
+1890,2025-07-21,14,La Molina,Comida rápida,33.78,62.0,1.0
+1378,2026-01-22,1,San Isidro,Comida rápida,38.8,36.0,5.0
+66,2025-08-14,20,San Borja,Criolla,59.89,25.0,4.0
+2777,2025-09-25,20,Miraflores,Postres,22.02,23.0,4.0
+891,2025-10-01,8,Miraflores,Comida rápida,28.86,21.0,4.0
+1560,2026-01-14,13,Miraflores,Comida rápida,42.67,29.0,4.0
+1845,2026-01-17,18,La Molina,Criolla,50.05,41.0,3.0
+1808,2025-11-30,19,Surco,Comida rápida,34.55,32.0,3.0
+1382,2025-08-21,12,Miraflores,Postres,16.53,20.0,5.0
+231,2025-11-14,20,Miraflores,Comida rápida,35.87,34.0,4.0
+504,2026-04-05,18,Surco,Saludable,40.69,32.0,4.0
+1271,2026-02-12,12,Surco,Pizza,68.82,38.0,5.0
+2186,2025-07-10,13,Surco,Comida rápida,42.45,49.0,2.0
+1513,2025-12-25,11,San Isidro,Postres,23.52,27.0,4.0
+1290,2025-05-02,13,Surco,Saludable,54.35,51.0,3.0
+1005,2026-01-16,18,Miraflores,Saludable,31.86,38.0,4.0
+837,2025-08-01,13,San Borja,Postres,25.45,43.0,4.0
+1613,2025-07-20,12,San Borja,Criolla,52.18,38.0,4.0
+375,2026-01-02,22,San Borja,Comida rápida,28.16,36.0,5.0
+1506,2025-05-29,12,La Molina,Comida rápida,33.24,65.0,1.0
+2529,2026-02-01,21,San Isidro,Pizza,35.35,35.0,4.0
+1865,2025-05-03,12,Miraflores,Criolla,46.06,31.0,5.0
+2462,2025-10-25,12,Surco,Saludable,41.72,32.0,4.0
+2107,2025-07-28,13,Miraflores,Pizza,55.1,35.0,4.0
+752,2025-07-22,0,San Borja,Criolla,68.93,36.0,4.0
+100,2025-09-06,12,Miraflores,Comida rápida,35.63,26.0,5.0
+2925,2025-06-28,19,Miraflores,Saludable,40.97,36.0,5.0
+867,2026-04-15,13,Surco,Comida rápida,20.45,31.0,4.0
+911,2025-12-17,11,La Molina,Postres,26.87,44.0,3.0
+1386,2025-12-13,20,San Isidro,Comida rápida,30.42,34.0,5.0
+530,2025-07-29,12,Miraflores,Pizza,45.87,52.0,3.0
+637,2025-05-19,19,San Isidro,Criolla,41.47,19.0,4.0
+186,2025-12-11,21,La Molina,Postres,12.0,41.0,4.0
+2120,2026-01-22,12,San Borja,Postres,22.03,40.0,3.0
+2608,2026-03-30,13,Surco,Pizza,53.01,,4.0
+932,2025-07-22,14,La Molina,Criolla,60.45,38.0,4.0
+1447,2026-01-23,12,San Isidro,Comida rápida,44.1,30.0,4.0
+2333,2026-01-03,10,San Isidro,Pizza,57.16,29.0,4.0
+1463,2025-05-07,22,Miraflores,Postres,33.43,,4.0
+2439,2025-06-25,18,Miraflores,Pizza,34.31,18.0,4.0
+2104,2025-09-06,4,San Isidro,Postres,27.85,19.0,5.0
+608,2025-09-18,20,San Borja,Pizza,59.52,40.0,4.0
+1408,2026-02-20,20,Miraflores,Comida rápida,32.49,36.0,4.0
+152,2025-05-13,19,La Molina,Criolla,59.65,47.0,3.0
+2011,2025-05-01,4,Miraflores,Postres,28.28,14.0,4.0
+2178,2026-04-10,20,San Borja,Criolla,53.17,36.0,5.0
+732,2025-07-02,1,San Borja,Comida rápida,20.35,20.0,5.0
+1403,2026-04-30,2,San Borja,Postres,26.84,21.0,5.0
+1673,2025-10-02,14,La Molina,Comida rápida,20.4,47.0,3.0
+2775,2025-11-14,12,Miraflores,Criolla,39.22,34.0,4.0
+24,2025-10-08,6,San Borja,Saludable,50.18,23.0,
+1737,2025-11-11,12,Miraflores,Saludable,47.36,26.0,4.0
+159,2025-07-05,22,Surco,Saludable,31.31,36.0,4.0
+862,2025-06-16,8,San Isidro,Postres,25.77,23.0,5.0
+903,2025-12-13,13,San Isidro,Postres,35.47,39.0,5.0
+1499,2026-01-24,10,Surco,Comida rápida,29.68,42.0,2.0
+1231,2025-10-22,18,San Borja,Comida rápida,25.21,45.0,4.0
+2291,2026-02-24,19,San Isidro,Criolla,53.75,44.0,
+445,2025-06-27,20,San Isidro,Pizza,60.53,29.0,4.0
+2986,2026-04-28,12,San Borja,Postres,36.43,53.0,4.0
+755,2025-07-17,11,La Molina,Pizza,50.06,49.0,4.0
+924,2025-09-23,19,San Isidro,Comida rápida,48.25,22.0,4.0
+2658,2025-05-03,13,San Borja,Saludable,56.57,27.0,3.0
+2305,2025-08-24,20,Miraflores,Pizza,73.44,24.0,5.0
+312,2025-12-16,12,San Isidro,Criolla,36.24,38.0,4.0
+549,2025-09-28,12,La Molina,Pizza,50.74,62.0,2.0
+2167,2025-10-03,21,Miraflores,Postres,24.05,19.0,5.0
+1764,2026-03-05,13,La Molina,Saludable,47.99,43.0,3.0
+307,2025-10-23,18,Surco,Saludable,49.44,47.0,3.0
+288,2025-08-20,20,San Isidro,Postres,28.88,33.0,4.0
+695,2026-03-12,14,La Molina,Comida rápida,44.38,43.0,2.0
+309,2025-12-24,13,Surco,Comida rápida,47.11,47.0,3.0
+2358,2025-10-27,13,San Borja,Pizza,75.82,45.0,
+750,2025-10-12,20,Surco,Comida rápida,26.12,40.0,4.0
+1503,2025-12-13,14,San Isidro,Saludable,57.52,,4.0
+2476,2025-07-01,14,Surco,Saludable,45.57,41.0,3.0
+909,2025-06-08,19,La Molina,Comida rápida,30.44,61.0,1.0
+2977,2025-06-11,18,Miraflores,Criolla,37.6,37.0,4.0
+2418,2025-09-18,20,La Molina,Saludable,44.14,37.0,5.0
+1345,2025-05-17,11,Miraflores,Pizza,43.47,40.0,3.0
+2535,2025-11-30,18,Miraflores,Saludable,50.05,22.0,5.0
+971,2025-09-11,12,San Borja,Criolla,40.31,32.0,3.0
+14,2026-04-25,18,Miraflores,Saludable,45.15,23.0,4.0
+874,2026-02-16,21,Miraflores,Saludable,31.76,30.0,4.0
+809,2025-09-15,20,La Molina,Criolla,30.83,64.0,3.0
+2622,2026-01-23,3,La Molina,Comida rápida,33.64,60.0,2.0
+515,2026-03-26,11,San Borja,Criolla,43.5,23.0,5.0
+2452,2025-08-11,22,Surco,Pizza,59.53,34.0,5.0
+410,2025-06-23,7,Miraflores,Comida rápida,39.81,44.0,3.0
+2283,2025-05-27,12,Miraflores,Criolla,41.64,34.0,5.0
+2297,2025-12-01,12,San Isidro,Comida rápida,41.25,41.0,4.0
+2410,2025-07-18,19,Miraflores,Comida rápida,28.11,32.0,3.0
+1287,2026-02-09,20,Miraflores,Comida rápida,18.53,29.0,
+1407,2025-11-17,13,San Borja,Saludable,33.13,25.0,5.0
+1538,2026-04-09,12,Miraflores,Comida rápida,41.36,33.0,4.0
+383,2025-10-20,13,La Molina,Criolla,31.9,64.0,2.0
+1645,2025-10-28,11,San Borja,Pizza,33.98,42.0,3.0
+2223,2025-10-14,20,Surco,Criolla,37.62,46.0,4.0
+2507,2025-12-18,13,Miraflores,Comida rápida,19.96,26.0,3.0
+2059,2025-12-04,20,Surco,Criolla,57.66,45.0,3.0
+1420,2025-08-16,20,San Borja,Pizza,35.66,45.0,4.0
+553,2026-01-23,13,Surco,Comida rápida,42.53,46.0,
+223,2025-11-19,19,Surco,Pizza,52.79,53.0,4.0
+1097,2026-02-18,13,La Molina,Pizza,64.26,56.0,1.0
+2642,2026-04-13,19,San Isidro,Pizza,36.37,,4.0
+9,2025-08-30,12,San Borja,Comida rápida,38.02,45.0,
+1546,2026-01-15,13,San Borja,Comida rápida,38.71,27.0,4.0
+317,2025-05-27,20,San Borja,Criolla,40.26,35.0,4.0
+428,2025-09-01,21,San Isidro,Comida rápida,26.47,25.0,5.0
+1398,2025-12-25,12,La Molina,Comida rápida,18.5,50.0,2.0
+106,2026-02-13,18,Surco,Saludable,42.77,37.0,5.0
+2015,2025-12-31,17,Surco,Comida rápida,24.77,45.0,4.0
+143,2025-06-21,18,Miraflores,Comida rápida,25.19,22.0,
+122,2026-04-25,21,Surco,Criolla,67.26,31.0,5.0
+2409,2025-05-25,13,Surco,Criolla,42.84,55.0,3.0
+2913,2025-08-20,19,Miraflores,Saludable,29.88,26.0,5.0
+1190,2025-09-29,19,Surco,Saludable,49.43,49.0,3.0
+1981,2026-04-15,18,La Molina,Criolla,71.8,38.0,5.0
+2644,2026-01-24,12,La Molina,Saludable,33.42,51.0,3.0
+1433,2026-02-27,6,La Molina,Comida rápida,38.06,46.0,2.0
+116,2025-06-17,13,Surco,Postres,22.31,37.0,5.0
+2112,2025-11-15,20,Surco,Saludable,47.61,38.0,5.0
+1994,2025-10-22,22,La Molina,Comida rápida,40.36,50.0,2.0
+2179,2026-04-15,13,Surco,Postres,27.19,56.0,2.0
+2845,2025-10-29,12,Surco,Comida rápida,34.3,47.0,4.0
+2997,2026-01-30,18,Surco,Criolla,50.14,32.0,3.0
+1671,2025-05-13,19,Miraflores,Criolla,54.56,27.0,4.0
+1875,2026-02-25,18,La Molina,Postres,26.76,40.0,4.0
+673,2025-06-16,12,Miraflores,Comida rápida,34.94,50.0,2.0
+1813,2025-06-15,12,San Borja,Comida rápida,41.13,35.0,3.0
+2755,2026-04-21,19,San Isidro,Postres,22.17,,4.0
+592,2025-08-30,13,Miraflores,Pizza,39.65,31.0,4.0
+1469,2025-07-21,19,San Borja,Comida rápida,34.47,38.0,3.0
+889,2025-12-02,22,Miraflores,Comida rápida,30.1,27.0,5.0
+1832,2025-11-10,9,San Borja,Postres,35.04,44.0,2.0
+1432,2026-03-07,20,Surco,Criolla,41.99,36.0,4.0
+2821,2026-03-09,11,La Molina,Pizza,66.25,42.0,2.0
+214,2025-09-03,20,Miraflores,Criolla,42.6,46.0,3.0
+779,2025-08-20,19,San Borja,Criolla,53.03,44.0,4.0
+1744,2025-07-23,22,San Borja,Comida rápida,38.95,36.0,5.0
+801,2026-03-31,21,La Molina,Criolla,48.09,26.0,4.0
+2796,2026-01-09,20,San Isidro,Saludable,39.4,33.0,5.0
+1772,2025-10-28,20,Miraflores,Criolla,59.28,12.0,5.0
+2211,2025-09-29,14,San Isidro,Pizza,46.9,35.0,3.0
+2321,2025-09-13,23,San Borja,Saludable,35.05,,4.0
+2707,2025-08-09,13,La Molina,Comida rápida,30.28,53.0,4.0
+2757,2025-05-19,20,San Isidro,Criolla,39.56,41.0,3.0
+274,2026-02-28,19,Miraflores,Postres,32.11,32.0,5.0
+72,2025-10-09,14,San Borja,Pizza,44.79,36.0,4.0
+1868,2025-11-04,12,Miraflores,Saludable,30.67,45.0,3.0
+1088,2025-11-12,22,Surco,Criolla,50.87,25.0,4.0
+395,2025-06-20,14,Miraflores,Pizza,43.16,22.0,5.0
+584,2025-09-21,20,Miraflores,Criolla,46.92,35.0,5.0
+2051,2026-04-23,13,La Molina,Saludable,38.42,60.0,1.0
+2267,2025-08-17,15,Miraflores,Postres,33.19,18.0,5.0
+501,2026-01-02,2,San Borja,Comida rápida,30.06,17.0,5.0
+1628,2025-12-23,6,La Molina,Saludable,33.64,60.0,1.0
+2259,2026-02-26,12,Surco,Pizza,56.58,57.0,2.0
+1105,2025-10-04,13,La Molina,Comida rápida,34.35,63.0,3.0
+2786,2025-09-14,13,San Isidro,Criolla,49.08,31.0,4.0
+1539,2025-05-11,19,San Isidro,Saludable,41.95,38.0,4.0
+1260,2025-12-25,18,La Molina,Comida rápida,31.26,45.0,4.0
+1682,2026-04-30,11,Miraflores,Pizza,74.05,,4.0
+1819,2025-09-25,22,San Isidro,Saludable,44.08,19.0,5.0
+206,2025-08-21,20,San Borja,Criolla,44.1,54.0,4.0
+734,2026-04-07,13,San Borja,Pizza,63.64,41.0,2.0
+2842,2026-01-25,17,San Isidro,Comida rápida,39.65,19.0,4.0
+527,2025-07-29,19,Surco,Criolla,63.15,49.0,3.0
+2562,2026-01-16,0,San Isidro,Pizza,62.79,26.0,4.0
+899,2026-04-28,13,Miraflores,Saludable,41.3,42.0,3.0
+378,2026-03-02,13,San Borja,Comida rápida,28.35,36.0,3.0
+2381,2026-04-01,18,San Isidro,Criolla,24.44,30.0,5.0
+2727,2025-08-27,19,La Molina,Saludable,33.05,56.0,1.0
+1512,2025-12-22,20,Miraflores,Pizza,30.55,20.0,
+387,2025-09-19,7,Miraflores,Pizza,65.1,23.0,5.0
+199,2026-01-23,14,La Molina,Criolla,32.75,49.0,2.0
+1051,2025-12-23,11,Surco,Criolla,55.66,27.0,4.0
+591,2025-12-09,5,La Molina,Comida rápida,32.95,37.0,4.0
+520,2025-08-03,12,San Borja,Comida rápida,23.19,51.0,3.0
+2058,2025-08-27,13,Surco,Criolla,60.74,34.0,4.0
+2078,2026-04-26,13,Surco,Criolla,66.34,47.0,3.0
+430,2025-10-05,21,Surco,Postres,19.98,26.0,4.0
+1084,2025-06-07,20,La Molina,Comida rápida,40.88,61.0,1.0
+208,2025-09-07,17,San Borja,Saludable,47.36,25.0,5.0
+492,2026-01-05,20,Surco,Saludable,37.99,37.0,3.0
+1399,2025-09-25,13,Surco,Pizza,51.53,57.0,1.0
+2960,2025-07-28,19,La Molina,Postres,12.0,51.0,4.0
+793,2025-08-06,21,Miraflores,Postres,25.43,22.0,5.0
+2534,2026-01-19,14,Miraflores,Saludable,44.48,35.0,4.0
+1187,2026-01-06,12,San Isidro,Comida rápida,37.6,27.0,5.0
+1186,2026-04-29,12,La Molina,Criolla,34.51,60.0,2.0
+2788,2026-03-21,19,La Molina,Saludable,33.17,46.0,2.0
+1406,2025-07-12,12,San Isidro,Saludable,31.99,37.0,
+2912,2025-05-22,16,Surco,Criolla,41.85,37.0,5.0
+84,2025-12-23,12,Surco,Criolla,27.93,35.0,4.0
+2407,2025-09-18,13,Surco,Comida rápida,31.8,,3.0
+2274,2025-09-13,19,Surco,Pizza,44.32,41.0,2.0
+21,2026-02-18,21,San Borja,Criolla,55.5,25.0,5.0
+2964,2026-01-22,12,Miraflores,Postres,13.81,39.0,5.0
+1755,2025-05-12,12,Miraflores,Comida rápida,24.31,25.0,4.0
+2020,2025-11-22,21,Miraflores,Saludable,26.67,18.0,5.0
+2738,2026-01-09,13,San Isidro,Pizza,70.84,38.0,4.0
+2019,2025-10-26,22,La Molina,Saludable,33.3,38.0,
+974,2025-07-01,19,San Isidro,Postres,29.94,37.0,4.0
+2837,2025-08-14,20,San Isidro,Postres,29.66,40.0,3.0
+884,2025-06-25,12,San Borja,Pizza,57.09,25.0,5.0
+1099,2026-02-27,11,San Isidro,Comida rápida,34.77,35.0,3.0
+157,2025-07-25,2,San Borja,Comida rápida,40.49,49.0,2.0
+2314,2025-11-24,19,La Molina,Saludable,42.84,50.0,3.0
+887,2025-05-28,11,San Isidro,Saludable,36.08,33.0,3.0
+49,2025-07-28,4,Miraflores,Criolla,45.91,35.0,4.0
+1666,2025-11-22,1,Miraflores,Saludable,31.86,28.0,5.0
+2666,2026-02-05,18,Surco,Criolla,47.7,30.0,3.0
+1567,2025-10-24,19,San Borja,Comida rápida,26.37,,3.0
+2577,2026-03-25,17,Miraflores,Saludable,46.1,18.0,5.0
+1905,2026-03-28,0,San Isidro,Criolla,50.78,26.0,3.0
+2219,2025-09-29,7,La Molina,Postres,19.76,43.0,3.0
+2693,2025-07-29,12,Miraflores,Criolla,65.34,22.0,5.0
+459,2025-07-08,12,Surco,Saludable,12.0,38.0,5.0
+1974,2025-11-11,19,Surco,Comida rápida,35.14,51.0,4.0
+79,2026-01-07,13,Miraflores,Comida rápida,43.64,31.0,5.0
+2962,2025-11-13,3,Surco,Saludable,41.51,41.0,3.0
+1057,2025-08-12,13,La Molina,Postres,31.04,58.0,3.0
+907,2025-05-28,14,San Borja,Criolla,43.72,,5.0
+1740,2025-07-31,14,Miraflores,Criolla,32.0,23.0,4.0
+2250,2025-07-24,12,La Molina,Pizza,71.79,46.0,2.0
+2741,2025-10-05,15,San Isidro,Comida rápida,22.59,34.0,5.0
+381,2026-03-09,13,San Isidro,Criolla,64.61,44.0,2.0
+948,2025-08-20,13,Surco,Pizza,58.57,32.0,5.0
+1789,2026-04-09,11,Miraflores,Criolla,53.06,27.0,4.0
+2996,2026-01-01,20,San Isidro,Saludable,42.85,32.0,3.0
+716,2026-03-08,22,San Borja,Postres,25.49,42.0,3.0
+2374,2025-07-21,19,Miraflores,Comida rápida,26.2,45.0,4.0
+687,2025-10-03,11,Surco,Criolla,22.51,10.0,5.0
+2609,2025-09-01,20,La Molina,Criolla,68.06,43.0,4.0
+1294,2025-12-20,10,San Borja,Comida rápida,31.29,40.0,4.0
+306,2025-06-02,20,La Molina,Pizza,65.77,37.0,5.0
+210,2025-06-23,12,La Molina,Comida rápida,39.47,39.0,4.0
+1555,2025-08-15,12,Miraflores,Pizza,41.94,15.0,5.0
+2257,2026-02-04,21,Miraflores,Criolla,60.53,33.0,4.0
+165,2025-05-28,19,Miraflores,Comida rápida,34.9,44.0,3.0
+1611,2025-10-23,21,Surco,Comida rápida,22.03,36.0,5.0
+886,2025-05-14,19,San Borja,Pizza,61.01,34.0,
+1707,2026-01-25,21,Surco,Criolla,28.98,29.0,3.0
+918,2025-11-28,19,Miraflores,Saludable,49.99,44.0,3.0
+1742,2026-02-27,14,Surco,Postres,29.9,24.0,4.0
+1736,2025-05-27,19,San Isidro,Criolla,38.77,37.0,4.0
+192,2025-10-07,8,Miraflores,Postres,36.29,,5.0
+2479,2025-12-16,14,Miraflores,Saludable,49.36,32.0,4.0
+2074,2025-09-19,21,Miraflores,Saludable,36.9,36.0,4.0
+1266,2026-01-19,20,San Borja,Criolla,47.13,35.0,5.0
+484,2026-01-05,15,Miraflores,Comida rápida,25.16,29.0,4.0
+916,2025-09-22,19,San Borja,Criolla,48.96,41.0,
+2643,2026-02-09,16,Miraflores,Postres,25.43,46.0,4.0
+278,2025-06-23,19,Surco,Comida rápida,31.36,45.0,3.0
+989,2025-08-21,14,Miraflores,Comida rápida,43.08,28.0,4.0
+2944,2025-07-31,12,La Molina,Postres,33.86,47.0,4.0
+2216,2026-02-17,13,Miraflores,Saludable,43.7,28.0,3.0
+2627,2025-09-03,13,Miraflores,Comida rápida,32.31,30.0,3.0
+572,2026-01-20,11,Miraflores,Pizza,73.84,18.0,4.0
+1436,2025-07-19,18,Miraflores,Comida rápida,37.47,43.0,2.0
+994,2025-09-19,18,San Isidro,Comida rápida,32.3,29.0,4.0
+2356,2026-03-27,17,La Molina,Saludable,42.19,46.0,2.0
+1685,2025-07-13,11,Miraflores,Saludable,57.85,32.0,4.0
+586,2025-06-08,13,Surco,Postres,32.09,49.0,3.0
+2064,2026-02-27,12,San Isidro,Criolla,41.13,27.0,3.0
+1207,2025-09-25,5,San Isidro,Criolla,24.81,48.0,2.0
+1350,2025-08-25,14,Miraflores,Saludable,46.38,26.0,3.0
+1008,2025-05-13,12,Surco,Comida rápida,21.0,,3.0
+675,2026-03-01,13,San Borja,Saludable,57.85,23.0,4.0
+2713,2025-05-24,21,San Isidro,Comida rápida,18.44,33.0,4.0
+856,2025-07-17,13,La Molina,Comida rápida,41.9,58.0,1.0
+448,2025-12-25,23,Surco,Comida rápida,26.86,28.0,5.0
+1488,2026-04-14,20,San Isidro,Postres,21.86,49.0,3.0
+1743,2026-04-22,19,San Borja,Saludable,39.2,51.0,3.0
+1691,2025-12-08,12,San Isidro,Comida rápida,35.79,36.0,5.0
+2296,2025-09-07,11,Surco,Saludable,43.75,34.0,5.0
+2720,2025-11-18,20,Miraflores,Criolla,61.08,38.0,4.0
+2423,2026-03-12,11,San Isidro,Criolla,52.47,,5.0
+2700,2025-05-20,12,San Isidro,Pizza,76.26,36.0,3.0
+2716,2026-02-17,12,La Molina,Comida rápida,38.92,43.0,3.0
+1248,2026-02-12,20,La Molina,Criolla,42.8,67.0,1.0
+295,2025-10-10,13,San Isidro,Saludable,41.5,40.0,4.0
+589,2025-06-11,12,Surco,Comida rápida,35.38,29.0,
+1282,2025-09-28,14,La Molina,Saludable,39.2,39.0,5.0
+2246,2026-01-13,11,Surco,Comida rápida,19.97,50.0,
+1903,2025-11-23,20,La Molina,Saludable,44.07,44.0,2.0
+2212,2025-11-24,19,Surco,Comida rápida,33.87,40.0,4.0
+1495,2025-10-17,19,San Borja,Pizza,41.72,43.0,2.0
+2290,2025-07-06,11,Surco,Comida rápida,35.03,14.0,5.0
+1418,2025-09-08,11,Surco,Comida rápida,31.39,42.0,2.0
+426,2025-09-21,12,La Molina,Criolla,19.34,55.0,4.0
+535,2025-08-22,19,Miraflores,Pizza,63.14,40.0,5.0
+1055,2026-03-24,14,La Molina,Postres,28.42,55.0,3.0
+2846,2025-08-14,12,Miraflores,Comida rápida,29.86,26.0,5.0
+2546,2025-11-16,13,San Borja,Comida rápida,34.71,39.0,4.0
+2222,2025-06-29,12,Miraflores,Saludable,41.85,39.0,3.0
+133,2026-02-07,12,San Borja,Pizza,60.1,21.0,4.0
+1916,2025-09-29,20,Miraflores,Postres,26.07,42.0,4.0
+2593,2026-01-13,16,Miraflores,Comida rápida,32.41,35.0,3.0
+422,2025-06-16,12,San Borja,Criolla,44.64,33.0,4.0
+2703,2025-12-09,12,San Borja,Pizza,79.52,25.0,5.0
+2731,2025-05-14,13,San Isidro,Pizza,41.78,45.0,4.0
+2145,2026-04-29,14,San Isidro,Saludable,51.16,40.0,5.0
+1369,2026-03-06,13,Miraflores,Comida rápida,29.56,21.0,5.0
+557,2025-12-03,20,San Isidro,Comida rápida,25.44,46.0,4.0
+2079,2025-07-29,19,Surco,Comida rápida,41.57,35.0,3.0
+2528,2025-12-18,11,San Isidro,Criolla,51.18,25.0,5.0
+2724,2025-06-26,18,San Isidro,Pizza,45.53,32.0,3.0
+571,2025-07-15,19,San Borja,Postres,28.91,26.0,5.0
+353,2025-05-18,13,San Isidro,Pizza,60.23,27.0,5.0
+92,2025-10-04,13,La Molina,Pizza,66.21,46.0,3.0
+2158,2026-02-01,20,Surco,Saludable,16.06,42.0,2.0
+2576,2026-04-25,23,Miraflores,Criolla,61.33,17.0,4.0
+1171,2025-11-18,19,Miraflores,Saludable,32.43,36.0,
+1559,2025-12-27,14,Miraflores,Comida rápida,23.43,27.0,4.0
+1286,2025-06-05,5,San Isidro,Pizza,66.77,32.0,
+1779,2025-11-22,11,San Borja,Pizza,82.12,44.0,3.0
+1537,2026-02-26,11,San Isidro,Comida rápida,30.89,21.0,5.0
+1601,2026-01-16,21,San Borja,Postres,14.55,18.0,5.0
+1899,2025-11-18,14,Miraflores,Postres,27.04,30.0,3.0
+698,2025-12-06,20,La Molina,Saludable,34.09,60.0,1.0
+2548,2025-06-12,12,Surco,Saludable,26.09,47.0,3.0
+349,2025-10-08,13,La Molina,Comida rápida,39.25,,1.0
+2375,2026-02-15,19,Surco,Comida rápida,27.52,38.0,3.0
+2384,2025-07-12,17,Surco,Saludable,46.89,24.0,4.0
+2470,2025-07-31,18,Surco,Criolla,58.01,23.0,5.0
+2204,2025-05-09,8,Miraflores,Comida rápida,41.18,32.0,3.0
+1138,2025-11-26,19,Miraflores,Pizza,38.95,48.0,4.0
+2310,2026-03-29,18,Miraflores,Pizza,51.68,25.0,4.0
+1733,2025-10-22,19,La Molina,Pizza,52.47,57.0,2.0
+2884,2026-04-10,20,Miraflores,Comida rápida,30.36,35.0,3.0
+2868,2025-11-19,14,Surco,Comida rápida,45.08,37.0,5.0
+1340,2026-04-06,14,Miraflores,Postres,31.51,34.0,4.0
+2531,2025-11-19,14,San Borja,Comida rápida,32.97,36.0,3.0
+454,2025-07-28,20,San Borja,Postres,28.81,31.0,3.0
+914,2026-02-24,19,San Borja,Comida rápida,29.33,46.0,3.0
+1200,2025-10-01,21,Miraflores,Pizza,53.82,24.0,5.0
+1275,2025-10-29,12,Surco,Criolla,55.79,47.0,2.0
+2393,2025-05-25,11,Miraflores,Postres,23.91,20.0,5.0
+38,2026-04-29,16,La Molina,Criolla,45.46,41.0,4.0
+975,2025-11-10,13,La Molina,Postres,29.92,48.0,3.0
+2817,2025-12-17,4,San Isidro,Criolla,39.75,25.0,5.0
+984,2026-03-20,11,San Borja,Comida rápida,12.0,32.0,5.0
+1884,2025-08-27,12,San Isidro,Pizza,79.15,24.0,5.0
+2044,2025-12-20,13,San Isidro,Criolla,36.03,42.0,4.0
+1419,2025-12-15,6,Surco,Pizza,50.48,23.0,5.0
+1285,2025-08-20,12,La Molina,Pizza,87.56,58.0,3.0
+40,2025-12-30,12,San Isidro,Pizza,44.87,25.0,5.0
+1487,2025-05-04,20,San Borja,Saludable,37.54,45.0,3.0
+2230,2025-10-22,13,Surco,Pizza,63.5,38.0,4.0
+170,2026-03-27,13,Surco,Postres,17.61,35.0,3.0
+1356,2025-09-11,19,San Isidro,Saludable,37.66,40.0,4.0
+738,2025-08-06,12,Miraflores,Postres,29.69,47.0,3.0
+1624,2025-06-09,14,La Molina,Saludable,56.77,43.0,2.0
+2745,2025-06-29,11,San Isidro,Criolla,57.6,32.0,4.0
+1979,2026-01-21,22,San Borja,Comida rápida,38.56,,
+635,2025-11-18,19,Surco,Saludable,30.38,45.0,2.0
+2692,2025-12-20,18,Surco,Pizza,57.76,43.0,4.0
+2000,2026-03-08,12,San Borja,Comida rápida,25.17,47.0,3.0
+1291,2026-02-27,13,Surco,Comida rápida,21.82,33.0,4.0
+1381,2025-10-11,12,San Borja,Pizza,45.97,26.0,4.0
+580,2025-08-07,20,Miraflores,Postres,15.73,34.0,5.0
+329,2025-06-18,13,Surco,Postres,19.98,39.0,5.0
+1718,2025-09-11,11,San Isidro,Pizza,76.82,32.0,4.0
+893,2025-11-03,13,Miraflores,Postres,27.63,29.0,
+1928,2026-02-19,14,Surco,Saludable,52.44,30.0,4.0
+781,2026-02-27,13,San Isidro,Pizza,59.12,37.0,4.0
+160,2025-10-17,21,San Borja,Comida rápida,23.31,21.0,5.0
+1619,2026-04-14,20,Miraflores,Criolla,65.04,31.0,4.0
+1805,2026-02-13,12,La Molina,Pizza,64.64,48.0,4.0
+2655,2025-11-05,19,San Borja,Comida rápida,36.79,49.0,4.0
+62,2025-06-19,14,Miraflores,Comida rápida,33.96,40.0,3.0
+850,2025-09-10,13,Surco,Saludable,46.42,36.0,4.0
+2165,2025-10-04,12,Miraflores,Saludable,46.6,25.0,5.0
+2940,2025-11-29,12,Miraflores,Saludable,37.47,34.0,4.0
+2742,2025-07-21,20,San Borja,Comida rápida,37.03,45.0,3.0
+1044,2025-10-12,20,Surco,Postres,29.92,54.0,4.0
+2537,2025-07-18,11,San Isidro,Comida rápida,37.74,34.0,4.0
+1545,2025-06-21,13,San Borja,Criolla,43.75,36.0,4.0
+2017,2026-03-21,2,San Isidro,Comida rápida,38.52,24.0,
+2634,2025-12-10,21,San Borja,Criolla,48.67,30.0,3.0
+1071,2025-08-12,20,Miraflores,Comida rápida,45.88,25.0,5.0
+54,2026-04-11,21,San Isidro,Comida rápida,19.01,23.0,5.0
+2482,2025-09-15,20,La Molina,Saludable,33.46,63.0,1.0
+259,2026-01-07,22,Miraflores,Pizza,92.33,42.0,4.0
+506,2025-10-25,12,San Isidro,Pizza,52.78,35.0,4.0
+753,2025-09-22,17,Surco,Comida rápida,30.29,42.0,2.0
+2055,2026-02-14,12,Miraflores,Comida rápida,30.56,40.0,4.0
+218,2025-12-04,11,Miraflores,Criolla,35.5,32.0,4.0
+825,2025-09-28,13,San Isidro,Pizza,76.67,36.0,3.0
+1591,2025-08-31,13,San Isidro,Criolla,34.54,10.0,5.0
+2554,2026-02-01,12,San Isidro,Postres,19.53,55.0,4.0
+2311,2026-02-11,18,San Isidro,Comida rápida,25.37,42.0,3.0
+1390,2025-08-19,13,Miraflores,Postres,25.29,,5.0
+2544,2025-05-08,20,San Borja,Criolla,42.32,28.0,4.0
+1267,2026-02-15,13,La Molina,Postres,24.02,61.0,2.0
+2539,2026-04-09,19,Surco,Comida rápida,39.07,46.0,2.0
+2790,2025-09-15,5,Surco,Saludable,26.38,38.0,4.0
+772,2026-03-02,17,La Molina,Pizza,56.85,38.0,3.0
+2850,2025-06-13,11,La Molina,Comida rápida,25.69,57.0,1.0
+2087,2025-10-23,12,Miraflores,Criolla,37.22,37.0,5.0
+2888,2025-08-25,12,San Isidro,Comida rápida,34.05,,2.0
+1086,2026-02-13,21,Surco,Postres,20.87,33.0,3.0
+1796,2026-01-29,2,Miraflores,Saludable,42.81,25.0,5.0
+2210,2025-07-11,12,Miraflores,Pizza,82.35,47.0,3.0
+1326,2026-01-01,19,San Borja,Postres,35.01,32.0,5.0
+2155,2025-06-20,20,San Isidro,Comida rápida,24.62,41.0,3.0
+1629,2026-02-13,20,San Borja,Postres,25.13,42.0,2.0
+1946,2026-02-22,22,Miraflores,Criolla,82.11,23.0,4.0
+1722,2025-12-12,21,San Borja,Pizza,53.72,28.0,4.0
+2802,2025-12-31,1,San Isidro,Postres,25.59,37.0,4.0
+2656,2026-04-18,14,Miraflores,Saludable,49.75,,5.0
+1757,2026-01-26,14,Surco,Comida rápida,37.5,36.0,4.0
+1792,2025-11-21,19,La Molina,Comida rápida,29.85,61.0,2.0
+1164,2026-03-09,13,Surco,Criolla,51.76,33.0,4.0
+964,2025-12-09,22,San Isidro,Comida rápida,49.42,19.0,5.0
+2950,2025-07-05,21,Miraflores,Comida rápida,20.44,29.0,
+1738,2026-04-02,20,San Isidro,Postres,30.87,47.0,2.0
+399,2025-11-06,23,Miraflores,Criolla,42.56,23.0,5.0
+585,2025-06-26,20,Surco,Comida rápida,41.41,55.0,4.0
+949,2025-05-04,20,San Isidro,Postres,29.84,44.0,2.0
+705,2025-11-28,19,Miraflores,Criolla,32.1,38.0,4.0
+432,2025-09-22,13,San Isidro,Criolla,45.47,38.0,4.0
+293,2025-11-10,10,Miraflores,Comida rápida,27.57,22.0,5.0
+146,2025-12-17,19,Surco,Criolla,43.41,38.0,5.0
+324,2026-02-28,20,La Molina,Comida rápida,39.41,49.0,3.0
+2899,2025-06-12,13,La Molina,Saludable,49.54,74.0,1.0
+1166,2026-03-15,13,Surco,Comida rápida,34.95,42.0,4.0
+1453,2026-02-12,12,San Isidro,Comida rápida,24.36,42.0,2.0
+3,2026-01-26,11,San Borja,Comida rápida,35.02,30.0,4.0
+577,2026-04-04,19,La Molina,Postres,26.16,63.0,1.0
+2338,2025-09-26,13,San Isidro,Postres,21.66,35.0,4.0
+340,2026-04-14,21,La Molina,Criolla,34.44,43.0,2.0
+1860,2025-05-07,20,Surco,Pizza,34.82,40.0,4.0
+1660,2026-04-28,7,Surco,Comida rápida,29.31,40.0,4.0
+926,2025-12-14,5,San Isidro,Saludable,39.07,17.0,5.0
+266,2026-01-09,20,Miraflores,Criolla,46.27,36.0,4.0
+377,2026-04-20,1,La Molina,Saludable,43.18,35.0,4.0
+1942,2025-05-08,19,La Molina,Comida rápida,32.34,53.0,4.0
+1464,2025-09-14,13,La Molina,Criolla,66.46,59.0,1.0
+272,2025-08-07,19,Miraflores,Comida rápida,33.03,34.0,4.0
+697,2025-05-28,18,San Isidro,Saludable,43.06,37.0,5.0
+2584,2025-12-03,11,San Isidro,Pizza,57.33,22.0,4.0
+245,2025-09-25,8,Surco,Comida rápida,37.4,44.0,2.0
+2861,2025-11-12,12,Surco,Pizza,58.16,52.0,4.0
+477,2025-06-08,13,Surco,Saludable,27.45,39.0,4.0
+1771,2026-04-14,13,Surco,Criolla,75.29,43.0,3.0
+1799,2025-08-03,20,La Molina,Comida rápida,32.12,54.0,4.0
+1927,2026-01-17,12,San Isidro,Saludable,38.34,30.0,4.0
+2928,2025-11-08,20,Miraflores,Criolla,54.82,,5.0
+2580,2026-03-20,19,Surco,Pizza,69.28,,4.0
+2831,2025-05-31,19,Surco,Comida rápida,43.87,48.0,
+355,2025-12-09,11,Surco,Saludable,43.5,,3.0
+2005,2026-03-30,13,Surco,Comida rápida,30.17,44.0,3.0
+1949,2025-05-02,20,San Borja,Postres,25.61,26.0,4.0
+251,2026-04-03,13,Miraflores,Postres,29.01,40.0,3.0
+414,2025-06-29,13,Miraflores,Comida rápida,31.78,31.0,5.0
+546,2025-06-05,12,Surco,Comida rápida,20.84,,4.0
+1194,2026-04-09,1,Surco,Criolla,56.46,31.0,5.0
+739,2025-08-13,12,San Borja,Pizza,44.57,43.0,2.0
+311,2025-06-07,0,San Borja,Criolla,53.11,38.0,4.0
+1765,2025-05-08,19,Miraflores,Comida rápida,20.34,39.0,3.0
+894,2026-03-08,13,Surco,Comida rápida,23.88,39.0,5.0
+1132,2026-04-11,19,San Isidro,Comida rápida,33.3,26.0,
+1450,2026-04-30,19,Miraflores,Saludable,43.82,31.0,5.0
+2955,2025-06-11,11,Surco,Comida rápida,31.83,42.0,3.0
+16,2025-09-08,12,Miraflores,Saludable,47.64,33.0,4.0
+2032,2025-11-01,19,Miraflores,Comida rápida,22.15,38.0,4.0
+722,2025-08-27,12,Miraflores,Pizza,72.97,29.0,4.0
+1421,2025-10-19,17,Miraflores,Postres,21.58,29.0,4.0
+2678,2025-05-03,22,San Borja,Pizza,48.48,39.0,4.0
+982,2026-03-22,22,Miraflores,Criolla,33.59,27.0,3.0
+1953,2026-03-14,11,San Borja,Postres,17.9,33.0,4.0
+1540,2025-07-01,20,Surco,Pizza,48.91,40.0,4.0
+2893,2025-07-20,13,Miraflores,Criolla,63.36,41.0,2.0
+1551,2025-07-02,12,Surco,Pizza,67.22,48.0,2.0
+2461,2025-12-17,2,Surco,Criolla,43.07,25.0,5.0
+364,2026-04-07,13,San Borja,Postres,27.14,37.0,3.0
+983,2025-08-26,13,La Molina,Comida rápida,42.19,69.0,2.0
+183,2025-09-14,11,Surco,Pizza,53.98,34.0,4.0
+986,2025-11-28,12,Surco,Criolla,12.08,36.0,5.0
+2060,2025-08-22,12,Surco,Criolla,47.56,38.0,5.0
+1195,2025-10-08,12,La Molina,Criolla,50.82,25.0,5.0
+1847,2026-04-24,14,Miraflores,Postres,28.46,30.0,4.0
+1848,2025-12-09,12,San Isidro,Saludable,35.55,41.0,4.0
+1122,2025-09-25,15,San Borja,Comida rápida,15.84,15.0,4.0
+188,2025-12-20,21,La Molina,Criolla,61.35,42.0,3.0
+620,2026-03-17,12,La Molina,Criolla,36.69,50.0,2.0
+2689,2025-08-20,13,La Molina,Saludable,63.58,49.0,3.0
+1176,2025-07-02,19,San Isidro,Comida rápida,44.82,38.0,
+1183,2026-04-12,18,Miraflores,Pizza,24.65,33.0,4.0
+2422,2025-09-23,20,La Molina,Saludable,35.38,49.0,3.0
+2957,2026-01-17,20,Surco,Saludable,64.56,44.0,3.0
+615,2025-05-29,20,Miraflores,Comida rápida,28.51,36.0,5.0
+1514,2026-01-21,18,Miraflores,Postres,24.16,26.0,5.0
+1467,2026-03-11,3,Surco,Pizza,44.32,25.0,5.0
+402,2026-03-10,13,San Isidro,Saludable,55.16,27.0,4.0
+995,2026-03-16,0,La Molina,Postres,17.48,47.0,4.0
+935,2025-05-06,13,San Isidro,Saludable,18.17,32.0,4.0
+372,2025-10-23,18,San Isidro,Criolla,54.19,40.0,5.0
+2004,2026-01-06,19,San Isidro,Pizza,66.45,27.0,5.0
+2761,2025-10-30,13,Miraflores,Saludable,44.96,,4.0
+594,2025-10-10,20,San Isidro,Comida rápida,22.86,23.0,4.0
+1992,2025-08-29,13,Surco,Comida rápida,21.83,37.0,4.0
+727,2025-12-25,19,San Borja,Criolla,41.96,43.0,
+827,2026-04-01,12,La Molina,Comida rápida,42.58,59.0,2.0
+1750,2025-10-09,12,Miraflores,Comida rápida,20.42,27.0,4.0
+688,2025-05-08,12,San Borja,Criolla,39.72,55.0,4.0
+2251,2025-09-23,21,Miraflores,Criolla,46.55,22.0,5.0
+137,2025-06-11,19,San Isidro,Comida rápida,37.43,30.0,4.0
+2489,2025-10-28,14,San Isidro,Saludable,32.98,38.0,
+629,2026-01-07,6,San Isidro,Comida rápida,18.91,31.0,5.0
+335,2025-05-06,13,San Isidro,Comida rápida,26.22,48.0,3.0
+391,2026-03-18,20,Surco,Comida rápida,26.55,37.0,4.0
+2347,2026-02-16,13,Miraflores,Saludable,49.17,35.0,
+1110,2026-03-20,13,Miraflores,Criolla,53.28,42.0,3.0
+1814,2025-10-07,12,Surco,Comida rápida,21.09,41.0,3.0
+2744,2025-11-04,20,San Isidro,Criolla,35.38,35.0,3.0
+711,2025-07-21,11,San Borja,Comida rápida,23.17,41.0,4.0
+1040,2026-03-12,14,La Molina,Criolla,47.58,41.0,3.0
+1964,2025-05-28,11,San Isidro,Comida rápida,27.0,30.0,3.0
+2070,2026-02-13,7,Miraflores,Postres,21.07,28.0,4.0
+2639,2025-12-21,8,Miraflores,Pizza,64.62,20.0,4.0
+1562,2025-05-05,20,San Isidro,Saludable,42.22,41.0,3.0
+2803,2025-06-04,21,San Isidro,Comida rápida,34.4,23.0,5.0
+1595,2025-12-12,20,La Molina,Comida rápida,28.66,54.0,3.0
+2896,2025-06-30,20,Surco,Criolla,49.34,,3.0
+2563,2026-01-16,13,San Borja,Pizza,63.77,40.0,4.0
+1113,2025-09-07,20,Miraflores,Criolla,63.11,32.0,4.0
+466,2025-07-25,11,San Isidro,Saludable,41.4,32.0,
+1561,2026-01-17,14,San Isidro,Postres,29.7,23.0,5.0
+1224,2026-03-01,23,Surco,Saludable,53.27,18.0,4.0
+2035,2025-10-31,11,Miraflores,Pizza,32.85,21.0,5.0
+1293,2025-05-11,12,San Borja,Comida rápida,16.42,33.0,4.0
+2799,2026-04-02,19,Miraflores,Pizza,44.46,25.0,5.0
+1509,2025-12-22,13,Miraflores,Saludable,39.68,34.0,5.0
+1105,2025-10-04,13,La Molina,Comida rápida,34.35,63.0,3.0
+661,2026-03-13,4,San Isidro,Postres,40.68,24.0,4.0
+339,2026-02-04,22,Miraflores,Postres,23.46,19.0,4.0
+216,2025-06-22,13,La Molina,Criolla,43.32,49.0,3.0
+1616,2026-02-25,16,Miraflores,Pizza,77.18,16.0,5.0
+2118,2026-02-15,19,La Molina,Comida rápida,28.62,64.0,2.0
+2988,2025-12-06,13,Surco,Comida rápida,34.03,47.0,3.0
+2852,2026-02-25,14,San Borja,Comida rápida,33.36,37.0,4.0
+1593,2025-09-14,12,Surco,Comida rápida,31.3,19.0,5.0
+2368,2025-12-30,5,Surco,Postres,32.91,13.0,4.0
+2006,2025-09-07,22,La Molina,Saludable,44.43,67.0,2.0
+2565,2026-04-17,14,San Borja,Criolla,68.52,31.0,3.0
+817,2025-06-22,13,Surco,Saludable,30.07,,2.0
+1068,2025-12-11,11,Miraflores,Comida rápida,26.29,38.0,4.0
+2065,2025-12-18,13,Surco,Criolla,50.0,37.0,
+275,2025-11-24,13,La Molina,Pizza,50.14,40.0,
+2282,2025-05-05,12,San Isidro,Comida rápida,19.45,44.0,2.0
+866,2025-06-25,18,San Isidro,Pizza,32.95,34.0,3.0
+102,2025-07-02,11,Miraflores,Criolla,52.9,21.0,5.0
+1502,2025-08-04,20,Miraflores,Pizza,65.55,27.0,4.0
+2185,2025-10-06,1,Miraflores,Comida rápida,24.75,24.0,4.0
+172,2026-04-13,12,Surco,Saludable,40.08,45.0,4.0
+108,2025-12-17,18,Miraflores,Pizza,57.68,24.0,5.0
+1941,2026-02-06,18,San Isidro,Comida rápida,37.19,40.0,5.0
+1522,2026-03-20,11,San Isidro,Pizza,67.87,,5.0
+281,2025-08-24,2,Surco,Comida rápida,41.9,39.0,
+2874,2026-03-09,12,Surco,Pizza,56.4,,3.0
+2038,2026-04-05,13,San Borja,Saludable,32.69,53.0,2.0
+2679,2025-08-12,13,La Molina,Comida rápida,32.18,65.0,3.0
+2481,2025-09-26,19,San Borja,Comida rápida,33.15,39.0,4.0
+2045,2025-05-08,8,San Borja,Pizza,37.79,22.0,4.0
+2288,2025-11-16,19,San Borja,Criolla,45.19,36.0,5.0
+2378,2025-10-05,20,Surco,Saludable,45.81,48.0,3.0
+2619,2025-12-08,12,La Molina,Pizza,46.65,48.0,4.0
+2277,2025-11-12,12,Surco,Comida rápida,31.98,38.0,4.0
+296,2025-11-24,11,Miraflores,Comida rápida,21.06,35.0,5.0
+713,2025-11-13,12,San Borja,Saludable,31.6,33.0,4.0
+73,2025-11-18,21,Miraflores,Postres,21.84,21.0,5.0
+2034,2025-12-09,14,San Isidro,Saludable,47.54,30.0,3.0
+2307,2025-09-27,22,Miraflores,Saludable,43.42,32.0,3.0
+2887,2025-10-25,8,Surco,Saludable,40.41,38.0,4.0
+2933,2026-02-01,12,La Molina,Postres,24.68,57.0,1.0
+482,2026-04-22,20,Miraflores,Criolla,27.92,43.0,3.0
+2985,2025-08-22,4,San Isidro,Postres,36.13,29.0,4.0
+1531,2025-11-03,12,Surco,Comida rápida,30.52,51.0,3.0
+2597,2026-04-16,11,Surco,Pizza,45.63,23.0,5.0
+1515,2026-04-24,12,Surco,Comida rápida,24.64,31.0,4.0
+818,2025-11-21,14,Miraflores,Saludable,44.43,35.0,3.0
+1763,2025-08-01,22,Surco,Pizza,30.83,12.0,4.0
+1491,2025-05-16,18,Surco,Comida rápida,17.65,29.0,4.0
+1172,2026-03-09,13,Surco,Postres,31.19,52.0,2.0
+2491,2025-10-20,15,La Molina,Comida rápida,38.0,45.0,2.0
+2024,2025-12-28,0,Surco,Comida rápida,27.28,40.0,4.0
+2109,2025-09-20,19,San Borja,Criolla,52.81,44.0,2.0
+2252,2026-03-19,20,San Isidro,Comida rápida,20.9,40.0,4.0
+2309,2025-06-05,13,San Isidro,Postres,23.07,35.0,3.0
+406,2025-10-27,14,La Molina,Saludable,39.33,61.0,3.0
+758,2025-10-20,12,Miraflores,Pizza,45.43,52.0,3.0
+2330,2025-08-26,7,Miraflores,Comida rápida,40.55,22.0,5.0
+2220,2025-05-19,22,San Borja,Comida rápida,41.44,33.0,4.0
+1958,2025-07-23,13,Miraflores,Postres,24.76,,3.0
+98,2025-05-09,13,San Isidro,Comida rápida,29.38,41.0,2.0
+1334,2025-12-01,11,Miraflores,Criolla,47.07,37.0,4.0
+2427,2026-01-09,20,Surco,Comida rápida,34.88,45.0,2.0
+744,2026-04-16,20,La Molina,Saludable,42.46,49.0,3.0
+807,2025-09-10,19,Surco,Postres,33.14,50.0,3.0
+2816,2025-09-03,14,San Borja,Comida rápida,31.59,37.0,4.0
+1978,2025-08-01,19,La Molina,Pizza,66.44,51.0,4.0
+2541,2025-07-08,22,Surco,Saludable,30.21,37.0,4.0
+1536,2026-03-15,11,Miraflores,Pizza,41.53,38.0,3.0
+2085,2025-10-16,19,Surco,Comida rápida,33.91,30.0,5.0
+2141,2025-06-12,5,Surco,Criolla,41.44,30.0,5.0
+149,2025-10-18,13,San Isidro,Pizza,61.06,40.0,4.0
+1851,2026-01-19,12,Miraflores,Comida rápida,22.97,40.0,
+2088,2026-01-24,9,La Molina,Saludable,41.79,41.0,
+1984,2025-09-10,18,Surco,Comida rápida,19.78,35.0,
+1316,2025-11-25,18,San Isidro,Pizza,65.58,36.0,4.0
+693,2025-09-13,12,La Molina,Comida rápida,24.95,59.0,
+819,2025-09-03,18,San Isidro,Pizza,45.98,32.0,5.0
+1729,2025-10-04,21,San Borja,Criolla,65.08,31.0,5.0
+1387,2026-03-06,12,San Isidro,Pizza,67.71,42.0,3.0
+2319,2025-05-12,18,Surco,Comida rápida,41.47,30.0,4.0
+2091,2025-07-16,20,San Borja,Postres,24.04,37.0,5.0
+1600,2025-05-25,13,Miraflores,Pizza,50.19,45.0,2.0
+2399,2025-08-03,18,Miraflores,Saludable,38.35,36.0,4.0
+2496,2026-03-04,14,San Isidro,Pizza,39.78,38.0,5.0
+702,2025-11-08,13,La Molina,Comida rápida,18.53,47.0,3.0
+1957,2025-12-17,19,Surco,Postres,27.78,51.0,3.0
+2701,2025-07-14,11,Surco,Postres,25.21,36.0,4.0
+922,2025-12-19,20,San Isidro,Comida rápida,26.28,32.0,4.0
+1425,2026-01-30,3,San Borja,Postres,33.35,39.0,3.0
+1709,2025-10-22,20,San Isidro,Postres,29.05,33.0,4.0
+906,2025-08-27,12,Surco,Comida rápida,25.11,50.0,2.0
+455,2025-12-23,18,San Isidro,Criolla,45.22,28.0,4.0
+2117,2025-12-10,14,San Borja,Pizza,53.28,25.0,4.0
+2316,2025-10-05,18,San Isidro,Pizza,41.86,35.0,4.0
+2342,2025-10-08,12,San Isidro,Pizza,36.31,25.0,5.0
+2336,2025-08-29,7,San Borja,Comida rápida,38.61,29.0,
+168,2026-04-05,13,Surco,Pizza,36.53,47.0,4.0
+731,2026-02-06,1,San Borja,Postres,27.68,41.0,2.0
+2385,2025-10-10,18,San Borja,Comida rápida,39.27,35.0,3.0
+1311,2025-08-28,8,Miraflores,Saludable,44.87,29.0,4.0
+27,2026-01-08,20,Surco,Comida rápida,21.5,40.0,4.0
+2014,2025-11-14,14,Miraflores,Saludable,41.25,25.0,5.0
+1653,2025-12-21,19,Miraflores,Comida rápida,28.13,40.0,4.0
+1623,2025-06-25,19,San Borja,Pizza,39.01,32.0,3.0
+588,2025-10-28,22,Surco,Postres,28.18,24.0,5.0
+1402,2026-04-02,12,Miraflores,Criolla,56.04,24.0,5.0
+998,2025-09-16,12,Miraflores,Comida rápida,32.37,32.0,4.0
+1177,2025-12-30,11,San Borja,Pizza,50.15,28.0,4.0
+1701,2025-05-12,14,La Molina,Saludable,47.27,55.0,4.0
+1041,2026-02-10,18,San Isidro,Postres,22.7,20.0,5.0
+34,2026-01-26,23,Miraflores,Criolla,53.19,26.0,4.0
+2293,2026-01-14,12,Miraflores,Criolla,55.35,46.0,3.0
+2406,2025-05-25,11,San Isidro,Saludable,42.69,,4.0
+1380,2025-05-11,19,La Molina,Postres,24.72,61.0,2.0
+42,2025-09-08,13,San Isidro,Postres,24.51,51.0,4.0
+1870,2025-05-14,21,Surco,Saludable,35.71,,2.0
+2382,2025-05-07,0,Miraflores,Postres,21.4,33.0,5.0
+2650,2025-08-03,19,San Borja,Criolla,33.33,55.0,3.0
+2197,2025-06-16,4,San Isidro,Pizza,42.56,26.0,4.0
+2124,2026-01-20,22,Surco,Pizza,57.11,41.0,3.0
+2195,2025-10-20,13,Surco,Pizza,57.55,29.0,
+610,2025-10-17,20,Surco,Comida rápida,35.75,44.0,
+1133,2026-02-26,13,Surco,Criolla,28.38,54.0,4.0
+29,2026-04-10,22,La Molina,Comida rápida,34.6,48.0,
+442,2026-02-03,18,Surco,Criolla,66.36,44.0,
+2026,2026-01-06,1,Surco,Pizza,23.31,32.0,3.0
+2196,2026-04-27,17,Surco,Postres,28.95,41.0,2.0
+494,2025-08-04,11,Miraflores,Pizza,61.02,32.0,5.0
+1259,2026-01-04,22,La Molina,Comida rápida,21.13,49.0,3.0
+1302,2025-12-12,12,La Molina,Comida rápida,25.82,47.0,2.0
+2582,2025-08-13,14,Surco,Comida rápida,38.11,43.0,4.0
+2403,2026-04-01,21,Surco,Postres,23.59,42.0,3.0
+1383,2025-11-03,21,Miraflores,Saludable,35.2,25.0,5.0
+1305,2026-04-07,12,Surco,Comida rápida,30.71,43.0,2.0
+237,2025-11-03,19,San Isidro,Comida rápida,42.92,47.0,2.0
+552,2025-06-06,19,San Isidro,Comida rápida,29.73,44.0,
+521,2026-02-26,21,Miraflores,Comida rápida,26.98,20.0,5.0
+2253,2025-06-11,19,Surco,Criolla,60.68,,3.0
+1233,2025-08-21,19,La Molina,Comida rápida,34.65,62.0,2.0
+1139,2025-08-19,14,La Molina,Postres,24.12,43.0,3.0
+721,2025-05-05,13,Miraflores,Comida rápida,29.56,43.0,3.0
+736,2026-02-07,21,La Molina,Comida rápida,44.4,51.0,2.0
+2698,2025-05-14,14,La Molina,Pizza,47.91,50.0,2.0
+1751,2025-10-10,20,Surco,Criolla,71.26,37.0,
+59,2025-06-04,12,San Borja,Criolla,50.6,36.0,3.0
+632,2025-10-29,4,San Isidro,Comida rápida,31.04,34.0,3.0
+1182,2025-11-26,22,San Borja,Comida rápida,23.27,29.0,3.0
+2239,2025-09-20,20,Miraflores,Pizza,97.58,45.0,4.0
+593,2025-09-10,12,San Isidro,Pizza,57.35,47.0,4.0
+1304,2026-04-20,14,Miraflores,Pizza,57.34,28.0,4.0
+1388,2025-08-06,13,San Borja,Comida rápida,36.54,35.0,3.0
+2660,2025-08-26,20,San Isidro,Postres,33.79,32.0,5.0
+2675,2025-09-06,12,Surco,Comida rápida,19.89,44.0,3.0
+2901,2025-07-25,12,La Molina,Comida rápida,37.33,58.0,2.0
+940,2026-03-11,17,Miraflores,Pizza,30.15,34.0,
+2836,2026-04-29,14,Surco,Postres,22.07,30.0,3.0
+1250,2026-04-14,21,Miraflores,Postres,24.55,,5.0
+905,2025-11-08,6,Miraflores,Saludable,46.29,29.0,5.0
+2587,2026-01-10,12,La Molina,Comida rápida,19.95,57.0,2.0
+1280,2026-01-18,5,La Molina,Criolla,40.04,34.0,3.0
+2440,2025-07-22,13,La Molina,Saludable,31.42,55.0,3.0
+2927,2025-08-07,12,Surco,Comida rápida,35.71,52.0,2.0
+2162,2026-03-30,8,San Isidro,Comida rápida,39.53,42.0,2.0
+2425,2026-04-14,12,Surco,Postres,27.84,54.0,2.0
+2504,2025-08-20,20,Miraflores,Criolla,23.71,37.0,4.0
+1143,2026-04-21,19,La Molina,Comida rápida,35.93,69.0,2.0
+2419,2025-05-31,21,Miraflores,Saludable,40.08,30.0,4.0
+707,2025-12-26,20,La Molina,Criolla,23.26,51.0,3.0
+2686,2025-12-17,13,Miraflores,Postres,23.56,21.0,5.0
+1023,2026-03-14,21,La Molina,Saludable,36.51,56.0,1.0
+746,2026-04-23,13,Surco,Postres,26.83,53.0,3.0
+1547,2025-06-28,18,San Borja,Postres,24.02,35.0,5.0
+2395,2026-01-08,12,Surco,Criolla,38.08,36.0,4.0
+2081,2025-11-08,22,Miraflores,Pizza,54.37,33.0,3.0
+514,2025-10-15,13,Miraflores,Comida rápida,34.69,25.0,4.0
+82,2025-11-29,20,Surco,Postres,38.57,34.0,4.0
+2706,2025-11-27,20,San Isidro,Postres,24.8,34.0,4.0
+1309,2025-11-18,13,Surco,Criolla,45.41,31.0,5.0
+2536,2025-11-16,21,La Molina,Comida rápida,36.3,37.0,5.0
+915,2025-05-25,7,Surco,Comida rápida,29.35,42.0,4.0
+1405,2025-10-01,20,Surco,Postres,28.36,43.0,2.0
+1648,2025-11-07,1,San Isidro,Pizza,61.72,35.0,5.0
+2806,2026-04-14,12,Surco,Pizza,62.75,30.0,3.0
+1109,2025-06-16,22,San Isidro,Criolla,47.87,16.0,4.0
+151,2025-06-05,12,Miraflores,Comida rápida,40.74,27.0,5.0
+2772,2025-08-26,21,La Molina,Comida rápida,17.05,38.0,3.0
+775,2025-12-22,19,Surco,Comida rápida,31.13,46.0,4.0
+330,2025-05-17,12,San Isidro,Comida rápida,28.24,29.0,3.0
+7,2025-05-21,20,Surco,Comida rápida,24.25,44.0,3.0
+944,2025-09-27,22,Miraflores,Postres,16.78,13.0,5.0
+823,2025-08-19,22,San Isidro,Criolla,29.39,32.0,3.0
+735,2026-03-11,19,Miraflores,Criolla,28.07,,3.0
+910,2026-01-28,13,Miraflores,Pizza,50.8,34.0,4.0
+469,2025-12-06,14,Surco,Postres,23.83,37.0,5.0
+182,2025-11-14,20,Miraflores,Comida rápida,39.29,35.0,4.0
+165,2025-05-28,19,Miraflores,Comida rápida,34.9,44.0,3.0
+1524,2026-02-17,9,La Molina,Comida rápida,32.99,47.0,3.0
+452,2025-08-26,16,Miraflores,Comida rápida,38.73,18.0,5.0
+491,2025-12-09,15,Surco,Saludable,34.21,39.0,5.0
+814,2025-07-08,19,La Molina,Comida rápida,27.11,50.0,4.0
+1144,2026-03-20,19,San Isidro,Criolla,57.16,,5.0
+1312,2025-06-28,10,San Isidro,Comida rápida,22.37,32.0,4.0
+2898,2025-05-28,13,La Molina,Comida rápida,44.13,59.0,
+1112,2025-10-20,13,Surco,Comida rápida,37.81,39.0,5.0
+2902,2025-10-24,14,Surco,Criolla,56.09,31.0,4.0
+1827,2025-12-19,18,Miraflores,Comida rápida,52.03,26.0,3.0
+1442,2025-12-01,19,La Molina,Pizza,29.34,62.0,1.0
+2714,2025-12-13,20,Miraflores,Pizza,60.05,32.0,
+1007,2025-10-19,18,San Isidro,Saludable,35.03,38.0,3.0
+1628,2025-12-23,6,La Molina,Saludable,33.64,60.0,1.0
+1633,2026-04-01,19,Surco,Pizza,72.22,,2.0
+1075,2025-07-06,12,Surco,Pizza,53.65,28.0,4.0
+579,2025-07-08,22,Miraflores,Comida rápida,33.79,32.0,4.0
+2137,2026-02-17,8,Miraflores,Postres,27.24,37.0,5.0
+2383,2025-05-14,18,Surco,Comida rápida,24.22,14.0,5.0
+2702,2025-12-29,20,San Borja,Pizza,76.11,37.0,4.0
+2340,2025-12-17,2,San Isidro,Postres,14.77,18.0,5.0
+328,2025-11-08,11,Miraflores,Comida rápida,22.16,31.0,4.0
+1791,2025-07-03,12,San Isidro,Comida rápida,36.69,32.0,4.0
+443,2025-09-04,13,Miraflores,Saludable,35.26,36.0,4.0
+1859,2026-01-06,22,Miraflores,Comida rápida,33.31,19.0,5.0
+2718,2026-03-06,13,Miraflores,Saludable,57.45,25.0,4.0
+313,2026-04-30,3,Miraflores,Comida rápida,49.08,15.0,5.0
+833,2025-11-11,14,Miraflores,Saludable,41.99,26.0,4.0
+2412,2025-10-20,19,La Molina,Saludable,47.87,49.0,3.0
+2139,2025-12-14,12,San Borja,Postres,13.43,39.0,5.0
+1415,2025-05-25,20,Miraflores,Postres,20.73,19.0,5.0
+1202,2025-06-18,15,San Isidro,Criolla,48.96,,5.0
+2352,2026-04-26,18,Surco,Criolla,37.72,47.0,4.0
+1500,2025-09-18,2,San Borja,Criolla,53.06,27.0,3.0
+1968,2026-01-16,21,Miraflores,Comida rápida,21.4,37.0,
+87,2026-02-04,11,Miraflores,Pizza,66.36,27.0,5.0
+1404,2025-11-17,13,Miraflores,Pizza,52.31,46.0,4.0
+2974,2025-12-24,11,La Molina,Comida rápida,24.81,44.0,3.0
+2361,2025-11-12,20,San Isidro,Comida rápida,32.44,34.0,4.0
+1482,2025-10-18,12,San Borja,Postres,24.31,47.0,2.0
+778,2026-03-09,22,Surco,Criolla,55.31,36.0,3.0
+800,2025-10-13,20,San Borja,Pizza,40.72,54.0,3.0
+1667,2025-07-16,18,Miraflores,Postres,25.15,28.0,4.0
+1895,2026-03-08,19,San Borja,Comida rápida,36.27,35.0,4.0
+55,2025-06-22,12,San Borja,Criolla,57.16,31.0,5.0
+2400,2026-01-25,13,Surco,Criolla,20.97,35.0,4.0
+1288,2025-11-04,20,Surco,Criolla,39.49,40.0,3.0
+1921,2026-01-05,12,San Isidro,Pizza,56.66,45.0,2.0
+1668,2025-05-12,13,Surco,Saludable,56.56,48.0,2.0
+2630,2025-12-24,23,Surco,Comida rápida,37.87,25.0,5.0
+2190,2025-06-05,11,Surco,Comida rápida,47.09,41.0,
+1702,2025-11-09,20,Miraflores,Postres,14.86,46.0,2.0
+1246,2025-07-26,0,Miraflores,Saludable,54.92,36.0,4.0
+114,2026-01-23,19,San Borja,Pizza,78.79,,3.0
+764,2025-08-03,19,Surco,Criolla,77.35,40.0,4.0
+988,2025-05-20,13,San Borja,Comida rápida,28.07,41.0,3.0
+502,2026-01-13,12,San Borja,Pizza,56.69,37.0,4.0
+2188,2025-12-27,20,San Borja,Criolla,57.41,32.0,5.0
+1010,2025-09-07,11,San Borja,Pizza,35.6,35.0,4.0
+1199,2025-09-27,12,Miraflores,Comida rápida,26.48,25.0,4.0
+1395,2026-02-13,15,San Borja,Saludable,47.47,,4.0
+590,2025-11-02,18,Surco,Pizza,27.31,46.0,3.0
+769,2025-10-09,11,La Molina,Postres,22.88,48.0,2.0
+18,2026-03-05,23,San Borja,Comida rápida,33.56,27.0,4.0
+1043,2025-11-29,23,San Isidro,Saludable,35.58,27.0,4.0
+1448,2025-09-20,20,San Borja,Pizza,52.88,48.0,4.0
+2502,2025-06-03,22,Miraflores,Comida rápida,35.62,30.0,4.0
+286,2026-01-09,13,San Isidro,Saludable,49.13,43.0,4.0
+2683,2026-04-19,13,La Molina,Pizza,60.19,63.0,2.0
+429,2025-08-14,12,Miraflores,Criolla,49.42,45.0,3.0
+1329,2025-05-04,18,Surco,Comida rápida,29.24,30.0,4.0
+2030,2026-03-02,20,Surco,Criolla,41.67,40.0,4.0
+670,2025-12-13,19,Surco,Comida rápida,29.99,,3.0
+32,2025-10-17,11,Miraflores,Criolla,44.58,29.0,3.0
+1342,2026-04-21,13,La Molina,Postres,36.86,50.0,3.0
+723,2026-02-13,20,Miraflores,Comida rápida,27.43,36.0,5.0
+952,2026-03-14,13,San Isidro,Saludable,36.78,28.0,4.0
+1915,2025-05-20,3,Surco,Saludable,31.22,29.0,4.0
+2331,2025-05-05,20,La Molina,Postres,18.24,41.0,4.0
+215,2025-09-07,22,San Isidro,Pizza,65.5,29.0,3.0
+990,2025-09-17,21,San Isidro,Pizza,60.45,26.0,4.0
+1165,2025-05-01,23,Miraflores,Criolla,35.48,23.0,5.0
+2840,2025-10-10,19,Miraflores,Saludable,32.32,44.0,4.0
+2697,2025-11-25,13,Miraflores,Pizza,61.34,,4.0
+327,2025-06-04,18,La Molina,Comida rápida,17.83,46.0,3.0
+561,2026-01-28,19,Miraflores,Pizza,63.2,44.0,4.0
+1384,2026-02-19,14,Miraflores,Comida rápida,29.36,21.0,5.0
+1725,2025-08-07,21,San Isidro,Criolla,43.76,28.0,
+1087,2026-01-09,21,Surco,Criolla,45.98,33.0,5.0
+2671,2026-04-27,14,La Molina,Comida rápida,45.42,38.0,3.0
+342,2025-10-28,19,Surco,Criolla,34.43,42.0,2.0
+1654,2025-06-14,18,Miraflores,Pizza,54.61,22.0,5.0
+148,2025-09-20,12,San Isidro,Saludable,47.14,39.0,4.0
+2377,2025-12-02,21,Surco,Criolla,49.58,29.0,4.0
+2810,2025-11-08,19,Surco,Comida rápida,27.67,46.0,
+1108,2025-10-04,11,San Isidro,Comida rápida,35.64,24.0,
+849,2025-05-01,14,San Isidro,Comida rápida,39.12,15.0,4.0
+967,2025-12-06,21,San Isidro,Saludable,38.05,39.0,4.0
+1073,2025-11-14,20,La Molina,Postres,27.04,51.0,4.0
+2511,2025-06-11,12,Surco,Comida rápida,34.8,51.0,
+1906,2026-03-01,20,Miraflores,Comida rápida,32.58,35.0,3.0
+156,2025-12-29,10,Surco,Comida rápida,34.51,30.0,3.0
+666,2025-11-19,13,San Isidro,Postres,27.3,32.0,5.0
+662,2026-02-27,18,Miraflores,Saludable,60.97,40.0,4.0
+1003,2025-10-25,18,Surco,Criolla,51.15,39.0,5.0
+2379,2025-09-11,13,San Borja,Postres,24.91,38.0,4.0
+1660,2026-04-28,7,Surco,Comida rápida,29.31,40.0,4.0
+177,2025-08-29,14,La Molina,Criolla,62.22,34.0,4.0
+2699,2025-08-29,13,San Borja,Comida rápida,46.05,38.0,
+1880,2025-12-24,20,Miraflores,Comida rápida,22.64,46.0,3.0
+1525,2025-09-30,19,La Molina,Criolla,34.93,53.0,3.0
+2865,2025-09-04,14,La Molina,Criolla,48.28,50.0,3.0
+1204,2025-07-23,13,San Isidro,Criolla,52.45,50.0,4.0
+1991,2026-02-08,18,Miraflores,Comida rápida,40.22,35.0,
+25,2026-03-10,13,San Borja,Comida rápida,27.24,,2.0
+2858,2026-01-05,12,Surco,Comida rápida,42.45,44.0,3.0
+2092,2025-10-06,20,Surco,Postres,27.61,35.0,3.0
+2113,2025-09-20,21,San Borja,Comida rápida,40.24,30.0,4.0
+2939,2025-12-18,9,Miraflores,Criolla,46.43,30.0,4.0
+876,2025-05-08,10,La Molina,Comida rápida,27.79,49.0,4.0
+2740,2025-10-09,19,La Molina,Criolla,52.22,47.0,4.0
+939,2025-12-12,13,San Borja,Comida rápida,36.35,42.0,4.0
+2743,2025-10-06,19,La Molina,Pizza,46.44,45.0,4.0
+1553,2025-12-29,15,La Molina,Comida rápida,32.03,45.0,4.0
+347,2025-11-07,20,Miraflores,Comida rápida,30.77,40.0,4.0
+2549,2025-08-17,21,La Molina,Criolla,53.44,43.0,2.0
+1814,2025-10-07,12,Surco,Comida rápida,21.09,41.0,3.0
+386,2026-01-19,20,Miraflores,Comida rápida,42.96,39.0,3.0
+2550,2025-09-29,20,San Borja,Saludable,36.77,43.0,3.0
+2647,2025-11-29,22,San Borja,Saludable,68.1,46.0,
+2122,2025-08-18,4,San Borja,Comida rápida,47.54,18.0,5.0
+937,2026-02-06,20,San Isidro,Saludable,39.45,24.0,5.0
+2624,2025-05-18,18,Miraflores,Postres,34.48,38.0,3.0
+2973,2025-06-16,13,Surco,Pizza,63.42,40.0,4.0
+1333,2025-08-06,18,San Borja,Comida rápida,33.82,13.0,5.0
+1935,2025-12-23,14,San Isidro,Criolla,65.76,39.0,
+936,2025-10-27,19,Miraflores,Criolla,36.28,32.0,4.0
+567,2025-05-19,22,San Borja,Comida rápida,39.77,30.0,3.0
+1855,2026-03-14,13,La Molina,Comida rápida,33.55,61.0,2.0
+2466,2025-07-01,18,Surco,Criolla,52.87,40.0,4.0
+1646,2025-10-17,18,Miraflores,Pizza,76.41,31.0,4.0
+2154,2025-11-19,19,Miraflores,Comida rápida,23.59,24.0,5.0
+1793,2025-11-25,13,La Molina,Postres,32.25,60.0,2.0
+1431,2025-06-26,21,Miraflores,Criolla,32.07,21.0,4.0
+2359,2025-11-06,18,Surco,Comida rápida,13.13,42.0,2.0
+1014,2025-08-09,4,La Molina,Criolla,44.59,42.0,3.0
+1929,2025-12-29,13,San Isidro,Comida rápida,31.66,54.0,3.0
+2285,2025-09-26,22,San Isidro,Pizza,42.51,32.0,4.0
+127,2025-09-08,13,Miraflores,Pizza,46.79,33.0,3.0
+2127,2026-02-06,13,La Molina,Criolla,62.83,60.0,
+1348,2025-07-15,13,Surco,Comida rápida,38.03,27.0,5.0
+356,2025-06-23,12,Miraflores,Comida rápida,44.83,32.0,4.0
+828,2025-08-03,20,Miraflores,Postres,21.55,35.0,3.0
+1640,2025-10-16,12,La Molina,Comida rápida,38.36,61.0,1.0
+985,2026-01-30,11,La Molina,Comida rápida,28.78,51.0,4.0
+363,2026-02-12,19,San Borja,Postres,27.18,41.0,3.0
+346,2025-08-24,13,La Molina,Criolla,32.3,52.0,3.0
+2094,2025-08-06,11,Miraflores,Saludable,64.79,39.0,4.0
+2585,2025-08-27,5,Surco,Saludable,36.49,23.0,4.0
+712,2026-01-11,13,Miraflores,Pizza,41.83,,5.0
+2097,2025-08-10,13,San Isidro,Comida rápida,32.53,45.0,2.0
+11,2026-03-27,21,Miraflores,Comida rápida,40.71,25.0,4.0
+2929,2025-12-29,10,Miraflores,Pizza,71.17,35.0,4.0
+1835,2025-07-29,9,Miraflores,Postres,23.58,33.0,5.0
+794,2026-04-03,20,Surco,Comida rápida,38.54,45.0,4.0
+2811,2026-01-16,14,San Isidro,Saludable,35.31,30.0,5.0
+95,2025-07-04,13,San Isidro,Criolla,26.53,29.0,5.0
+130,2025-12-04,5,La Molina,Comida rápida,33.49,52.0,
+2953,2025-06-13,22,Surco,Comida rápida,39.22,44.0,3.0
+1901,2025-06-04,21,San Isidro,Saludable,47.19,31.0,5.0
+2839,2025-12-06,22,San Isidro,Comida rápida,25.58,47.0,2.0
+1933,2026-01-23,12,Miraflores,Criolla,40.18,38.0,5.0
+2182,2025-08-16,12,Surco,Comida rápida,28.34,33.0,4.0
+1866,2025-09-04,11,Miraflores,Postres,33.58,19.0,5.0
+1659,2025-10-07,20,San Isidro,Pizza,53.33,34.0,3.0
+517,2025-06-13,12,Miraflores,Criolla,40.89,36.0,4.0
+1858,2025-08-19,12,Miraflores,Criolla,53.78,21.0,5.0
+1278,2025-05-07,12,La Molina,Criolla,83.34,45.0,2.0
+951,2026-03-27,12,San Isidro,Comida rápida,36.6,36.0,4.0
+1121,2025-07-08,0,La Molina,Comida rápida,41.89,41.0,4.0
+420,2026-04-30,13,La Molina,Comida rápida,38.06,49.0,2.0
+923,2025-08-17,12,San Borja,Criolla,43.68,33.0,5.0
+2235,2025-08-27,20,Miraflores,Comida rápida,27.11,27.0,3.0
+478,2025-08-08,19,Miraflores,Saludable,48.23,26.0,3.0
+2036,2025-10-25,13,Miraflores,Criolla,36.96,30.0,4.0
+2213,2025-06-18,20,San Isidro,Comida rápida,33.96,36.0,4.0
+1693,2026-02-02,14,San Borja,Pizza,49.5,39.0,5.0
+2248,2026-02-15,19,Miraflores,Criolla,54.21,44.0,2.0
+1472,2026-01-28,14,Surco,Pizza,64.25,48.0,2.0
+1203,2026-04-02,20,Surco,Comida rápida,52.2,41.0,4.0
+1670,2025-12-10,14,San Isidro,Criolla,58.25,27.0,3.0
+2822,2025-08-08,10,La Molina,Pizza,50.96,39.0,5.0
+1971,2026-02-27,21,San Borja,Criolla,23.78,26.0,3.0
+821,2025-06-12,13,Surco,Comida rápida,44.83,39.0,4.0
+1998,2025-08-28,20,Miraflores,Comida rápida,27.0,43.0,2.0
+2916,2026-03-26,13,La Molina,Saludable,62.71,54.0,
+1249,2025-10-25,20,Surco,Comida rápida,29.03,35.0,4.0
+2705,2026-03-08,12,Surco,Saludable,67.96,44.0,4.0
+2658,2025-05-03,13,San Borja,Saludable,56.57,27.0,3.0
+1047,2025-07-17,11,Miraflores,Comida rápida,32.15,35.0,5.0
+1889,2026-02-24,13,Miraflores,Pizza,64.88,,5.0
+616,2025-10-12,7,San Isidro,Comida rápida,35.71,28.0,4.0
+1319,2025-05-14,14,Surco,Postres,26.54,35.0,4.0
+2932,2025-06-01,12,Miraflores,Pizza,40.31,45.0,
+2499,2025-08-25,19,San Borja,Postres,28.59,39.0,4.0
+1773,2025-05-24,19,La Molina,Saludable,25.73,43.0,3.0
+3000,2025-05-12,13,Miraflores,Saludable,49.73,42.0,3.0
+132,2026-04-24,18,Miraflores,Saludable,39.91,30.0,4.0
+78,2025-12-01,21,Surco,Criolla,58.31,29.0,3.0
+2053,2025-07-25,22,Surco,Saludable,40.33,35.0,4.0
+725,2025-09-23,19,Miraflores,Comida rápida,43.87,25.0,5.0
+1315,2025-12-10,11,Miraflores,Pizza,64.02,33.0,4.0
+1852,2026-03-24,19,Miraflores,Pizza,72.37,,4.0
+2334,2026-04-29,11,Miraflores,Criolla,48.82,29.0,4.0
+2527,2026-03-10,14,San Isidro,Comida rápida,34.24,32.0,3.0
+1373,2025-10-28,18,Miraflores,Comida rápida,28.93,37.0,5.0
+1856,2025-07-23,13,Miraflores,Comida rápida,37.14,23.0,5.0
+1320,2025-05-09,20,Surco,Pizza,35.51,56.0,3.0
+2922,2025-07-15,13,Miraflores,Postres,22.11,41.0,2.0
+2207,2025-08-29,13,Surco,Pizza,64.0,46.0,4.0
+376,2025-05-26,13,Surco,Criolla,48.36,44.0,2.0
+1909,2025-10-06,6,San Isidro,Comida rápida,14.29,28.0,5.0
+334,2025-06-15,20,Miraflores,Saludable,42.37,28.0,
+2289,2025-06-19,13,Miraflores,Comida rápida,46.84,24.0,5.0
+2339,2025-07-23,21,Surco,Criolla,42.18,30.0,4.0
+1605,2026-03-24,11,Surco,Pizza,59.38,38.0,5.0
+1119,2026-02-23,14,San Borja,Criolla,57.48,14.0,5.0
+2876,2026-03-10,20,Miraflores,Pizza,55.25,,3.0
+1944,2025-12-26,21,San Isidro,Pizza,45.28,28.0,5.0
+2299,2026-01-13,11,Miraflores,Comida rápida,30.08,31.0,3.0
+2564,2026-04-15,13,Miraflores,Saludable,51.14,44.0,3.0
+1343,2025-06-10,11,La Molina,Postres,35.22,45.0,4.0
+321,2025-08-05,19,San Isidro,Criolla,38.58,34.0,4.0
+1620,2025-08-23,20,Miraflores,Comida rápida,34.16,38.0,4.0
+2733,2025-12-02,20,Surco,Saludable,34.8,55.0,3.0
+2061,2025-09-22,12,Surco,Postres,21.33,55.0,4.0
+1674,2025-08-21,19,San Isidro,Pizza,52.24,40.0,4.0
+1943,2025-08-08,23,La Molina,Criolla,49.98,37.0,4.0
+261,2026-04-11,14,Surco,Saludable,39.26,32.0,3.0
+1119,2026-02-23,14,San Borja,Criolla,57.48,14.0,5.0
+2040,2025-09-03,20,San Borja,Saludable,38.33,45.0,3.0
+690,2026-04-13,17,Surco,Pizza,70.02,28.0,3.0
+902,2026-02-18,19,Surco,Comida rápida,35.62,46.0,4.0
+2027,2026-02-23,12,San Borja,Postres,32.73,36.0,
+139,2025-07-02,21,San Borja,Saludable,47.48,47.0,3.0
+1918,2025-10-24,22,Surco,Comida rápida,30.22,39.0,3.0
+1829,2025-08-24,16,Miraflores,Postres,18.98,25.0,5.0
+1574,2026-04-03,13,Surco,Comida rápida,26.2,24.0,4.0
+320,2026-02-10,7,Surco,Criolla,31.61,37.0,3.0
+654,2025-08-25,22,San Isidro,Saludable,55.92,,3.0
+2138,2026-02-24,22,Miraflores,Postres,12.0,46.0,3.0
+2360,2025-10-01,21,Miraflores,Comida rápida,42.23,26.0,4.0
+559,2026-04-26,13,La Molina,Saludable,45.05,54.0,4.0
+113,2026-03-24,12,San Borja,Comida rápida,39.11,33.0,4.0
+532,2025-08-13,14,La Molina,Postres,22.29,50.0,
+225,2025-08-31,12,Surco,Postres,23.25,39.0,4.0
+724,2025-07-04,13,Surco,Pizza,79.23,43.0,3.0
+2467,2026-01-11,14,Miraflores,Comida rápida,21.87,,5.0
+2885,2026-04-06,11,San Borja,Criolla,65.81,33.0,3.0
+1434,2025-05-12,14,Surco,Comida rápida,37.52,41.0,2.0
+2367,2025-08-09,1,Miraflores,Saludable,52.53,34.0,4.0
+1459,2026-01-05,12,San Isidro,Postres,20.53,39.0,3.0
+2747,2026-03-15,18,San Isidro,Criolla,44.21,23.0,4.0
+847,2025-05-22,21,San Isidro,Pizza,63.88,44.0,3.0
+194,2025-12-19,7,Miraflores,Postres,18.92,25.0,4.0
+1465,2025-10-23,22,Miraflores,Criolla,28.68,22.0,5.0
+947,2025-07-09,12,La Molina,Pizza,39.82,62.0,2.0
+2022,2026-01-31,21,La Molina,Criolla,53.46,44.0,4.0
+1630,2026-01-17,12,Surco,Saludable,49.91,23.0,5.0
+118,2025-12-02,11,San Isidro,Saludable,41.65,26.0,4.0
+646,2025-09-25,20,Surco,Pizza,42.39,,2.0
+1871,2025-05-12,13,Miraflores,Saludable,46.14,40.0,5.0
+4,2025-08-15,14,Surco,Comida rápida,30.54,41.0,2.0
+75,2026-04-16,15,Surco,Comida rápida,30.2,45.0,2.0
+1756,2026-01-29,14,Miraflores,Criolla,47.38,24.0,5.0
+468,2026-02-09,13,San Isidro,Saludable,29.31,53.0,3.0
+6,2025-11-05,20,La Molina,Comida rápida,35.95,49.0,3.0
+1247,2025-06-24,20,San Isidro,Pizza,71.78,39.0,4.0
+920,2025-07-07,17,San Borja,Criolla,43.8,23.0,4.0
+229,2026-03-21,18,San Isidro,Pizza,28.7,31.0,4.0
+1064,2025-07-02,19,Surco,Criolla,33.91,29.0,3.0
+243,2026-04-11,16,Surco,Comida rápida,39.96,34.0,4.0
+2317,2025-08-29,11,San Isidro,Saludable,37.81,30.0,4.0
+1161,2026-04-11,13,Surco,Saludable,54.32,40.0,4.0
+2556,2026-03-10,11,Surco,Postres,22.67,33.0,3.0
+1527,2025-07-12,12,La Molina,Saludable,43.12,45.0,3.0
+1606,2026-01-06,20,Miraflores,Saludable,24.58,39.0,5.0
+2832,2025-07-23,21,Miraflores,Comida rápida,12.0,19.0,5.0
+2365,2026-04-07,13,Miraflores,Comida rápida,35.91,21.0,5.0
+2588,2026-01-21,14,San Borja,Criolla,42.99,35.0,3.0
+1990,2025-07-03,12,Miraflores,Saludable,50.28,40.0,4.0
+2390,2026-01-31,13,Miraflores,Comida rápida,26.02,28.0,5.0
+1976,2026-01-25,12,Miraflores,Criolla,63.3,,2.0
+1762,2025-09-22,18,Miraflores,Comida rápida,35.26,24.0,5.0
+1306,2026-04-29,18,Miraflores,Saludable,29.52,35.0,4.0
+1542,2025-12-12,20,Miraflores,Saludable,47.8,40.0,4.0
+623,2026-03-23,13,San Isidro,Criolla,54.77,25.0,5.0
+2351,2025-07-05,12,Miraflores,Criolla,46.31,26.0,5.0
+1494,2025-12-13,14,San Borja,Pizza,85.03,38.0,4.0
+111,2025-09-12,14,San Isidro,Saludable,29.64,26.0,4.0
+2782,2025-07-17,12,Miraflores,Saludable,48.37,34.0,4.0
+1170,2025-09-14,14,Miraflores,Criolla,48.89,34.0,3.0
+2500,2026-02-06,11,San Borja,Comida rápida,32.46,20.0,4.0
+233,2025-09-21,21,Miraflores,Postres,30.67,17.0,4.0
+67,2026-01-15,13,Miraflores,Saludable,32.78,29.0,5.0
+2753,2026-03-10,14,San Borja,Criolla,62.51,25.0,5.0
+2073,2026-02-11,22,San Borja,Saludable,32.59,34.0,4.0
+2193,2026-03-06,20,Surco,Comida rápida,31.35,39.0,5.0
+537,2025-12-03,18,Surco,Saludable,61.56,39.0,4.0
+126,2025-08-09,18,San Isidro,Pizza,57.25,27.0,4.0
+2134,2025-05-12,12,Miraflores,Pizza,35.0,39.0,5.0
+1255,2026-03-19,21,La Molina,Pizza,67.97,,4.0
+2717,2025-12-16,5,Miraflores,Postres,29.35,49.0,3.0
+1977,2025-07-19,13,San Isidro,Saludable,29.55,40.0,3.0
+2501,2025-11-12,13,La Molina,Pizza,63.8,52.0,3.0
+2999,2025-09-14,18,Miraflores,Pizza,68.69,25.0,5.0
+2076,2026-02-28,17,San Isidro,Comida rápida,24.2,28.0,4.0
+485,2025-05-10,18,Miraflores,Comida rápida,17.5,27.0,4.0
+1655,2026-03-10,11,San Isidro,Saludable,34.49,29.0,4.0
+2721,2025-06-07,12,Miraflores,Comida rápida,26.65,36.0,
+2303,2026-04-19,13,San Isidro,Pizza,48.49,35.0,4.0
+2443,2026-03-25,12,San Isidro,Criolla,39.04,47.0,2.0
+1775,2025-06-15,12,Surco,Criolla,62.32,47.0,4.0
+919,2025-05-25,14,Surco,Criolla,46.55,34.0,4.0
+1647,2026-04-21,19,La Molina,Pizza,56.04,,2.0
+1027,2025-07-15,9,San Borja,Comida rápida,35.61,30.0,4.0
+1031,2026-03-16,19,San Borja,Pizza,53.62,31.0,4.0
+883,2025-09-04,21,Surco,Comida rápida,35.75,20.0,4.0
+1336,2025-07-14,12,San Isidro,Comida rápida,35.24,34.0,
+2258,2025-11-04,6,Miraflores,Comida rápida,59.43,37.0,4.0
+365,2025-09-28,12,Surco,Saludable,47.33,32.0,4.0
+2126,2025-07-24,18,San Isidro,Comida rápida,22.91,43.0,2.0
+28,2025-12-22,12,Miraflores,Pizza,58.32,39.0,4.0
+474,2025-11-20,13,Miraflores,Postres,20.54,38.0,5.0
+526,2026-04-02,13,Surco,Postres,33.11,47.0,3.0
+726,2025-12-10,20,San Isidro,Criolla,42.37,44.0,4.0
+56,2026-04-05,12,Miraflores,Criolla,59.07,42.0,3.0
+639,2025-09-03,20,San Isidro,Comida rápida,25.57,31.0,4.0
+303,2025-09-12,22,Miraflores,Criolla,70.44,27.0,4.0
+2652,2025-06-13,12,San Borja,Saludable,33.4,29.0,5.0
+1277,2026-03-07,19,Miraflores,Saludable,58.4,38.0,3.0
+2680,2025-12-10,17,Surco,Comida rápida,15.65,31.0,4.0
+625,2026-02-25,19,San Borja,Comida rápida,50.66,48.0,4.0
+2056,2025-11-09,19,San Borja,Postres,39.65,36.0,5.0
+1281,2025-10-08,0,San Borja,Pizza,61.23,31.0,5.0
+1050,2025-07-28,12,Miraflores,Criolla,39.27,,3.0
+337,2025-12-19,18,Miraflores,Comida rápida,24.06,25.0,4.0
+48,2026-01-29,12,La Molina,Postres,25.48,53.0,4.0
+107,2026-01-16,19,La Molina,Pizza,45.99,72.0,3.0
+1080,2025-10-04,19,Miraflores,Pizza,59.52,35.0,3.0
+2262,2025-12-04,19,San Isidro,Saludable,48.57,41.0,3.0
+1145,2025-09-10,16,San Borja,Postres,22.15,29.0,5.0
+2424,2025-10-07,18,Miraflores,Saludable,43.76,31.0,4.0
+1837,2025-08-30,3,Miraflores,Criolla,36.48,20.0,5.0
+1754,2026-02-04,20,San Borja,Criolla,45.45,43.0,2.0
+1102,2025-12-02,12,San Isidro,Criolla,65.79,32.0,4.0
+1969,2025-10-11,11,La Molina,Comida rápida,39.72,35.0,4.0
+524,2025-06-04,20,San Borja,Comida rápida,33.44,38.0,4.0
+2281,2025-09-07,12,La Molina,Pizza,72.79,58.0,3.0
+1429,2025-05-17,21,La Molina,Saludable,60.74,58.0,2.0
+2651,2025-07-27,14,Surco,Criolla,25.87,36.0,4.0
+604,2026-01-08,15,Miraflores,Criolla,44.96,17.0,5.0
+1490,2025-10-08,4,San Isidro,Comida rápida,29.53,29.0,
+2591,2025-09-17,12,Miraflores,Criolla,55.7,40.0,4.0
+61,2025-07-20,12,Surco,Pizza,60.02,48.0,
+2795,2026-04-15,12,Surco,Pizza,50.05,40.0,3.0
+672,2025-05-20,21,San Isidro,Pizza,63.37,25.0,
+93,2025-05-15,2,San Borja,Comida rápida,22.55,41.0,3.0
+667,2026-01-07,13,Miraflores,Comida rápida,39.82,38.0,5.0
+1888,2026-03-03,19,Miraflores,Comida rápida,17.51,36.0,4.0
+281,2025-08-24,2,Surco,Comida rápida,41.9,39.0,
+1720,2025-06-27,19,Surco,Pizza,53.07,44.0,3.0
+360,2025-10-21,11,San Isidro,Comida rápida,37.41,10.0,5.0
+900,2025-12-25,5,Surco,Comida rápida,14.2,47.0,
+1936,2025-05-18,19,San Isidro,Postres,28.18,41.0,2.0
+1995,2025-11-20,22,Miraflores,Saludable,32.15,15.0,4.0
+2350,2025-12-23,12,Surco,Comida rápida,35.23,41.0,3.0
+761,2026-02-12,21,San Isidro,Comida rápida,28.0,33.0,4.0
+2159,2025-09-18,13,Miraflores,Postres,31.58,44.0,3.0
+2667,2025-09-05,12,San Borja,Saludable,18.6,44.0,3.0
+43,2026-03-03,12,La Molina,Criolla,50.48,50.0,3.0
+2174,2025-05-02,15,Miraflores,Pizza,69.98,28.0,5.0
+205,2025-11-03,13,La Molina,Saludable,29.55,64.0,2.0
+1474,2025-10-06,14,Surco,Criolla,40.24,32.0,4.0
+2101,2026-04-04,13,San Isidro,Postres,18.8,22.0,5.0
+69,2025-11-07,17,Miraflores,Criolla,46.63,38.0,4.0
+1876,2025-12-29,13,La Molina,Criolla,45.82,90.0,2.0
+2417,2025-07-31,13,Miraflores,Comida rápida,19.37,28.0,4.0
+2232,2025-08-16,19,Miraflores,Comida rápida,36.71,35.0,4.0
+138,2025-10-26,19,Miraflores,Comida rápida,17.0,52.0,4.0
+797,2026-04-12,13,Surco,Saludable,41.26,,
+2181,2026-04-16,13,San Isidro,Pizza,47.04,31.0,4.0
+2129,2026-02-28,8,San Isidro,Comida rápida,44.47,30.0,3.0
+759,2025-11-21,13,Miraflores,Comida rápida,36.23,37.0,4.0
+542,2025-11-08,21,San Isidro,Criolla,60.74,21.0,5.0
+1020,2025-08-03,20,La Molina,Pizza,67.23,62.0,2.0
+2326,2026-02-03,21,San Isidro,Saludable,49.62,38.0,5.0
+166,2025-08-16,12,Surco,Criolla,61.95,34.0,4.0
+249,2025-09-05,12,Surco,Saludable,53.6,42.0,2.0
+1332,2025-08-17,22,Surco,Comida rápida,37.15,36.0,3.0
+2018,2025-10-08,13,San Borja,Postres,13.11,45.0,3.0
+447,2025-05-01,19,San Borja,Comida rápida,32.28,35.0,4.0
+1359,2025-08-06,14,San Borja,Saludable,29.44,29.0,4.0
+2146,2025-05-21,18,Surco,Comida rápida,30.67,34.0,5.0
+1330,2025-10-01,13,San Borja,Pizza,46.25,39.0,4.0
+2958,2025-10-14,20,Surco,Pizza,46.93,41.0,4.0
+2151,2025-09-01,19,Miraflores,Comida rápida,18.76,29.0,
+435,2026-01-30,12,Miraflores,Criolla,40.33,41.0,2.0
+2123,2026-03-26,7,San Isidro,Pizza,48.79,31.0,4.0
+578,2025-09-21,11,Surco,Comida rápida,42.37,23.0,4.0
+2429,2025-06-29,13,Surco,Pizza,58.88,30.0,4.0
+2787,2025-07-29,14,San Isidro,Comida rápida,31.7,38.0,5.0
+1849,2025-06-10,13,Surco,Criolla,49.16,58.0,1.0
+763,2026-04-13,21,San Isidro,Pizza,40.84,,4.0
+389,2025-07-31,21,Surco,Criolla,48.64,35.0,4.0
+236,2025-09-01,14,La Molina,Comida rápida,31.03,46.0,3.0
+2649,2025-06-19,14,San Isidro,Pizza,59.98,32.0,3.0
+1985,2026-01-31,18,San Isidro,Criolla,73.41,23.0,5.0
+268,2025-06-06,22,Miraflores,Comida rápida,33.45,34.0,
+771,2026-01-14,13,La Molina,Pizza,38.15,44.0,4.0
+2166,2025-12-25,13,Surco,Saludable,41.98,25.0,5.0
+438,2026-04-11,13,San Isidro,Postres,28.57,42.0,3.0
+674,2025-12-19,13,Surco,Comida rápida,31.75,44.0,4.0
+250,2025-06-08,20,La Molina,Comida rápida,30.98,51.0,2.0
+2202,2025-12-06,9,Miraflores,Pizza,96.81,23.0,4.0
+1575,2025-07-01,15,Surco,Criolla,44.12,36.0,5.0
+2143,2026-03-22,14,Miraflores,Criolla,63.25,27.0,5.0
+2082,2025-07-02,14,Miraflores,Postres,22.26,16.0,5.0
+2662,2025-05-23,13,Surco,Comida rápida,17.69,43.0,4.0
+2612,2025-11-29,12,San Borja,Postres,17.09,56.0,2.0
+2785,2026-04-24,6,Miraflores,Comida rápida,28.63,23.0,5.0
+449,2026-02-14,20,Surco,Criolla,47.59,28.0,4.0
+1470,2025-12-09,12,San Borja,Criolla,45.45,53.0,2.0
+717,2026-02-10,13,Surco,Saludable,54.42,36.0,
+473,2025-12-24,6,San Isidro,Criolla,47.77,40.0,4.0
+2659,2025-11-07,12,Miraflores,Criolla,40.41,22.0,
+2049,2025-10-04,12,Miraflores,Comida rápida,18.06,24.0,5.0
+1902,2025-08-01,19,San Borja,Criolla,34.43,43.0,2.0
+1169,2026-03-05,13,Surco,Comida rápida,31.66,38.0,4.0
+83,2025-11-24,19,Miraflores,Comida rápida,43.55,36.0,3.0
+2463,2025-07-02,19,San Borja,Pizza,45.95,42.0,4.0
+1461,2026-03-31,0,San Isidro,Pizza,51.71,29.0,4.0
+1894,2026-04-17,12,Miraflores,Pizza,48.08,46.0,4.0
+1669,2026-02-19,13,Miraflores,Pizza,69.24,50.0,
+2001,2025-10-03,16,La Molina,Saludable,44.77,41.0,4.0
+476,2026-04-06,20,La Molina,Pizza,60.88,64.0,2.0
+518,2026-02-09,22,Miraflores,Comida rápida,31.81,23.0,5.0
+405,2026-03-01,13,Surco,Comida rápida,33.9,55.0,4.0
+385,2026-03-17,13,San Borja,Postres,34.71,43.0,3.0
+2472,2025-12-15,10,La Molina,Comida rápida,28.54,,2.0
+2153,2026-02-16,14,Miraflores,Comida rápida,34.52,36.0,4.0
+1634,2025-10-15,13,Miraflores,Comida rápida,31.02,27.0,3.0
+2907,2025-07-04,15,San Isidro,Comida rápida,33.04,12.0,5.0
+689,2025-08-30,18,La Molina,Criolla,65.59,47.0,4.0
+1241,2026-04-24,23,Surco,Saludable,55.63,57.0,1.0
+63,2026-04-25,11,La Molina,Postres,21.23,54.0,4.0
+853,2026-04-11,19,Surco,Postres,21.59,30.0,5.0
+2897,2026-04-19,0,La Molina,Saludable,49.08,,4.0
+2517,2025-05-17,22,San Isidro,Comida rápida,26.71,24.0,4.0
+1263,2025-06-20,13,Surco,Pizza,59.26,42.0,3.0
+224,2025-10-31,14,La Molina,Pizza,51.15,46.0,4.0
+2194,2025-10-19,14,San Borja,Comida rápida,29.07,31.0,4.0
+374,2025-10-17,13,San Isidro,Comida rápida,27.88,45.0,3.0
+1825,2025-12-11,9,La Molina,Comida rápida,45.46,26.0,5.0
+2579,2026-02-16,9,Miraflores,Comida rápida,23.33,23.0,5.0
+2917,2025-08-06,12,San Borja,Comida rápida,43.06,40.0,4.0
+2943,2025-08-24,14,Surco,Criolla,37.69,26.0,4.0
+2729,2025-05-04,19,La Molina,Postres,29.47,54.0,3.0
+10,2025-12-01,21,San Isidro,Criolla,40.94,33.0,5.0
+1945,2025-07-26,20,Surco,Criolla,68.9,34.0,3.0
+1839,2025-08-14,12,Miraflores,Criolla,45.48,26.0,4.0
+709,2025-06-04,21,Miraflores,Pizza,55.23,25.0,5.0
+256,2026-02-22,13,San Isidro,Criolla,28.06,40.0,4.0
+1618,2026-03-14,18,San Isidro,Postres,25.37,39.0,4.0
+390,2026-04-19,12,Miraflores,Pizza,63.64,36.0,4.0
+1582,2025-08-28,7,Miraflores,Comida rápida,41.27,26.0,4.0
+925,2025-08-19,19,Miraflores,Criolla,37.05,38.0,4.0
+2037,2026-02-18,22,La Molina,Criolla,46.22,48.0,2.0
+2441,2025-08-07,22,Miraflores,Comida rápida,48.43,30.0,4.0
+1225,2026-02-10,19,Surco,Saludable,44.74,43.0,
+1947,2025-05-14,21,Surco,Criolla,44.66,37.0,5.0
+740,2025-08-07,11,Miraflores,Criolla,55.47,39.0,5.0
+41,2026-03-16,12,Surco,Postres,24.65,36.0,5.0
+869,2026-03-15,20,Surco,Pizza,54.69,44.0,3.0
+540,2025-10-11,20,San Borja,Criolla,43.78,34.0,4.0
+2552,2025-09-10,19,Surco,Criolla,41.17,57.0,1.0
+1372,2026-03-03,12,San Isidro,Pizza,61.49,34.0,3.0
+1146,2026-02-17,6,San Isidro,Comida rápida,36.02,26.0,4.0
+1032,2025-06-29,19,San Isidro,Comida rápida,24.43,35.0,5.0
+373,2025-06-08,12,Surco,Pizza,53.92,54.0,2.0
+668,2025-12-15,12,San Isidro,Comida rápida,33.44,36.0,4.0
+358,2026-03-19,19,San Isidro,Saludable,51.59,34.0,5.0
+968,2025-07-14,19,Surco,Comida rápida,34.09,38.0,
+1354,2026-03-09,19,Surco,Pizza,66.32,45.0,3.0
+1036,2026-01-22,13,Miraflores,Comida rápida,31.67,41.0,2.0
+471,2025-06-16,19,Surco,Criolla,52.45,40.0,3.0
+1397,2025-06-05,1,San Isidro,Saludable,49.87,18.0,4.0
+2665,2025-08-16,22,Surco,Comida rápida,41.31,44.0,3.0
+1550,2026-04-14,14,Miraflores,Comida rápida,48.86,33.0,
+1257,2026-03-24,13,San Borja,Pizza,46.65,41.0,3.0
+2095,2025-08-10,12,Surco,Saludable,46.88,55.0,3.0
+1556,2025-12-12,21,San Borja,Pizza,47.4,23.0,4.0
+2633,2025-12-22,12,La Molina,Postres,19.43,58.0,2.0
+1251,2025-05-08,19,San Isidro,Pizza,55.72,38.0,4.0
+1700,2025-05-17,13,San Borja,Saludable,38.6,22.0,5.0
+1253,2026-03-09,20,Miraflores,Pizza,62.68,35.0,3.0
+2828,2026-04-29,12,San Isidro,Saludable,46.79,36.0,5.0
+80,2025-11-06,18,Surco,Comida rápida,27.3,35.0,3.0
+1173,2025-08-25,18,Miraflores,Pizza,39.1,33.0,4.0
+815,2025-06-03,12,Miraflores,Pizza,29.75,33.0,5.0
+1853,2025-10-25,5,San Isidro,Pizza,74.68,29.0,5.0
+2221,2025-08-08,13,La Molina,Criolla,58.28,54.0,3.0
+2673,2025-09-21,14,La Molina,Pizza,50.97,46.0,2.0
+2106,2026-03-06,11,San Borja,Saludable,46.83,37.0,5.0
+134,2025-11-23,13,Miraflores,Saludable,31.59,30.0,4.0
+1141,2026-03-12,23,La Molina,Criolla,49.33,50.0,2.0
+934,2025-08-09,13,San Isidro,Pizza,37.91,38.0,4.0
+929,2025-08-19,11,Miraflores,Comida rápida,29.35,34.0,5.0
+824,2026-01-04,13,Miraflores,Comida rápida,44.04,32.0,5.0
+1532,2026-02-17,19,La Molina,Criolla,34.11,53.0,2.0
+1215,2026-01-12,1,Surco,Comida rápida,31.16,32.0,5.0
+505,2025-09-29,19,San Borja,Criolla,34.05,27.0,4.0
+2663,2025-05-30,16,Miraflores,Pizza,44.71,30.0,4.0
+2396,2026-03-06,12,Miraflores,Criolla,37.6,14.0,5.0
+1997,2026-03-01,13,San Borja,Criolla,30.52,35.0,4.0
+2435,2025-09-07,21,San Isidro,Comida rápida,31.59,37.0,3.0
+1959,2025-09-07,13,Miraflores,Pizza,73.52,26.0,4.0
+1385,2025-12-18,22,San Isidro,Pizza,22.43,26.0,4.0
+895,2025-05-07,12,San Borja,Saludable,48.54,36.0,5.0
+829,2025-05-08,12,San Borja,Saludable,22.4,46.0,4.0
+2968,2026-02-21,11,San Borja,Saludable,37.81,23.0,4.0
+1684,2026-03-22,22,La Molina,Pizza,36.21,47.0,
+2654,2025-10-18,16,Miraflores,Postres,27.09,30.0,3.0
+2602,2025-05-10,6,San Isidro,Comida rápida,15.3,44.0,4.0
+2554,2026-02-01,12,San Isidro,Postres,19.53,55.0,4.0
+653,2026-03-08,20,La Molina,Criolla,44.23,69.0,1.0
+173,2025-12-17,14,San Isidro,Comida rápida,22.68,29.0,4.0
+39,2025-06-24,18,Miraflores,Comida rápida,28.27,27.0,
+2908,2026-03-26,14,La Molina,Saludable,39.45,43.0,2.0
+714,2026-02-27,13,Miraflores,Criolla,44.56,38.0,5.0
+91,2025-06-10,23,San Isidro,Pizza,47.14,47.0,2.0
+1104,2025-05-15,20,Surco,Criolla,57.71,46.0,3.0
+1206,2025-10-24,18,Surco,Pizza,47.54,36.0,4.0
+2629,2026-04-25,19,Miraflores,Postres,26.04,40.0,5.0
+1828,2025-07-16,5,Surco,Pizza,55.34,33.0,5.0
+1156,2025-11-30,21,San Borja,Saludable,38.78,37.0,3.0
+1325,2025-11-17,19,Surco,Comida rápida,41.01,38.0,5.0
+217,2025-10-19,9,San Isidro,Comida rápida,28.27,32.0,5.0
+511,2026-01-23,12,San Borja,Saludable,28.57,,4.0
+1681,2026-04-09,20,San Isidro,Pizza,30.32,17.0,5.0
+500,2026-04-01,20,San Isidro,Criolla,49.36,36.0,4.0
+2520,2025-09-07,20,San Borja,Postres,25.22,38.0,3.0
+1857,2026-03-14,19,Surco,Criolla,41.45,56.0,3.0
+1389,2025-06-24,13,La Molina,Criolla,42.05,47.0,3.0
+1520,2025-09-19,18,San Borja,Pizza,73.61,55.0,3.0
+2387,2026-04-12,13,Miraflores,Comida rápida,38.06,29.0,4.0
+2767,2025-08-21,19,Miraflores,Criolla,60.26,37.0,4.0
+2077,2025-07-08,12,La Molina,Comida rápida,21.27,54.0,4.0
+1541,2026-03-29,18,La Molina,Criolla,29.69,48.0,3.0
+1218,2025-12-01,20,San Isidro,Saludable,62.18,34.0,4.0
+1417,2026-02-15,16,Surco,Criolla,43.26,42.0,4.0
+2218,2025-06-19,3,Surco,Comida rápida,51.53,31.0,4.0
+2561,2025-06-20,12,San Isidro,Comida rápida,46.25,39.0,4.0
+1677,2026-04-25,18,Miraflores,Postres,26.93,32.0,4.0
+1198,2025-07-02,19,San Isidro,Criolla,55.95,30.0,5.0
+1543,2025-09-30,8,San Isidro,Criolla,38.64,38.0,5.0
+954,2025-08-03,18,Miraflores,Criolla,51.71,10.0,
+751,2025-11-18,12,San Borja,Criolla,37.84,36.0,4.0
+235,2025-11-17,19,San Isidro,Postres,20.85,25.0,5.0
+733,2025-12-03,14,San Borja,Pizza,63.3,29.0,4.0
+2797,2025-08-26,14,Miraflores,Criolla,48.48,27.0,4.0
+1157,2026-01-22,15,Miraflores,Pizza,67.36,28.0,3.0
+2617,2025-08-30,22,Miraflores,Criolla,56.64,18.0,5.0
+2446,2026-01-18,14,Miraflores,Criolla,59.93,14.0,5.0
+1210,2025-07-02,13,Miraflores,Comida rápida,25.03,38.0,4.0
+1066,2025-09-30,18,Miraflores,Comida rápida,31.37,42.0,3.0
+2157,2026-03-20,13,San Borja,Criolla,52.2,45.0,4.0
+1063,2025-05-23,16,San Borja,Comida rápida,35.45,24.0,4.0
+1168,2025-09-26,19,Miraflores,Pizza,60.97,48.0,2.0
+1493,2026-03-07,21,Miraflores,Comida rápida,19.7,16.0,5.0
+2515,2025-08-13,9,Surco,Postres,34.0,36.0,4.0
+885,2025-11-30,17,San Borja,Comida rápida,41.86,38.0,
+144,2025-08-04,3,Miraflores,Saludable,52.14,24.0,5.0
+2990,2025-05-08,12,San Borja,Pizza,66.34,42.0,2.0
+851,2025-12-19,22,Surco,Comida rápida,32.96,37.0,5.0
+718,2025-12-28,20,Surco,Pizza,61.97,47.0,4.0
+2890,2026-03-23,13,La Molina,Comida rápida,28.69,58.0,1.0
+2503,2025-06-21,19,San Borja,Saludable,49.91,53.0,3.0
+265,2026-02-28,6,San Borja,Comida rápida,33.54,,4.0
+76,2026-02-28,12,Surco,Comida rápida,40.6,36.0,3.0
+2493,2025-10-11,21,Miraflores,Saludable,37.9,26.0,4.0
+396,2025-09-30,12,La Molina,Criolla,49.17,42.0,2.0
+2589,2025-09-26,8,San Borja,Comida rápida,17.83,44.0,2.0
+2225,2026-04-10,20,Miraflores,Comida rápida,27.86,23.0,4.0
+2847,2025-12-03,22,San Isidro,Pizza,51.05,,5.0
+397,2025-11-02,19,La Molina,Postres,23.58,44.0,4.0
+1366,2025-06-15,13,Miraflores,Comida rápida,37.37,22.0,5.0
+2542,2025-07-26,9,Surco,Saludable,59.51,36.0,4.0
+1904,2026-04-18,20,Miraflores,Pizza,56.56,37.0,3.0
+596,2025-12-07,12,San Isidro,Criolla,67.26,34.0,4.0
+2110,2025-07-04,21,La Molina,Pizza,80.51,42.0,3.0
+1297,2025-05-20,21,Miraflores,Saludable,26.18,30.0,4.0
+1822,2025-12-28,11,La Molina,Pizza,68.41,36.0,
+873,2025-05-26,13,San Borja,Pizza,63.22,38.0,3.0
+2959,2026-02-03,14,Surco,Postres,12.5,29.0,5.0
+2327,2026-04-13,0,Miraflores,Saludable,57.12,16.0,5.0
+1549,2025-09-25,11,La Molina,Saludable,47.1,41.0,3.0
+37,2025-06-20,19,San Borja,Comida rápida,40.68,58.0,3.0
+2951,2026-01-03,12,San Isidro,Comida rápida,38.2,32.0,4.0
+2144,2026-02-26,13,San Isidro,Criolla,51.93,42.0,2.0
+2600,2025-12-12,19,Miraflores,Comida rápida,25.12,40.0,4.0
+978,2025-05-26,8,Surco,Saludable,42.46,49.0,3.0
+1572,2025-06-30,13,Miraflores,Criolla,39.2,37.0,
+1123,2025-05-11,19,San Isidro,Saludable,48.18,29.0,5.0
+2240,2025-10-07,23,La Molina,Comida rápida,32.23,41.0,3.0
+2505,2026-01-07,18,San Borja,Pizza,33.64,37.0,3.0
+1893,2025-06-06,10,La Molina,Pizza,77.55,61.0,1.0
+676,2025-05-14,22,Miraflores,Pizza,14.21,24.0,5.0
+729,2026-01-22,21,San Isidro,Pizza,46.34,32.0,5.0
+413,2025-06-22,13,Miraflores,Postres,27.99,33.0,5.0
+1517,2025-07-04,14,San Borja,Pizza,40.39,35.0,
+1650,2025-11-04,11,Surco,Comida rápida,36.49,42.0,3.0
+826,2025-10-30,14,La Molina,Comida rápida,32.15,33.0,3.0
+617,2026-04-04,12,San Isidro,Comida rápida,36.44,28.0,4.0
+115,2025-06-02,12,Surco,Comida rápida,36.32,45.0,3.0
+418,2025-11-12,15,Miraflores,Pizza,52.79,30.0,3.0
+1626,2025-06-09,22,San Borja,Postres,43.56,42.0,3.0
+2987,2025-06-09,22,Miraflores,Criolla,41.1,35.0,4.0
+90,2025-11-04,17,La Molina,Saludable,34.9,39.0,4.0
+2083,2025-07-12,14,San Isidro,Comida rápida,34.26,40.0,3.0
+754,2025-07-24,22,La Molina,Pizza,41.2,53.0,3.0
+2547,2025-07-26,15,Surco,Saludable,43.56,35.0,5.0
+1631,2025-12-02,4,La Molina,Comida rápida,38.27,53.0,3.0
+12,2025-07-27,19,San Isidro,Saludable,46.01,38.0,3.0
+2445,2025-11-06,12,Miraflores,Criolla,54.81,50.0,4.0
+285,2026-04-05,19,San Borja,Pizza,43.18,30.0,5.0
+1067,2025-09-22,19,La Molina,Criolla,63.67,46.0,3.0
+1192,2025-10-27,0,Surco,Criolla,50.05,38.0,5.0
+1441,2025-07-20,19,Surco,Pizza,43.5,41.0,3.0
+2849,2025-07-09,20,San Isidro,Postres,25.53,31.0,4.0
+2848,2025-11-21,11,Surco,Pizza,40.67,31.0,5.0
+2756,2025-11-08,13,San Borja,Comida rápida,50.5,47.0,3.0
+1569,2025-08-07,22,Surco,Comida rápida,37.63,44.0,3.0
+2428,2025-09-07,22,San Borja,Postres,23.57,29.0,4.0
+2621,2025-06-08,11,Miraflores,Pizza,45.32,40.0,4.0
+1688,2026-03-15,22,Miraflores,Saludable,58.96,28.0,4.0
+852,2025-05-12,20,Surco,Pizza,64.11,45.0,2.0
+2208,2025-09-02,21,San Borja,Comida rápida,41.03,24.0,5.0
+896,2025-05-03,22,Surco,Saludable,59.19,33.0,4.0
+497,2025-05-04,1,Miraflores,Criolla,87.45,43.0,2.0
+2306,2026-01-19,18,Surco,Pizza,56.27,24.0,4.0
+1783,2025-12-14,20,Surco,Pizza,35.3,51.0,4.0
+336,2025-08-07,12,San Borja,Criolla,21.89,27.0,4.0
+516,2025-06-12,20,Miraflores,Postres,22.0,36.0,4.0
+1349,2025-07-26,13,San Borja,Postres,36.42,50.0,4.0
+1016,2026-01-28,11,Surco,Pizza,50.86,58.0,
+2856,2025-07-23,20,San Isidro,Criolla,57.08,32.0,4.0
+2851,2026-03-25,20,Surco,Comida rápida,35.54,27.0,5.0
+1782,2026-04-05,14,La Molina,Saludable,37.5,41.0,3.0
+2570,2025-08-19,19,Miraflores,Pizza,65.67,41.0,4.0
+1786,2026-03-15,21,San Isidro,Criolla,50.64,33.0,3.0
+2071,2025-05-01,20,La Molina,Comida rápida,37.62,48.0,3.0
+357,2025-06-27,13,La Molina,Comida rápida,35.68,31.0,4.0
+2900,2025-10-16,14,San Borja,Comida rápida,34.33,29.0,4.0
+1313,2025-12-01,21,La Molina,Criolla,72.68,47.0,3.0
+1636,2026-04-18,21,La Molina,Comida rápida,29.23,57.0,1.0
+551,2025-12-10,18,Miraflores,Postres,30.27,39.0,4.0
+2389,2025-11-22,18,Miraflores,Pizza,47.82,21.0,5.0
+2480,2025-07-18,10,San Isidro,Criolla,37.05,29.0,5.0
+2522,2025-06-17,13,La Molina,Comida rápida,27.22,69.0,1.0
+2266,2025-10-14,13,Miraflores,Comida rápida,44.28,33.0,5.0
+1228,2025-05-18,18,San Isidro,Pizza,61.96,26.0,5.0
+2725,2025-05-20,18,San Borja,Saludable,60.9,32.0,4.0
+958,2026-01-02,18,Surco,Comida rápida,32.59,33.0,5.0
+1774,2026-03-12,13,Surco,Saludable,57.79,43.0,3.0
+2142,2026-04-08,21,San Borja,Saludable,31.63,32.0,4.0
+1009,2025-10-15,13,Surco,Pizza,57.8,34.0,3.0
+1093,2025-08-31,20,La Molina,Comida rápida,27.38,67.0,2.0
+2719,2026-04-24,7,San Borja,Criolla,58.89,28.0,4.0
+997,2026-02-17,14,San Borja,Criolla,38.1,33.0,3.0
+1680,2025-11-04,14,La Molina,Comida rápida,28.35,41.0,
+154,2026-03-23,12,Miraflores,Postres,25.34,31.0,3.0
+2830,2025-06-26,13,La Molina,Criolla,56.94,50.0,4.0
+581,2025-05-25,11,Miraflores,Postres,34.07,33.0,4.0
+1471,2025-08-11,18,La Molina,Comida rápida,33.84,46.0,2.0
+704,2025-11-17,13,La Molina,Postres,25.05,49.0,2.0
+1213,2025-06-18,19,San Isidro,Comida rápida,32.0,33.0,5.0
+897,2025-08-19,20,San Borja,Pizza,52.62,46.0,2.0
+488,2025-08-08,22,San Isidro,Postres,28.81,12.0,4.0
+560,2026-02-10,2,San Isidro,Comida rápida,35.15,34.0,5.0
+1142,2025-10-18,19,San Borja,Criolla,44.07,36.0,4.0
+1120,2026-02-07,20,Surco,Pizza,62.16,48.0,4.0
+513,2025-07-04,5,Miraflores,Saludable,42.16,21.0,4.0
+634,2025-07-30,1,San Borja,Saludable,47.11,47.0,2.0
+2628,2026-02-26,20,San Isidro,Comida rápida,28.08,31.0,4.0
+1665,2026-01-13,11,La Molina,Criolla,46.25,25.0,4.0
+1013,2026-03-15,22,Surco,Comida rápida,21.37,25.0,5.0
+1932,2025-09-02,21,Miraflores,Criolla,57.43,20.0,5.0
+1151,2026-02-11,11,San Borja,Pizza,44.56,27.0,3.0
+2853,2025-12-14,13,San Isidro,Comida rápida,34.3,26.0,5.0
+117,2025-07-01,19,San Borja,Comida rápida,42.59,34.0,3.0
+741,2026-03-07,11,San Isidro,Pizza,70.49,37.0,4.0
+2809,2025-07-13,12,Miraflores,Comida rápida,28.7,38.0,3.0
+1975,2025-08-26,20,Miraflores,Criolla,37.62,31.0,3.0
+1082,2025-12-17,14,Surco,Postres,22.11,38.0,4.0
+1811,2025-06-10,13,Miraflores,Pizza,16.73,26.0,3.0
+831,2025-10-31,9,Miraflores,Postres,35.81,14.0,4.0
+120,2025-08-07,13,La Molina,Saludable,41.55,44.0,2.0
+657,2025-06-13,20,San Isidro,Criolla,74.13,21.0,4.0
+2834,2025-06-05,22,Surco,Saludable,23.77,35.0,3.0
+2737,2025-06-24,4,Surco,Criolla,54.26,28.0,4.0
+2980,2026-01-18,13,San Isidro,Comida rápida,37.56,33.0,5.0
+636,2026-04-11,21,La Molina,Criolla,49.22,49.0,3.0
+370,2026-02-23,21,Surco,Criolla,39.31,,4.0
+269,2025-10-07,2,Surco,Pizza,36.94,38.0,4.0
+47,2025-10-14,12,Miraflores,Comida rápida,39.53,31.0,4.0
+992,2025-05-01,1,La Molina,Criolla,60.79,47.0,3.0
+877,2025-08-21,13,San Isidro,Saludable,42.75,38.0,4.0
+774,2025-06-23,14,La Molina,Comida rápida,31.06,55.0,4.0
+1220,2026-03-14,20,La Molina,Pizza,49.14,60.0,2.0
+1127,2025-06-07,13,Surco,Comida rápida,37.29,45.0,3.0
+5,2025-07-11,18,Miraflores,Pizza,80.17,29.0,3.0
+1596,2026-03-28,15,Miraflores,Comida rápida,31.33,10.0,5.0
+2312,2026-02-27,16,Miraflores,Comida rápida,32.17,38.0,5.0
+2492,2025-10-07,9,San Borja,Postres,24.67,45.0,3.0
+1078,2025-05-15,12,Surco,Comida rápida,34.01,42.0,2.0
+838,2025-10-07,20,Surco,Pizza,47.27,37.0,3.0
+682,2025-05-12,10,Surco,Comida rápida,39.89,35.0,4.0
+1716,2025-05-29,14,Miraflores,Criolla,29.07,47.0,2.0
+2353,2026-04-06,14,Surco,Comida rápida,26.05,42.0,
+2618,2025-06-01,11,Miraflores,Saludable,47.47,10.0,5.0
+2362,2026-03-07,5,Miraflores,Saludable,46.57,40.0,3.0
+2198,2025-09-18,12,La Molina,Comida rápida,25.47,32.0,3.0
+1149,2025-08-14,13,Miraflores,Postres,26.06,31.0,3.0
+575,2025-12-09,18,Miraflores,Criolla,51.3,28.0,4.0
+51,2025-05-14,13,Miraflores,Saludable,28.01,30.0,
+854,2025-06-15,5,San Borja,Comida rápida,20.68,41.0,3.0
+1983,2026-01-12,13,La Molina,Postres,29.09,56.0,
+1824,2025-05-02,12,Surco,Comida rápida,45.99,32.0,5.0
+834,2026-04-17,5,La Molina,Comida rápida,32.27,51.0,2.0
+1116,2025-12-29,11,Surco,Comida rápida,31.54,36.0,4.0
+1167,2025-06-24,12,San Isidro,Comida rápida,28.94,39.0,4.0
+2519,2025-09-06,18,San Borja,Pizza,62.78,28.0,4.0
+1907,2026-04-15,12,Miraflores,Saludable,28.63,41.0,3.0
+972,2025-08-26,16,Miraflores,Comida rápida,45.27,27.0,4.0
+400,2025-09-02,20,San Borja,Comida rápida,45.75,36.0,5.0
+2560,2025-05-28,22,Miraflores,Postres,28.91,,5.0
+2369,2025-05-12,14,Miraflores,Postres,23.8,30.0,3.0
+20,2026-04-09,5,Surco,Saludable,40.12,44.0,2.0
+685,2026-01-27,19,San Borja,Comida rápida,34.14,19.0,5.0
+36,2025-10-22,14,Surco,Pizza,65.38,41.0,4.0
+2877,2025-05-21,15,Miraflores,Comida rápida,46.26,31.0,
+525,2025-12-01,16,Miraflores,Postres,26.42,22.0,4.0
+2456,2026-04-24,12,San Isidro,Comida rápida,29.78,43.0,2.0
+921,2025-07-06,18,Miraflores,Comida rápida,30.55,38.0,4.0
+1842,2026-03-13,13,San Borja,Postres,26.39,39.0,4.0
+1891,2025-11-27,8,San Isidro,Comida rápida,32.08,45.0,2.0
+538,2026-02-01,19,La Molina,Pizza,56.71,51.0,3.0
+1706,2026-03-02,21,La Molina,Comida rápida,30.62,29.0,3.0
+2979,2026-01-23,18,Surco,Comida rápida,58.29,26.0,3.0
+246,2026-04-17,14,San Borja,Pizza,62.94,31.0,3.0
+785,2025-07-05,13,Surco,Postres,19.21,42.0,2.0
+1410,2025-09-06,14,Miraflores,Saludable,22.83,37.0,4.0
+2538,2026-04-08,17,San Isidro,Saludable,56.19,40.0,
+155,2025-11-03,11,Miraflores,Comida rápida,37.26,35.0,5.0
+1687,2025-12-10,5,Miraflores,Postres,26.0,27.0,3.0
+626,2025-09-09,1,Surco,Comida rápida,42.37,35.0,4.0
+2924,2026-02-18,22,Surco,Comida rápida,39.67,40.0,4.0
+1347,2025-09-30,13,San Isidro,Criolla,43.35,31.0,4.0
+570,2025-12-19,19,Surco,Comida rápida,33.5,35.0,4.0
+2981,2026-04-01,20,San Borja,Saludable,70.73,34.0,4.0
+1759,2025-05-27,21,Miraflores,Pizza,66.2,39.0,4.0
+1817,2025-07-25,13,La Molina,Pizza,49.93,60.0,1.0
+2066,2025-07-15,19,La Molina,Criolla,62.83,64.0,2.0
+128,2026-01-12,12,Miraflores,Criolla,55.4,29.0,5.0
+1127,2025-06-07,13,Surco,Comida rápida,37.29,45.0,3.0
+2007,2026-02-17,13,San Isidro,Comida rápida,41.17,37.0,5.0
+981,2025-09-10,21,San Borja,Saludable,33.34,38.0,5.0
+2239,2025-09-20,20,Miraflores,Pizza,97.58,45.0,4.0
+191,2026-03-11,11,San Isidro,Criolla,55.87,40.0,3.0
+1140,2025-08-12,12,San Isidro,Postres,37.61,34.0,5.0
+993,2025-07-29,0,Miraflores,Comida rápida,32.14,33.0,4.0
+700,2025-06-10,20,Surco,Criolla,41.54,59.0,2.0
+607,2025-10-21,20,La Molina,Saludable,35.79,50.0,2.0
+181,2026-04-24,20,Surco,Pizza,37.44,48.0,2.0
+302,2026-02-28,11,Surco,Saludable,54.98,28.0,4.0
+2545,2026-03-29,19,San Borja,Pizza,31.12,38.0,4.0
+2823,2026-03-22,18,La Molina,Comida rápida,25.43,48.0,3.0
+1061,2025-09-02,17,La Molina,Criolla,31.16,43.0,3.0
+2867,2026-01-03,18,San Borja,Saludable,29.32,37.0,3.0
+2926,2025-09-15,21,Miraflores,Saludable,41.15,21.0,5.0
+2566,2025-05-08,19,San Isidro,Comida rápida,41.68,53.0,3.0
+1070,2025-08-12,20,La Molina,Comida rápida,13.31,43.0,2.0
+2525,2025-05-10,19,San Isidro,Saludable,39.65,,5.0
+2206,2025-05-10,12,San Isidro,Saludable,47.34,30.0,4.0
+1244,2026-01-21,13,San Isidro,Pizza,54.91,32.0,4.0
+17,2025-09-27,19,Surco,Pizza,67.98,45.0,3.0
+730,2026-04-06,12,Surco,Postres,17.3,36.0,4.0
+547,2025-08-04,18,San Borja,Pizza,54.45,31.0,3.0
+659,2025-10-07,12,Surco,Postres,20.38,38.0,4.0
+2750,2025-08-17,19,San Isidro,Pizza,66.29,41.0,3.0
+2781,2025-06-16,12,Surco,Criolla,74.64,41.0,4.0
+1505,2026-02-26,19,San Isidro,Postres,26.98,45.0,2.0
+960,2025-05-31,14,Miraflores,Comida rápida,34.41,33.0,
+2332,2026-04-25,21,Surco,Criolla,29.97,41.0,3.0
+798,2026-03-04,22,La Molina,Criolla,56.71,49.0,2.0
+226,2026-01-10,14,San Isidro,Saludable,35.53,39.0,4.0
+2075,2025-06-22,19,La Molina,Postres,35.86,47.0,4.0
+1800,2025-10-13,12,Surco,Saludable,44.0,35.0,5.0
+2486,2025-11-29,12,La Molina,Saludable,42.85,48.0,3.0
+482,2026-04-22,20,Miraflores,Criolla,27.92,43.0,3.0
+2278,2026-01-24,20,San Borja,Comida rápida,25.62,45.0,3.0
+2086,2025-07-28,11,Surco,Criolla,74.0,31.0,4.0
+1694,2025-11-12,21,San Isidro,Saludable,41.42,25.0,5.0
+1046,2026-04-04,20,Miraflores,Criolla,58.16,43.0,4.0
+470,2025-07-08,19,Miraflores,Comida rápida,42.21,28.0,
+955,2025-09-29,20,Miraflores,Comida rápida,33.07,33.0,4.0
+364,2026-04-07,13,San Borja,Postres,27.14,37.0,3.0
+2736,2025-11-02,21,San Isidro,Pizza,44.68,35.0,4.0
+640,2025-10-20,12,San Isidro,Pizza,58.1,29.0,4.0
+2826,2025-10-21,21,San Isidro,Postres,26.32,45.0,4.0
+1219,2025-11-27,11,Surco,Postres,27.56,45.0,4.0
+1159,2026-02-26,20,Surco,Saludable,40.58,46.0,2.0
+1416,2025-06-08,0,La Molina,Saludable,38.21,36.0,5.0
+2759,2025-12-14,13,La Molina,Criolla,54.75,51.0,2.0
+1528,2026-03-01,13,Surco,Comida rápida,27.66,48.0,3.0
+2969,2025-10-11,19,Surco,Comida rápida,23.7,38.0,3.0
+1301,2025-12-08,17,San Borja,Postres,19.47,40.0,4.0
+2914,2025-06-26,14,Miraflores,Postres,19.5,23.0,4.0
+1604,2025-06-07,15,San Borja,Comida rápida,34.14,46.0,3.0
+161,2025-06-14,13,Miraflores,Criolla,39.59,36.0,4.0
+1705,2025-11-26,6,Miraflores,Comida rápida,29.51,21.0,5.0
+957,2025-09-14,20,Miraflores,Postres,21.89,33.0,4.0
+2963,2026-03-03,20,San Borja,Saludable,43.92,41.0,4.0
+878,2026-04-20,11,San Isidro,Comida rápida,31.13,22.0,
+1920,2025-08-13,20,Surco,Comida rápida,32.09,,4.0
+1885,2026-03-05,6,La Molina,Criolla,38.61,36.0,5.0
+2201,2025-11-30,19,San Borja,Comida rápida,27.33,52.0,2.0
+99,2026-04-09,18,Surco,Postres,23.14,40.0,5.0
+2875,2025-10-12,12,Surco,Postres,25.9,30.0,4.0
+2558,2025-09-16,20,Surco,Comida rápida,37.66,,4.0
+254,2026-01-22,12,Surco,Comida rápida,29.84,49.0,2.0
+104,2025-07-20,14,Miraflores,Comida rápida,19.05,26.0,5.0
+1446,2025-07-28,12,Surco,Saludable,48.34,44.0,2.0
+1444,2025-11-16,23,Surco,Pizza,45.1,41.0,3.0
+1649,2025-10-02,20,San Isidro,Comida rápida,45.41,33.0,4.0
+587,2025-08-17,13,Miraflores,Comida rápida,35.44,30.0,4.0
+628,2025-07-09,14,San Borja,Pizza,66.93,18.0,5.0
+1697,2026-03-20,19,San Borja,Pizza,49.96,44.0,2.0
+2102,2026-04-30,19,Miraflores,Criolla,41.41,38.0,3.0
+2200,2026-02-01,12,Surco,Saludable,24.07,36.0,3.0
+404,2026-04-07,11,La Molina,Saludable,23.14,39.0,4.0
+1155,2026-02-21,22,Surco,Postres,26.78,40.0,3.0
+2256,2025-12-27,4,San Borja,Comida rápida,30.69,37.0,5.0
+1683,2025-10-10,6,Surco,Criolla,64.31,35.0,4.0
+2057,2026-03-07,13,Surco,Pizza,56.84,35.0,3.0
+2892,2026-02-13,20,La Molina,Saludable,42.49,59.0,1.0
+453,2025-06-17,20,San Isidro,Pizza,57.53,37.0,4.0
+2302,2026-02-15,18,San Borja,Comida rápida,32.27,24.0,5.0
+1328,2025-12-21,19,San Borja,Criolla,63.25,39.0,3.0
+2050,2026-04-17,12,Miraflores,Postres,31.72,27.0,4.0
+881,2025-11-23,19,Surco,Pizza,23.61,52.0,3.0
+2966,2025-07-13,13,La Molina,Pizza,50.94,65.0,2.0
+624,2025-12-03,13,San Borja,Criolla,34.06,33.0,4.0
+2394,2026-02-05,20,La Molina,Saludable,28.91,49.0,3.0
+2819,2025-09-06,21,Surco,Postres,12.0,29.0,3.0
+1788,2025-08-25,12,San Borja,Saludable,37.81,32.0,3.0
+263,2025-06-29,2,La Molina,Comida rápida,34.42,49.0,3.0
+1635,2025-07-31,12,Surco,Postres,22.71,59.0,1.0
+1439,2026-01-19,19,Surco,Comida rápida,38.89,41.0,4.0
+2199,2025-08-26,21,Surco,Criolla,55.8,35.0,4.0
+1970,2026-02-25,21,Miraflores,Postres,29.51,31.0,4.0
+2521,2025-06-29,6,Surco,Postres,26.66,44.0,4.0
+1803,2026-02-25,23,San Isidro,Saludable,55.63,20.0,4.0
+641,2025-09-18,19,San Borja,Comida rápida,21.75,36.0,3.0
+2386,2025-07-05,19,Miraflores,Pizza,67.91,17.0,5.0
+2599,2026-02-12,20,Miraflores,Pizza,63.24,27.0,5.0
+2878,2025-07-21,11,San Borja,Comida rápida,29.05,35.0,4.0
+1960,2025-12-17,11,Surco,Comida rápida,34.98,36.0,5.0
+489,2026-02-14,12,San Borja,Postres,36.98,42.0,4.0
+1844,2025-05-09,21,San Borja,Postres,23.11,46.0,4.0
+1735,2025-05-22,18,San Isidro,Comida rápida,23.94,22.0,5.0
+147,2025-12-23,13,La Molina,Criolla,46.6,34.0,5.0
+1535,2026-02-19,19,La Molina,Pizza,44.57,67.0,1.0
+1987,2025-10-18,19,Surco,Pizza,69.09,46.0,3.0
+1370,2026-04-28,13,Miraflores,Comida rápida,36.58,37.0,4.0
+2451,2026-01-15,19,Surco,Postres,26.02,30.0,4.0
+2984,2026-02-07,20,Surco,Postres,27.17,41.0,3.0
+2812,2026-04-21,21,Miraflores,Criolla,50.09,27.0,4.0
+660,2025-10-20,20,San Borja,Postres,21.08,47.0,4.0
+1795,2026-02-01,12,Surco,Criolla,40.96,53.0,2.0
+2512,2025-05-21,21,Miraflores,Pizza,57.76,36.0,3.0
+187,2026-03-03,20,Surco,Comida rápida,23.69,47.0,2.0
+1148,2025-09-04,13,San Borja,Criolla,56.63,33.0,4.0
+609,2025-10-15,12,San Isidro,Comida rápida,27.7,34.0,3.0
+2192,2026-01-18,21,San Isidro,Saludable,54.1,25.0,4.0
+2800,2026-04-30,19,Miraflores,Comida rápida,17.72,29.0,4.0
+1931,2026-01-01,6,Surco,Saludable,28.89,28.0,5.0
+198,2025-06-21,18,Surco,Comida rápida,33.51,37.0,5.0
+2328,2025-08-23,12,Miraflores,Comida rápida,40.61,45.0,
+294,2026-03-06,16,San Borja,Comida rápida,27.41,31.0,
+767,2025-10-01,20,Surco,Comida rápida,25.82,42.0,3.0
+401,2025-09-27,11,San Isidro,Criolla,32.52,42.0,2.0
+123,2025-11-30,14,Miraflores,Saludable,47.16,28.0,
+203,2025-08-21,13,San Isidro,Pizza,67.3,26.0,4.0
+836,2025-10-02,13,Miraflores,Pizza,48.9,34.0,4.0
+2295,2026-03-22,20,La Molina,Pizza,50.59,51.0,2.0
+1440,2025-09-26,21,San Borja,Postres,19.79,32.0,3.0
+1734,2025-07-23,12,Miraflores,Pizza,61.95,37.0,5.0
+1696,2025-12-28,11,San Isidro,Comida rápida,29.34,31.0,5.0
+2976,2025-11-26,12,San Borja,Postres,21.73,40.0,3.0
+1708,2025-11-08,19,San Borja,Comida rápida,34.85,34.0,3.0
+2961,2025-10-25,21,La Molina,Criolla,63.86,41.0,
+1154,2026-02-20,5,La Molina,Saludable,41.17,46.0,4.0
+1662,2025-06-08,20,San Borja,Pizza,35.29,42.0,3.0
+2433,2026-01-21,12,San Isidro,Saludable,30.96,35.0,3.0
+1760,2025-07-11,0,Surco,Comida rápida,29.55,16.0,4.0
+855,2025-06-03,6,Miraflores,Postres,29.52,35.0,5.0
+1590,2026-03-19,12,Surco,Criolla,47.91,51.0,3.0
+2268,2025-06-05,12,San Borja,Comida rápida,38.92,26.0,4.0
+642,2025-12-28,20,Surco,Criolla,39.01,54.0,2.0
+2,2026-04-14,13,Surco,Criolla,53.7,34.0,3.0
+2161,2026-02-14,14,Miraflores,Comida rápida,21.35,39.0,4.0
+699,2026-04-22,8,La Molina,Comida rápida,38.74,46.0,2.0
+1637,2025-06-28,21,San Borja,Comida rápida,38.87,26.0,4.0
+1292,2025-11-13,14,San Borja,Comida rápida,37.7,20.0,
+2904,2025-08-06,20,San Isidro,Criolla,50.31,31.0,4.0
+2490,2026-04-03,7,Miraflores,Pizza,55.38,16.0,4.0
+1521,2025-10-05,12,La Molina,Comida rápida,31.92,56.0,2.0
+1854,2026-04-13,13,San Isidro,Saludable,34.41,42.0,4.0
+1137,2025-08-12,11,Surco,Postres,27.9,40.0,3.0
+2993,2025-08-15,12,Surco,Comida rápida,26.66,29.0,4.0
+1632,2025-09-24,13,Surco,Criolla,53.31,30.0,3.0
+1999,2025-06-13,21,San Borja,Pizza,61.59,29.0,4.0
+664,2025-07-19,21,San Isidro,Comida rápida,29.35,20.0,5.0
+684,2025-12-10,12,Surco,Comida rápida,29.6,33.0,4.0
+1258,2025-06-23,11,La Molina,Postres,33.34,44.0,2.0
+318,2025-12-12,13,La Molina,Pizza,44.97,38.0,5.0
+649,2025-05-01,9,San Borja,Comida rápida,29.2,27.0,4.0
+1435,2026-03-14,12,Surco,Comida rápida,30.4,31.0,4.0
+1480,2025-09-08,17,Miraflores,Criolla,33.68,12.0,5.0
+710,2026-01-08,18,Surco,Comida rápida,29.08,29.0,3.0
+1283,2025-07-24,13,San Borja,Pizza,67.73,41.0,3.0
+1769,2025-06-19,17,Surco,Criolla,38.76,38.0,4.0
+973,2025-08-02,23,La Molina,Saludable,52.34,43.0,4.0
+2676,2026-04-29,19,San Isidro,Comida rápida,21.56,27.0,5.0
+2681,2026-03-16,12,Surco,Saludable,28.16,45.0,3.0
+1307,2026-02-04,20,San Borja,Criolla,50.33,42.0,4.0
+1401,2025-12-30,2,Surco,Pizza,65.18,33.0,4.0
+1409,2025-05-17,12,Miraflores,Criolla,50.08,43.0,2.0
+2238,2026-02-17,4,Surco,Pizza,36.83,30.0,4.0
+1497,2026-01-06,13,La Molina,Pizza,58.55,55.0,4.0
+2039,2025-09-28,13,La Molina,Comida rápida,25.48,50.0,2.0
+1530,2025-09-17,11,San Borja,Criolla,56.95,35.0,4.0
+1664,2026-04-21,20,Miraflores,Comida rápida,31.18,29.0,3.0
+1355,2026-02-11,21,Surco,Pizza,27.78,56.0,2.0
+2972,2025-06-24,18,Surco,Comida rápida,33.96,32.0,5.0
+2992,2025-10-23,20,Surco,Saludable,42.42,49.0,4.0
+1644,2026-04-10,7,San Isidro,Postres,35.43,30.0,4.0
+1052,2025-06-11,11,San Borja,Comida rápida,33.7,,4.0
+796,2026-03-31,12,San Isidro,Comida rápida,32.68,32.0,3.0
+2694,2026-03-10,22,Miraflores,Criolla,54.95,26.0,5.0
+1598,2025-05-09,13,Surco,Comida rápida,28.52,44.0,3.0
+2605,2025-10-30,12,Miraflores,Postres,25.5,45.0,
+2730,2025-12-07,13,Surco,Comida rápida,39.29,42.0,3.0
+2626,2025-09-26,12,La Molina,Criolla,62.79,41.0,4.0
+1820,2025-10-08,19,Surco,Criolla,23.59,46.0,2.0
+1723,2026-02-09,20,Surco,Saludable,37.75,48.0,4.0
+1184,2025-05-17,20,Surco,Comida rápida,29.9,41.0,3.0
+2573,2025-12-09,20,Miraflores,Postres,12.0,33.0,3.0
+1060,2025-10-26,19,Surco,Saludable,67.71,48.0,2.0
+541,2026-04-22,22,La Molina,Criolla,62.22,45.0,2.0
+1679,2026-04-19,20,La Molina,Comida rápida,41.58,,3.0
+2797,2025-08-26,14,Miraflores,Criolla,48.48,27.0,4.0
+2936,2025-07-07,7,San Borja,Criolla,38.4,32.0,5.0
+2533,2026-02-14,21,Miraflores,Pizza,60.92,21.0,4.0
+1758,2025-11-24,19,La Molina,Criolla,59.94,47.0,3.0
+1924,2025-12-14,12,Surco,Postres,22.31,42.0,4.0
+96,2026-04-10,8,San Isidro,Comida rápida,40.06,24.0,4.0
+1021,2026-03-01,18,Surco,Criolla,78.55,42.0,
+564,2025-12-03,20,San Borja,Comida rápida,35.17,39.0,
+2791,2025-06-19,13,Surco,Pizza,64.88,46.0,2.0
+864,2025-11-30,21,La Molina,Criolla,40.6,40.0,3.0
+1485,2025-06-08,14,Surco,Criolla,54.59,33.0,4.0
+1882,2025-10-20,19,Surco,Criolla,34.56,57.0,
+1039,2026-01-25,1,Surco,Pizza,63.39,45.0,3.0
+207,2025-05-02,12,La Molina,Criolla,55.93,41.0,4.0
+393,2025-12-01,14,Miraflores,Comida rápida,42.64,32.0,4.0
+2843,2025-08-28,12,Surco,Postres,37.15,44.0,
+871,2025-06-30,22,San Borja,Postres,36.72,,4.0
+398,2025-07-02,12,San Borja,Pizza,63.93,48.0,3.0
+2815,2026-01-15,3,Miraflores,Criolla,44.18,39.0,5.0
+2930,2026-03-15,13,La Molina,Criolla,32.59,64.0,3.0
+1029,2025-05-01,13,La Molina,Postres,24.54,64.0,1.0
+2691,2025-07-25,2,Surco,Criolla,50.04,23.0,5.0
+1486,2025-05-15,3,Surco,Comida rápida,27.76,42.0,3.0
+2661,2025-05-19,21,Miraflores,Pizza,61.08,40.0,5.0
+961,2025-06-09,6,San Borja,Pizza,46.6,19.0,5.0
+1571,2025-12-27,12,Surco,Saludable,30.24,42.0,4.0
+2774,2025-10-08,18,Miraflores,Pizza,41.37,24.0,
+1896,2026-04-26,11,Surco,Comida rápida,20.36,19.0,5.0
+2732,2025-05-03,12,Surco,Comida rápida,35.48,50.0,2.0
+2147,2025-08-15,18,Surco,Comida rápida,53.44,47.0,2.0
+805,2025-06-20,13,Surco,Comida rápida,36.63,49.0,3.0
+1752,2026-03-16,22,San Isidro,Saludable,32.11,36.0,4.0
+2455,2025-08-09,20,Surco,Criolla,40.51,,5.0
+503,2025-10-07,12,Surco,Comida rápida,42.3,50.0,2.0
+780,2026-01-10,18,Surco,Postres,12.0,16.0,5.0
+1864,2025-05-22,17,Miraflores,Criolla,39.95,39.0,5.0
+201,2025-08-21,21,San Isidro,Postres,24.33,26.0,5.0
+2183,2025-07-13,11,Surco,Criolla,57.51,35.0,4.0
+2089,2025-07-12,1,San Isidro,Criolla,43.52,30.0,4.0
+2279,2025-06-18,14,San Borja,Pizza,91.1,45.0,4.0
+1797,2026-03-16,14,Miraflores,Pizza,57.52,40.0,3.0
+379,2025-05-13,17,Surco,Pizza,51.24,30.0,4.0
+2337,2026-02-10,11,San Borja,Postres,13.36,28.0,4.0
+419,2026-01-17,20,San Borja,Pizza,66.7,32.0,5.0
+1699,2025-11-08,22,Miraflores,Pizza,56.88,34.0,3.0
+392,2026-02-12,19,Miraflores,Criolla,51.51,26.0,5.0
+2641,2025-05-22,0,Surco,Comida rápida,28.35,34.0,5.0
+1523,2025-09-23,13,Miraflores,Pizza,64.63,25.0,5.0
+1163,2025-10-29,7,Surco,Comida rápida,47.68,31.0,4.0
+1496,2025-06-03,20,Surco,Pizza,52.77,47.0,3.0
+2696,2025-05-12,13,Surco,Pizza,24.84,,3.0
+2028,2025-09-03,21,San Isidro,Criolla,41.47,34.0,5.0
+1153,2025-05-29,19,San Isidro,Criolla,59.35,28.0,5.0
+1368,2025-09-07,13,La Molina,Saludable,28.2,45.0,3.0
+2569,2025-06-07,13,Miraflores,Pizza,42.82,29.0,4.0
+65,2025-06-23,20,La Molina,Criolla,27.99,63.0,2.0
+2063,2025-09-13,20,San Isidro,Criolla,54.12,41.0,3.0
+1181,2026-02-18,21,Miraflores,Pizza,50.72,40.0,4.0
+493,2025-09-24,13,San Borja,Criolla,55.06,29.0,4.0
+380,2026-03-12,20,Surco,Pizza,73.48,27.0,5.0
+2236,2025-09-26,23,Surco,Pizza,56.47,,3.0
+764,2025-08-03,19,Surco,Criolla,77.35,40.0,4.0
+2265,2026-02-12,12,Miraflores,Pizza,60.23,42.0,2.0
+792,2026-03-02,12,Miraflores,Postres,26.52,35.0,5.0
+1077,2025-06-11,20,Miraflores,Postres,35.45,35.0,4.0
+879,2026-01-08,14,Surco,Criolla,60.4,40.0,4.0
+338,2025-06-06,12,La Molina,Saludable,36.23,48.0,2.0
+2768,2026-01-06,12,Surco,Postres,30.14,42.0,2.0
+2344,2025-06-07,12,San Isidro,Postres,30.67,22.0,4.0
+1017,2026-01-20,20,Miraflores,Pizza,63.84,20.0,5.0
+1276,2025-12-09,12,San Isidro,Pizza,67.66,,3.0
+456,2026-01-27,12,Miraflores,Pizza,50.3,31.0,4.0
+816,2026-01-17,13,Miraflores,Postres,22.24,38.0,5.0
+2318,2025-06-24,13,San Borja,Comida rápida,32.62,29.0,4.0
+996,2025-06-07,12,Miraflores,Criolla,36.12,33.0,4.0
+1982,2026-04-26,12,San Isidro,Postres,26.45,,3.0
+202,2025-08-09,13,Miraflores,Saludable,40.81,50.0,3.0
+162,2025-07-01,14,Miraflores,Criolla,59.71,12.0,
+1580,2025-12-13,19,San Isidro,Criolla,50.01,36.0,5.0
+2778,2025-12-26,19,San Isidro,Criolla,40.84,36.0,4.0
+2450,2026-01-15,12,Miraflores,Comida rápida,23.55,32.0,3.0
+703,2025-09-22,12,Miraflores,Pizza,32.82,37.0,3.0
+1501,2026-01-29,10,Miraflores,Pizza,75.99,23.0,5.0
+1130,2025-05-23,20,Miraflores,Pizza,46.72,40.0,4.0
+2614,2026-02-12,14,Miraflores,Criolla,36.84,32.0,4.0
+1022,2025-07-08,20,Miraflores,Postres,35.7,31.0,5.0
+1586,2026-04-22,19,Surco,Saludable,48.36,40.0,4.0
+1956,2025-05-14,13,Miraflores,Comida rápida,12.0,,
+2254,2025-09-02,11,San Borja,Comida rápida,43.49,31.0,5.0
+35,2025-11-06,23,La Molina,Comida rápida,40.89,,2.0
+776,2025-12-08,22,Surco,Comida rápida,31.07,40.0,5.0
+2557,2025-12-14,20,Miraflores,Pizza,45.03,26.0,3.0
+1479,2025-08-06,10,La Molina,Postres,20.05,43.0,
+1391,2025-09-29,12,Surco,Comida rápida,27.55,36.0,4.0
+2140,2026-01-26,22,San Borja,Saludable,50.59,38.0,3.0
+1364,2025-11-06,13,Miraflores,Postres,25.89,27.0,4.0
+2946,2025-10-15,21,San Borja,Comida rápida,16.39,30.0,3.0
+2613,2025-10-19,19,La Molina,Criolla,48.66,,3.0
+2825,2025-10-29,12,La Molina,Postres,30.66,56.0,2.0
+2042,2026-03-04,9,La Molina,Saludable,38.4,46.0,2.0
+242,2026-01-07,13,San Isidro,Comida rápida,45.42,41.0,3.0
+2062,2025-05-26,20,San Borja,Comida rápida,34.66,50.0,4.0
+2364,2025-09-20,12,Miraflores,Pizza,44.62,34.0,5.0
+601,2025-07-15,12,La Molina,Criolla,54.84,49.0,3.0
+2436,2026-01-22,23,La Molina,Pizza,44.39,58.0,3.0
+1298,2026-01-16,12,Surco,Saludable,43.54,57.0,
+2215,2026-04-12,18,Miraflores,Postres,23.21,36.0,4.0
+2889,2025-11-12,13,Miraflores,Pizza,41.4,32.0,3.0
+2069,2026-02-26,19,San Isidro,Comida rápida,46.9,40.0,4.0
+647,2026-03-13,11,La Molina,Criolla,43.59,37.0,4.0
+1529,2026-04-09,13,La Molina,Postres,30.75,70.0,3.0
+2880,2025-09-08,15,Surco,Saludable,57.37,37.0,4.0
+1268,2025-08-04,12,San Isidro,Comida rápida,27.59,38.0,5.0
+1900,2025-12-29,11,Miraflores,Comida rápida,33.24,29.0,5.0
+563,2025-07-23,20,Miraflores,Criolla,33.38,31.0,5.0
+2726,2026-01-28,23,Miraflores,Comida rápida,27.61,26.0,4.0
+2735,2026-04-01,20,San Isidro,Comida rápida,24.57,43.0,3.0
+1108,2025-10-04,11,San Isidro,Comida rápida,35.64,24.0,
+190,2025-09-29,19,San Borja,Saludable,40.22,44.0,2.0
+1807,2026-01-22,12,Miraflores,Criolla,46.15,44.0,2.0
+976,2026-03-31,19,Miraflores,Pizza,61.32,23.0,5.0
+2748,2025-11-27,14,La Molina,Postres,12.0,,3.0
+2048,2026-01-19,13,Surco,Saludable,28.24,43.0,3.0
+2559,2025-11-27,22,San Borja,Comida rápida,20.96,24.0,5.0
+1083,2025-10-04,22,San Isidro,Pizza,69.79,29.0,3.0
+475,2025-12-04,13,San Borja,Postres,21.6,47.0,4.0
+2905,2025-11-14,13,Miraflores,Saludable,57.32,17.0,5.0
+748,2025-05-23,7,La Molina,Postres,14.55,,4.0
+2301,2025-11-25,21,Miraflores,Criolla,45.66,26.0,3.0
+22,2025-11-08,1,Miraflores,Comida rápida,38.44,17.0,5.0
+460,2026-02-02,21,La Molina,Pizza,46.88,39.0,4.0
+1185,2025-09-05,20,Miraflores,Pizza,71.2,23.0,5.0
+2325,2025-12-23,19,La Molina,Saludable,47.75,53.0,2.0
+956,2026-03-07,20,Miraflores,Pizza,46.59,40.0,5.0
+1216,2025-12-10,11,Miraflores,Comida rápida,20.85,20.0,5.0
+2434,2026-04-10,20,La Molina,Pizza,41.56,59.0,3.0
+2854,2025-10-31,20,San Isidro,Comida rápida,45.4,28.0,4.0
+1516,2026-04-05,20,Miraflores,Criolla,60.68,30.0,4.0
+2392,2026-01-21,19,Miraflores,Criolla,59.9,42.0,
+770,2025-08-26,21,Miraflores,Comida rápida,47.62,22.0,5.0
+1686,2025-12-19,13,La Molina,Saludable,46.01,57.0,3.0
+131,2026-01-10,16,San Isidro,Criolla,54.74,29.0,5.0
+2920,2025-10-14,12,Miraflores,Comida rápida,26.69,33.0,4.0
+2136,2026-02-28,19,Surco,Comida rápida,20.59,39.0,4.0
+1483,2025-10-30,18,Miraflores,Comida rápida,30.44,43.0,3.0
+331,2025-10-19,14,Miraflores,Pizza,50.87,,4.0
+1239,2026-01-19,11,Surco,Criolla,58.0,39.0,5.0
+467,2025-11-01,13,San Isidro,Criolla,27.85,38.0,4.0
+2170,2025-09-21,9,Surco,Criolla,37.77,34.0,4.0
+1639,2026-02-28,11,San Borja,Criolla,51.5,34.0,4.0
+1096,2025-08-26,19,Surco,Comida rápida,33.75,38.0,3.0
+1131,2026-02-27,3,San Borja,Postres,29.43,37.0,5.0
+1295,2025-11-11,21,Surco,Criolla,61.34,45.0,3.0
+861,2026-01-04,18,Miraflores,Criolla,38.18,37.0,3.0
